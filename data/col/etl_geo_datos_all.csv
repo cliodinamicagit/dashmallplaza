@@ -1,0 +1,9 @@
+pais_iso3;classification;category;id_mall;name;lat;lng;rating;address;id_comuna;id_region;desc1;desc2;desc3;symbol;color;size
+PER;Mall;Centro Comercial;18;Mall Plaza Bellavista;-12.056009;-77.1024636;;;11278;15;operativo;;;20;red;15
+PER;Mall;Centro Comercial;19;Mall Plaza Arequipa;-16.390304;-71.546363;;;10332;4;operativo;;;20;red;15
+PER;Mall;Centro Comercial;20;Mall Plaza Trujillo;-8.1033911;-79.047961;;;11152;13;operativo;;;20;red;15
+COL;Mall;Centro Comercial;21;Mall Plaza Cartagena;10.424527;-75.540858;;;13001;13;operativo;;;20;red;15
+COL;Mall;Centro Comercial;22;Mall Plaza Manizales;5.065832;-75.490118;;;17001;17;operativo;;;20;red;15
+PER;Mall;Centro Comercial;23;Mall Plaza Comas;-11.93449899;-77.06422177;;;11062;12;en construcción;;;20;black;15
+COL;Mall;Centro Comercial;24;Mall Plaza Buenavista;11.01542884;-74.82699874;;;8001;8;en construcción;;;20;black;15
+COL;Mall;Centro Comercial;25;Mall Plaza Cali;3.413185691;-76.54890903;;;76001;76;en construcción;;;20;black;15

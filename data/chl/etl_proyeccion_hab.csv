@@ -1,0 +1,2077 @@
+Region;Comuna;id_relacion;ano;total
+XV Arica y Parinacota;Arica;15101;2015;235,677
+XV Arica y Parinacota;Camarones;15102;2015;778
+XV Arica y Parinacota;General Lagos;15202;2015;594
+XV Arica y Parinacota;Putre;15201;2015;2,077
+I Tarapacá;Alto Hospicio;1107;2015;112,142
+I Tarapacá;Camiña;1402;2015;1,293
+I Tarapacá;Colchane;1403;2015;1,696
+I Tarapacá;Huara;1404;2015;2,936
+I Tarapacá;Iquique;1101;2015;198,123
+I Tarapacá;Pica;1405;2015;6,639
+I Tarapacá;Pozo Almonte;1401;2015;13,940
+II Antofagasta;Antofagasta;2101;2015;378,244
+II Antofagasta;Calama;2201;2015;176,459
+II Antofagasta;María Elena;2302;2015;5,162
+II Antofagasta;Mejillones;2102;2015;11,309
+II Antofagasta;Ollagüe;2202;2015;313
+II Antofagasta;San Pedro de Atacama;2203;2015;7,418
+II Antofagasta;Sierra Gorda;2103;2015;3,095
+II Antofagasta;Taltal;2104;2015;13,050
+II Antofagasta;Tocopilla;2301;2015;27,590
+III Atacama;Alto del Carmen;3302;2015;6,305
+III Atacama;Caldera;3102;2015;17,542
+III Atacama;Chañaral;3201;2015;13,725
+III Atacama;Copiapó;3101;2015;172,231
+III Atacama;Diego de Almagro;3202;2015;15,224
+III Atacama;Freirina;3303;2015;6,915
+III Atacama;Huasco;3304;2015;10,263
+III Atacama;Tierra Amarilla;3103;2015;17,194
+III Atacama;Vallenar;3301;2015;53,087
+IV Coquimbo;Andacollo;4103;2015;11,415
+IV Coquimbo;Canela;4202;2015;9,903
+IV Coquimbo;Combarbalá;4302;2015;15,299
+IV Coquimbo;Coquimbo;4102;2015;231,507
+IV Coquimbo;Illapel;4201;2015;32,822
+IV Coquimbo;La Higuera;4104;2015;4,622
+IV Coquimbo;La Serena;4101;2015;216,874
+IV Coquimbo;Los Vilos;4203;2015;20,122
+IV Coquimbo;Monte Patria;4303;2015;33,796
+IV Coquimbo;Ovalle;4301;2015;120,469
+IV Coquimbo;Paiguano;4105;2015;4,492
+IV Coquimbo;Punitaqui;4304;2015;10,805
+IV Coquimbo;Río Hurtado;4305;2015;4,992
+IV Coquimbo;Salamanca;4204;2015;27,298
+IV Coquimbo;Vicuña;4106;2015;26,669
+V Valparaíso;Algarrobo;5602;2015;10,474
+V Valparaíso;Cabildo;5402;2015;20,117
+V Valparaíso;Calle Larga;5302;2015;14,405
+V Valparaíso;Cartagena;5603;2015;20,213
+V Valparaíso;Casablanca;5102;2015;28,831
+V Valparaíso;Catemu;5702;2015;13,960
+V Valparaíso;Concón;5103;2015;48,778
+V Valparaíso;El Quisco;5604;2015;13,093
+V Valparaíso;El Tabo;5605;2015;10,116
+V Valparaíso;Hijuelas;5503;2015;18,050
+V Valparaíso;Isla de Pascua;5201;2015;6,370
+V Valparaíso;Juan Fernández;5104;2015;857
+V Valparaíso;Calera;5502;2015;55,121
+V Valparaíso;La Cruz;5504;2015;19,145
+V Valparaíso;La Ligua;5401;2015;33,878
+V Valparaíso;Limache;5802;2015;45,398
+V Valparaíso;Llaillay;5703;2015;24,680
+V Valparaíso;Los Andes;5301;2015;68,041
+V Valparaíso;Nogales;5506;2015;23,783
+V Valparaíso;Olmué;5803;2015;15,987
+V Valparaíso;Panquehue;5704;2015;7,333
+V Valparaíso;Papudo;5403;2015;5,263
+V Valparaíso;Petorca;5404;2015;10,323
+V Valparaíso;Puchuncaví;5105;2015;17,762
+V Valparaíso;Putaendo;5705;2015;16,391
+V Valparaíso;Quillota;5501;2015;93,633
+V Valparaíso;Quilpué;5801;2015;168,070
+V Valparaíso;Quintero;5107;2015;27,667
+V Valparaíso;Rinconada;5303;2015;10,396
+V Valparaíso;San Antonio;5601;2015;96,764
+V Valparaíso;San Esteban;5304;2015;18,480
+V Valparaíso;San Felipe;5701;2015;73,842
+V Valparaíso;Santa María;5706;2015;15,665
+V Valparaíso;Santo Domingo;5606;2015;9,299
+V Valparaíso;Valparaíso;5101;2015;295,489
+V Valparaíso;Villa Alemana;5804;2015;138,348
+V Valparaíso;Viña del Mar;5109;2015;323,530
+V Valparaíso;Zapallar;5405;2015;6,205
+Región Metropolitana;Alhué;13502;2015;5,728
+Región Metropolitana;Buin;13402;2015;83,211
+Región Metropolitana;Calera de Tango;13403;2015;24,577
+Región Metropolitana;Cerrillos;13102;2015;85,349
+Región Metropolitana;Cerro Navia;13103;2015;158,299
+Región Metropolitana;Colina;13301;2015;121,233
+Región Metropolitana;Conchalí;13104;2015;141,089
+Región Metropolitana;Curacaví;13503;2015;29,641
+Región Metropolitana;El Bosque;13105;2015;193,915
+Región Metropolitana;El Monte;13602;2015;35,673
+Región Metropolitana;Estación Central;13106;2015;144,982
+Región Metropolitana;Huechuraba;13107;2015;95,912
+Región Metropolitana;Independencia;13108;2015;83,059
+Región Metropolitana;Isla de Maipo;13603;2015;35,298
+Región Metropolitana;La Cisterna;13109;2015;92,580
+Región Metropolitana;La Florida;13110;2015;388,805
+Región Metropolitana;La Granja;13111;2015;143,237
+Región Metropolitana;La Pintana;13112;2015;212,656
+Región Metropolitana;La Reina;13113;2015;101,548
+Región Metropolitana;Lampa;13302;2015;86,975
+Región Metropolitana;Las Condes;13114;2015;283,417
+Región Metropolitana;Lo Barnechea;13115;2015;103,919
+Región Metropolitana;Lo Espejo;13116;2015;120,014
+Región Metropolitana;Lo Prado;13117;2015;112,879
+Región Metropolitana;Macul;13118;2015;124,015
+Región Metropolitana;Maipú;13119;2015;549,788
+Región Metropolitana;María Pinto;13504;2015;12,901
+Región Metropolitana;Melipilla;13501;2015;116,680
+Región Metropolitana;Ñuñoa;13120;2015;220,779
+Región Metropolitana;Padre Hurtado;13604;2015;55,909
+Región Metropolitana;Paine;13404;2015;66,855
+Región Metropolitana;Pedro Aguirre Cerda;13121;2015;122,304
+Región Metropolitana;Peñaflor;13605;2015;89,892
+Región Metropolitana;Peñalolén;13122;2015;242,766
+Región Metropolitana;Pirque;13202;2015;21,998
+Región Metropolitana;Providencia;13123;2015;147,533
+Región Metropolitana;Pudahuel;13124;2015;233,252
+Región Metropolitana;Puente Alto;13201;2015;610,118
+Región Metropolitana;Quilicura;13125;2015;209,417
+Región Metropolitana;Quinta Normal;13126;2015;114,958
+Región Metropolitana;Recoleta;13127;2015;168,342
+Región Metropolitana;Renca;13128;2015;151,500
+Región Metropolitana;San Bernardo;13401;2015;297,262
+Región Metropolitana;San Joaquín;13129;2015;104,327
+Región Metropolitana;San José de Maipo;13203;2015;15,003
+Región Metropolitana;San Miguel;13130;2015;110,237
+Región Metropolitana;San Pedro;13505;2015;9,621
+Región Metropolitana;San Ramón;13131;2015;99,749
+Región Metropolitana;Santiago;13101;2015;358,332
+Región Metropolitana;Talagante;13601;2015;70,720
+Región Metropolitana;Tiltil;13303;2015;17,599
+Región Metropolitana;Vitacura;13132;2015;88,323
+VI O'Higgins;Chépica;6302;2015;16,081
+VI O'Higgins;Chimbarongo;6303;2015;37,424
+VI O'Higgins;Codegua;6102;2015;14,166
+VI O'Higgins;Coinco;6103;2015;7,191
+VI O'Higgins;Coltauco;6104;2015;19,703
+VI O'Higgins;Doñihue;6105;2015;20,318
+VI O'Higgins;Graneros;6106;2015;33,726
+VI O'Higgins;La Estrella;6202;2015;3,305
+VI O'Higgins;Las Cabras;6107;2015;23,960
+VI O'Higgins;Litueche;6203;2015;6,303
+VI O'Higgins;Lolol;6304;2015;6,994
+VI O'Higgins;Machalí;6108;2015;51,665
+VI O'Higgins;Malloa;6109;2015;13,861
+VI O'Higgins;Marchihue;6204;2015;7,594
+VI O'Higgins;Mostazal;6110;2015;26,433
+VI O'Higgins;Nancagua;6305;2015;17,075
+VI O'Higgins;Navidad;6205;2015;5,958
+VI O'Higgins;Olivar;6111;2015;15,025
+VI O'Higgins;Palmilla;6306;2015;13,260
+VI O'Higgins;Paredones;6206;2015;6,439
+VI O'Higgins;Peralillo;6307;2015;11,562
+VI O'Higgins;Peumo;6112;2015;16,089
+VI O'Higgins;Pichidegua;6113;2015;20,216
+VI O'Higgins;Pichilemu;6201;2015;14,408
+VI O'Higgins;Placilla;6308;2015;9,254
+VI O'Higgins;Pumanque;6309;2015;3,470
+VI O'Higgins;Quinta de Tilcoco;6114;2015;13,241
+VI O'Higgins;Rancagua;6101;2015;233,389
+VI O'Higgins;Rengo;6115;2015;61,102
+VI O'Higgins;Requínoa;6116;2015;31,405
+VI O'Higgins;San Fernando;6301;2015;73,586
+VI O'Higgins;San Vicente;6117;2015;46,985
+VI O'Higgins;Santa Cruz;6310;2015;37,563
+VII Maule;Cauquenes;7201;2015;40,661
+VII Maule;Chanco;7202;2015;9,103
+VII Maule;Colbún;7402;2015;19,444
+VII Maule;Constitución;7102;2015;50,754
+VII Maule;Curepto;7103;2015;10,852
+VII Maule;Curicó;7301;2015;144,025
+VII Maule;Empedrado;7104;2015;4,478
+VII Maule;Hualañé;7302;2015;10,241
+VII Maule;Licantén;7303;2015;7,267
+VII Maule;Linares;7401;2015;91,030
+VII Maule;Longaví;7403;2015;29,526
+VII Maule;Maule;7105;2015;49,334
+VII Maule;Molina;7304;2015;42,273
+VII Maule;Parral;7404;2015;38,686
+VII Maule;Pelarco;7106;2015;7,936
+VII Maule;Pelluhue;7203;2015;7,623
+VII Maule;Pencahue;7107;2015;8,845
+VII Maule;Rauco;7305;2015;10,044
+VII Maule;Retiro;7405;2015;19,706
+VII Maule;Río Claro;7108;2015;13,509
+VII Maule;Romeral;7306;2015;15,112
+VII Maule;Sagrada Familia;7307;2015;19,537
+VII Maule;San Clemente;7109;2015;41,556
+VII Maule;San Javier;7406;2015;41,099
+VII Maule;San Rafael;7110;2015;9,782
+VII Maule;Talca;7101;2015;233,339
+VII Maule;Teno;7308;2015;28,504
+VII Maule;Vichuquén;7309;2015;5,134
+VII Maule;Villa Alegre;7407;2015;15,350
+VII Maule;Yerbas Buenas;7408;2015;18,239
+VIII Biobío;Alto Biobío;8314;2015;6,118
+VIII Biobío;Antuco;8302;2015;3,945
+VIII Biobío;Arauco;8202;2015;38,270
+VIII Biobío;Bulnes;16102;2015;21,963
+VIII Biobío;Cabrero;8303;2015;29,136
+VIII Biobío;Cañete;8203;2015;34,202
+VIII Biobío;Chiguayante;8103;2015;99,036
+VIII Biobío;Chillán;16101;2015;179,632
+VIII Biobío;Chillán Viejo;16103;2015;32,319
+VIII Biobío;Cobquecura;16202;2015;5,715
+VIII Biobío;Coelemu;16203;2015;16,950
+VIII Biobío;Coihueco;16302;2015;25,843
+VIII Biobío;Concepción;8101;2015;229,017
+VIII Biobío;Contulmo;8204;2015;5,581
+VIII Biobío;Coronel;8102;2015;115,062
+VIII Biobío;Curanilahue;8205;2015;34,894
+VIII Biobío;El Carmen;16104;2015;12,898
+VIII Biobío;Florida;8104;2015;8,939
+VIII Biobío;Hualpén;8112;2015;108,028
+VIII Biobío;Hualqui;8105;2015;25,266
+VIII Biobío;Laja;8304;2015;24,040
+VIII Biobío;Lebu;8201;2015;26,567
+VIII Biobío;Los Alamos;8206;2015;23,588
+VIII Biobío;Los Angeles;8301;2015;194,870
+VIII Biobío;Lota;8106;2015;47,821
+VIII Biobío;Mulchén;8305;2015;30,485
+VIII Biobío;Nacimiento;8306;2015;28,392
+VIII Biobío;Negrete;8307;2015;10,252
+VIII Biobío;Ninhue;16204;2015;5,827
+VIII Biobío;Ñiquén;16303;2015;11,665
+VIII Biobío;Pemuco;16105;2015;9,294
+VIII Biobío;Penco;8107;2015;51,611
+VIII Biobío;Pinto;16106;2015;11,307
+VIII Biobío;Portezuelo;16205;2015;5,635
+VIII Biobío;Quilaco;8308;2015;4,103
+VIII Biobío;Quilleco;8309;2015;10,033
+VIII Biobío;Quillón;16107;2015;16,840
+VIII Biobío;Quirihue;16201;2015;13,419
+VIII Biobío;Ranquil;16206;2015;6,049
+VIII Biobío;San Carlos;16301;2015;53,085
+VIII Biobío;San Fabián;16304;2015;4,044
+VIII Biobío;San Ignacio;16108;2015;16,019
+VIII Biobío;San Nicolás;16305;2015;11,451
+VIII Biobío;San Pedro de la Paz;8108;2015;130,703
+VIII Biobío;San Rosendo;8310;2015;3,936
+VIII Biobío;Santa Bárbara;8311;2015;12,929
+VIII Biobío;Santa Juana;8109;2015;13,705
+VIII Biobío;Talcahuano;8110;2015;178,052
+VIII Biobío;Tirúa;8207;2015;10,458
+VIII Biobío;Tomé;8111;2015;55,752
+VIII Biobío;Treguaco;16207;2015;5,318
+VIII Biobío;Tucapel;8312;2015;14,378
+VIII Biobío;Yumbel;8313;2015;21,596
+VIII Biobío;Yungay;16109;2015;18,248
+IX Araucanía;Angol;9201;2015;55,289
+IX Araucanía;Carahue;9102;2015;26,562
+IX Araucanía;Cholchol;9121;2015;11,834
+IX Araucanía;Collipulli;9202;2015;24,574
+IX Araucanía;Cunco;9103;2015;19,047
+IX Araucanía;Curacautín;9203;2015;17,221
+IX Araucanía;Curarrehue;9104;2015;7,443
+IX Araucanía;Ercilla;9204;2015;9,197
+IX Araucanía;Freire;9105;2015;24,746
+IX Araucanía;Galvarino;9106;2015;12,575
+IX Araucanía;Gorbea;9107;2015;15,684
+IX Araucanía;Lautaro;9108;2015;36,888
+IX Araucanía;Loncoche;9109;2015;23,425
+IX Araucanía;Lonquimay;9205;2015;10,957
+IX Araucanía;Los Sauces;9206;2015;7,847
+IX Araucanía;Lumaco;9207;2015;11,328
+IX Araucanía;Melipeuco;9110;2015;5,837
+IX Araucanía;Nueva Imperial;9111;2015;33,386
+IX Araucanía;Padre Las Casas;9112;2015;86,913
+IX Araucanía;Perquenco;9113;2015;7,267
+IX Araucanía;Pitrufquén;9114;2015;24,672
+IX Araucanía;Pucón;9115;2015;27,680
+IX Araucanía;Purén;9208;2015;12,973
+IX Araucanía;Renaico;9209;2015;10,582
+IX Araucanía;Saavedra;9116;2015;12,977
+IX Araucanía;Temuco;9101;2015;287,850
+IX Araucanía;Teodoro Schmidt;9117;2015;16,163
+IX Araucanía;Toltén;9118;2015;11,423
+IX Araucanía;Traiguén;9210;2015;19,835
+IX Araucanía;Victoria;9211;2015;34,950
+IX Araucanía;Vilcún;9119;2015;27,671
+IX Araucanía;Villarrica;9120;2015;55,002
+XIV Los Ríos;Corral;14102;2015;5,756
+XIV Los Ríos;Futrono;14202;2015;16,489
+XIV Los Ríos;La Unión;14201;2015;43,291
+XIV Los Ríos;Lago Ranco;14203;2015;10,837
+XIV Los Ríos;Lanco;14103;2015;17,620
+XIV Los Ríos;Los Lagos;14104;2015;22,593
+XIV Los Ríos;Máfil;14105;2015;7,460
+XIV Los Ríos;Mariquina;14106;2015;22,119
+XIV Los Ríos;Paillaco;14107;2015;20,883
+XIV Los Ríos;Panguipulli;14108;2015;36,408
+XIV Los Ríos;Río Bueno;14204;2015;33,115
+XIV Los Ríos;Valdivia;14101;2015;167,861
+X Los Lagos;Ancud;10202;2015;43,978
+X Los Lagos;Calbuco;10102;2015;34,864
+X Los Lagos;Castro;10201;2015;48,665
+X Los Lagos;Chaitén;10401;2015;3,740
+X Los Lagos;Chonchi;10203;2015;15,234
+X Los Lagos;Cochamó;10103;2015;4,124
+X Los Lagos;Curaco de Vélez;10204;2015;4,167
+X Los Lagos;Dalcahue;10205;2015;15,316
+X Los Lagos;Fresia;10104;2015;12,802
+X Los Lagos;Frutillar;10105;2015;17,272
+X Los Lagos;Futaleufú;10402;2015;3,382
+X Los Lagos;Hualaihué;10403;2015;11,051
+X Los Lagos;Llanquihue;10107;2015;18,083
+X Los Lagos;Los Muermos;10106;2015;16,569
+X Los Lagos;Maullín;10108;2015;15,722
+X Los Lagos;Osorno;10301;2015;157,630
+X Los Lagos;Palena;10404;2015;2,126
+X Los Lagos;Puerto Montt;10101;2015;243,825
+X Los Lagos;Puerto Octay;10302;2015;9,574
+X Los Lagos;Puerto Varas;10109;2015;40,756
+X Los Lagos;Puqueldón;10206;2015;4,021
+X Los Lagos;Purranque;10303;2015;21,417
+X Los Lagos;Puyehue;10304;2015;11,052
+X Los Lagos;Queilén;10207;2015;5,560
+X Los Lagos;Quellón;10208;2015;30,532
+X Los Lagos;Quemchi;10209;2015;9,091
+X Los Lagos;Quinchao;10210;2015;8,881
+X Los Lagos;Río Negro;10305;2015;13,674
+X Los Lagos;San Juan de la Costa;10306;2015;7,525
+X Los Lagos;San Pablo;10307;2015;10,490
+XI Aysén;Aisén;11201;2015;27,644
+XI Aysén;Chile Chico;11401;2015;5,098
+XI Aysén;Cisnes;11202;2015;5,341
+XI Aysén;Cochrane;11301;2015;3,356
+XI Aysén;Coihaique;11101;2015;60,482
+XI Aysén;Guaitecas;11203;2015;1,741
+XI Aysén;Lago Verde;11102;2015;996
+XI Aysén;O'Higgins;11302;2015;672
+XI Aysén;Río Ibáñez;11402;2015;2,347
+XI Aysén;Tortel;11303;2015;651
+XII Magallanes y la Antártica;Antártica;12202;2015;192
+XII Magallanes y la Antártica;Cabo de Hornos;12201;2015;2,828
+XII Magallanes y la Antártica;Laguna Blanca;12102;2015;581
+XII Magallanes y la Antártica;Natales;12401;2015;21,553
+XII Magallanes y la Antártica;Porvenir;12301;2015;7,446
+XII Magallanes y la Antártica;Primavera;12302;2015;531
+XII Magallanes y la Antártica;Punta Arenas;12101;2015;130,165
+XII Magallanes y la Antártica;Río Verde;12103;2015;121
+XII Magallanes y la Antártica;San Gregorio;12104;2015;321
+XII Magallanes y la Antártica;Timaukel;12303;2015;184
+XII Magallanes y la Antártica;Torres del Paine;12402;2015;739
+XV Arica y Parinacota;Arica;15101;2016;239,710
+XV Arica y Parinacota;Camarones;15102;2016;778
+XV Arica y Parinacota;General Lagos;15202;2016;577
+XV Arica y Parinacota;Putre;15201;2016;2,084
+I Tarapacá;Alto Hospicio;1107;2016;118,413
+I Tarapacá;Camiña;1402;2016;1,278
+I Tarapacá;Colchane;1403;2016;1,688
+I Tarapacá;Huara;1404;2016;2,943
+I Tarapacá;Iquique;1101;2016;199,629
+I Tarapacá;Pica;1405;2016;6,653
+I Tarapacá;Pozo Almonte;1401;2016;14,156
+II Antofagasta;Antofagasta;2101;2016;384,065
+II Antofagasta;Calama;2201;2016;179,200
+II Antofagasta;María Elena;2302;2016;5,000
+II Antofagasta;Mejillones;2102;2016;11,541
+II Antofagasta;Ollagüe;2202;2016;311
+II Antofagasta;San Pedro de Atacama;2203;2016;7,626
+II Antofagasta;Sierra Gorda;2103;2016;3,151
+II Antofagasta;Taltal;2104;2016;13,174
+II Antofagasta;Tocopilla;2301;2016;27,807
+III Atacama;Alto del Carmen;3302;2016;6,412
+III Atacama;Caldera;3102;2016;17,830
+III Atacama;Chañaral;3201;2016;13,698
+III Atacama;Copiapó;3101;2016;175,524
+III Atacama;Diego de Almagro;3202;2016;14,939
+III Atacama;Freirina;3303;2016;6,992
+III Atacama;Huasco;3304;2016;10,429
+III Atacama;Tierra Amarilla;3103;2016;17,530
+III Atacama;Vallenar;3301;2016;53,338
+IV Coquimbo;Andacollo;4103;2016;11,488
+IV Coquimbo;Canela;4202;2016;9,914
+IV Coquimbo;Combarbalá;4302;2016;15,379
+IV Coquimbo;Coquimbo;4102;2016;236,799
+IV Coquimbo;Illapel;4201;2016;32,887
+IV Coquimbo;La Higuera;4104;2016;4,686
+IV Coquimbo;La Serena;4101;2016;221,021
+IV Coquimbo;Los Vilos;4203;2016;20,259
+IV Coquimbo;Monte Patria;4303;2016;33,952
+IV Coquimbo;Ovalle;4301;2016;121,868
+IV Coquimbo;Paiguano;4105;2016;4,492
+IV Coquimbo;Punitaqui;4304;2016;10,868
+IV Coquimbo;Río Hurtado;4305;2016;4,997
+IV Coquimbo;Salamanca;4204;2016;27,410
+IV Coquimbo;Vicuña;4106;2016;26,781
+V Valparaíso;Algarrobo;5602;2016;10,588
+V Valparaíso;Cabildo;5402;2016;20,137
+V Valparaíso;Calle Larga;5302;2016;14,712
+V Valparaíso;Cartagena;5603;2016;20,396
+V Valparaíso;Casablanca;5102;2016;29,333
+V Valparaíso;Catemu;5702;2016;14,062
+V Valparaíso;Concón;5103;2016;50,154
+V Valparaíso;El Quisco;5604;2016;13,359
+V Valparaíso;El Tabo;5605;2016;10,351
+V Valparaíso;Hijuelas;5503;2016;18,143
+V Valparaíso;Isla de Pascua;5201;2016;6,600
+V Valparaíso;Juan Fernández;5104;2016;863
+V Valparaíso;Calera;5502;2016;55,343
+V Valparaíso;La Cruz;5504;2016;19,667
+V Valparaíso;La Ligua;5401;2016;33,883
+V Valparaíso;Limache;5802;2016;45,709
+V Valparaíso;Llaillay;5703;2016;24,826
+V Valparaíso;Los Andes;5301;2016;68,401
+V Valparaíso;Nogales;5506;2016;23,859
+V Valparaíso;Olmué;5803;2016;16,075
+V Valparaíso;Panquehue;5704;2016;7,361
+V Valparaíso;Papudo;5403;2016;5,310
+V Valparaíso;Petorca;5404;2016;10,351
+V Valparaíso;Puchuncaví;5105;2016;18,115
+V Valparaíso;Putaendo;5705;2016;16,469
+V Valparaíso;Quillota;5501;2016;94,749
+V Valparaíso;Quilpué;5801;2016;170,853
+V Valparaíso;Quintero;5107;2016;28,124
+V Valparaíso;Rinconada;5303;2016;10,703
+V Valparaíso;San Antonio;5601;2016;97,136
+V Valparaíso;San Esteban;5304;2016;18,765
+V Valparaíso;San Felipe;5701;2016;74,337
+V Valparaíso;Santa María;5706;2016;15,836
+V Valparaíso;Santo Domingo;5606;2016;9,432
+V Valparaíso;Valparaíso;5101;2016;295,731
+V Valparaíso;Villa Alemana;5804;2016;141,729
+V Valparaíso;Viña del Mar;5109;2016;325,195
+V Valparaíso;Zapallar;5405;2016;6,223
+Región Metropolitana;Alhué;13502;2016;5,816
+Región Metropolitana;Buin;13402;2016;84,651
+Región Metropolitana;Calera de Tango;13403;2016;25,060
+Región Metropolitana;Cerrillos;13102;2016;86,240
+Región Metropolitana;Cerro Navia;13103;2016;158,506
+Región Metropolitana;Colina;13301;2016;124,958
+Región Metropolitana;Conchalí;13104;2016;141,185
+Región Metropolitana;Curacaví;13503;2016;29,980
+Región Metropolitana;El Bosque;13105;2016;194,555
+Región Metropolitana;El Monte;13602;2016;36,377
+Región Metropolitana;Estación Central;13106;2016;145,749
+Región Metropolitana;Huechuraba;13107;2016;97,470
+Región Metropolitana;Independencia;13108;2016;84,354
+Región Metropolitana;Isla de Maipo;13603;2016;36,024
+Región Metropolitana;La Cisterna;13109;2016;92,831
+Región Metropolitana;La Florida;13110;2016;389,392
+Región Metropolitana;La Granja;13111;2016;143,558
+Región Metropolitana;La Pintana;13112;2016;213,702
+Región Metropolitana;La Reina;13113;2016;101,614
+Región Metropolitana;Lampa;13302;2016;91,936
+Región Metropolitana;Las Condes;13114;2016;285,140
+Región Metropolitana;Lo Barnechea;13115;2016;106,187
+Región Metropolitana;Lo Espejo;13116;2016;120,145
+Región Metropolitana;Lo Prado;13117;2016;113,146
+Región Metropolitana;Macul;13118;2016;124,492
+Región Metropolitana;Maipú;13119;2016;554,548
+Región Metropolitana;María Pinto;13504;2016;13,066
+Región Metropolitana;Melipilla;13501;2016;118,142
+Región Metropolitana;Ñuñoa;13120;2016;225,109
+Región Metropolitana;Padre Hurtado;13604;2016;57,287
+Región Metropolitana;Paine;13404;2016;68,101
+Región Metropolitana;Pedro Aguirre Cerda;13121;2016;122,462
+Región Metropolitana;Peñaflor;13605;2016;91,635
+Región Metropolitana;Peñalolén;13122;2016;243,847
+Región Metropolitana;Pirque;13202;2016;22,403
+Región Metropolitana;Providencia;13123;2016;149,165
+Región Metropolitana;Pudahuel;13124;2016;235,629
+Región Metropolitana;Puente Alto;13201;2016;617,914
+Región Metropolitana;Quilicura;13125;2016;216,857
+Región Metropolitana;Quinta Normal;13126;2016;115,592
+Región Metropolitana;Recoleta;13127;2016;169,372
+Región Metropolitana;Renca;13128;2016;152,399
+Región Metropolitana;San Bernardo;13401;2016;300,435
+Región Metropolitana;San Joaquín;13129;2016;104,588
+Región Metropolitana;San José de Maipo;13203;2016;15,083
+Región Metropolitana;San Miguel;13130;2016;112,686
+Región Metropolitana;San Pedro;13505;2016;9,765
+Región Metropolitana;San Ramón;13131;2016;99,860
+Región Metropolitana;Santiago;13101;2016;372,330
+Región Metropolitana;Talagante;13601;2016;71,378
+Región Metropolitana;Tiltil;13303;2016;17,773
+Región Metropolitana;Vitacura;13132;2016;88,548
+VI O'Higgins;Chépica;6302;2016;16,196
+VI O'Higgins;Chimbarongo;6303;2016;37,660
+VI O'Higgins;Codegua;6102;2016;14,392
+VI O'Higgins;Coinco;6103;2016;7,217
+VI O'Higgins;Coltauco;6104;2016;19,894
+VI O'Higgins;Doñihue;6105;2016;20,499
+VI O'Higgins;Graneros;6106;2016;34,212
+VI O'Higgins;La Estrella;6202;2016;3,314
+VI O'Higgins;Las Cabras;6107;2016;24,134
+VI O'Higgins;Litueche;6203;2016;6,355
+VI O'Higgins;Lolol;6304;2016;7,022
+VI O'Higgins;Machalí;6108;2016;53,118
+VI O'Higgins;Malloa;6109;2016;13,905
+VI O'Higgins;Marchihue;6204;2016;7,623
+VI O'Higgins;Mostazal;6110;2016;26,693
+VI O'Higgins;Nancagua;6305;2016;17,113
+VI O'Higgins;Navidad;6205;2016;5,980
+VI O'Higgins;Olivar;6111;2016;15,248
+VI O'Higgins;Palmilla;6306;2016;13,379
+VI O'Higgins;Paredones;6206;2016;6,389
+VI O'Higgins;Peralillo;6307;2016;11,658
+VI O'Higgins;Peumo;6112;2016;16,181
+VI O'Higgins;Pichidegua;6113;2016;20,317
+VI O'Higgins;Pichilemu;6201;2016;14,502
+VI O'Higgins;Placilla;6308;2016;9,293
+VI O'Higgins;Pumanque;6309;2016;3,469
+VI O'Higgins;Quinta de Tilcoco;6114;2016;13,333
+VI O'Higgins;Rancagua;6101;2016;234,048
+VI O'Higgins;Rengo;6115;2016;61,700
+VI O'Higgins;Requínoa;6116;2016;32,827
+VI O'Higgins;San Fernando;6301;2016;74,030
+VI O'Higgins;San Vicente;6117;2016;47,317
+VI O'Higgins;Santa Cruz;6310;2016;37,810
+VII Maule;Cauquenes;7201;2016;40,401
+VII Maule;Chanco;7202;2016;9,037
+VII Maule;Colbún;7402;2016;19,499
+VII Maule;Constitución;7102;2016;50,888
+VII Maule;Curepto;7103;2016;10,799
+VII Maule;Curicó;7301;2016;145,344
+VII Maule;Empedrado;7104;2016;4,477
+VII Maule;Hualañé;7302;2016;10,230
+VII Maule;Licantén;7303;2016;7,253
+VII Maule;Linares;7401;2016;91,193
+VII Maule;Longaví;7403;2016;29,486
+VII Maule;Maule;7105;2016;53,238
+VII Maule;Molina;7304;2016;42,409
+VII Maule;Parral;7404;2016;38,552
+VII Maule;Pelarco;7106;2016;7,944
+VII Maule;Pelluhue;7203;2016;7,678
+VII Maule;Pencahue;7107;2016;8,840
+VII Maule;Rauco;7305;2016;10,115
+VII Maule;Retiro;7405;2016;19,696
+VII Maule;Río Claro;7108;2016;13,505
+VII Maule;Romeral;7306;2016;15,234
+VII Maule;Sagrada Familia;7307;2016;19,596
+VII Maule;San Clemente;7109;2016;41,746
+VII Maule;San Javier;7406;2016;41,157
+VII Maule;San Rafael;7110;2016;9,908
+VII Maule;Talca;7101;2016;234,760
+VII Maule;Teno;7308;2016;28,591
+VII Maule;Vichuquén;7309;2016;5,127
+VII Maule;Villa Alegre;7407;2016;15,306
+VII Maule;Yerbas Buenas;7408;2016;18,313
+VIII Biobío;Alto Biobío;8314;2016;6,034
+VIII Biobío;Antuco;8302;2016;3,926
+VIII Biobío;Arauco;8202;2016;38,363
+VIII Biobío;Bulnes;16102;2016;22,002
+VIII Biobío;Cabrero;8303;2016;29,357
+VIII Biobío;Cañete;8203;2016;34,260
+VIII Biobío;Chiguayante;8103;2016;100,157
+VIII Biobío;Chillán;16101;2016;180,348
+VIII Biobío;Chillán Viejo;16103;2016;33,146
+VIII Biobío;Cobquecura;16202;2016;5,689
+VIII Biobío;Coelemu;16203;2016;17,004
+VIII Biobío;Coihueco;16302;2016;25,933
+VIII Biobío;Concepción;8101;2016;229,118
+VIII Biobío;Contulmo;8204;2016;5,549
+VIII Biobío;Coronel;8102;2016;116,256
+VIII Biobío;Curanilahue;8205;2016;34,977
+VIII Biobío;El Carmen;16104;2016;12,851
+VIII Biobío;Florida;8104;2016;8,843
+VIII Biobío;Hualpén;8112;2016;109,436
+VIII Biobío;Hualqui;8105;2016;25,745
+VIII Biobío;Laja;8304;2016;24,066
+VIII Biobío;Lebu;8201;2016;26,618
+VIII Biobío;Los Alamos;8206;2016;23,925
+VIII Biobío;Los Angeles;8301;2016;196,454
+VIII Biobío;Lota;8106;2016;47,539
+VIII Biobío;Mulchén;8305;2016;30,484
+VIII Biobío;Nacimiento;8306;2016;28,471
+VIII Biobío;Negrete;8307;2016;10,348
+VIII Biobío;Ninhue;16204;2016;5,817
+VIII Biobío;Ñiquén;16303;2016;11,653
+VIII Biobío;Pemuco;16105;2016;9,297
+VIII Biobío;Penco;8107;2016;51,853
+VIII Biobío;Pinto;16106;2016;11,363
+VIII Biobío;Portezuelo;16205;2016;5,627
+VIII Biobío;Quilaco;8308;2016;4,097
+VIII Biobío;Quilleco;8309;2016;9,964
+VIII Biobío;Quillón;16107;2016;16,914
+VIII Biobío;Quirihue;16201;2016;13,526
+VIII Biobío;Ranquil;16206;2016;6,065
+VIII Biobío;San Carlos;16301;2016;53,249
+VIII Biobío;San Fabián;16304;2016;4,070
+VIII Biobío;San Ignacio;16108;2016;15,943
+VIII Biobío;San Nicolás;16305;2016;11,544
+VIII Biobío;San Pedro de la Paz;8108;2016;135,093
+VIII Biobío;San Rosendo;8310;2016;3,916
+VIII Biobío;Santa Bárbara;8311;2016;12,884
+VIII Biobío;Santa Juana;8109;2016;13,725
+VIII Biobío;Talcahuano;8110;2016;178,500
+VIII Biobío;Tirúa;8207;2016;10,477
+VIII Biobío;Tomé;8111;2016;55,788
+VIII Biobío;Treguaco;16207;2016;5,295
+VIII Biobío;Tucapel;8312;2016;14,457
+VIII Biobío;Yumbel;8313;2016;21,593
+VIII Biobío;Yungay;16109;2016;18,293
+IX Araucanía;Angol;9201;2016;55,570
+IX Araucanía;Carahue;9102;2016;26,515
+IX Araucanía;Cholchol;9121;2016;11,936
+IX Araucanía;Collipulli;9202;2016;24,638
+IX Araucanía;Cunco;9103;2016;18,990
+IX Araucanía;Curacautín;9203;2016;17,164
+IX Araucanía;Curarrehue;9104;2016;7,466
+IX Araucanía;Ercilla;9204;2016;9,168
+IX Araucanía;Freire;9105;2016;24,584
+IX Araucanía;Galvarino;9106;2016;12,523
+IX Araucanía;Gorbea;9107;2016;15,649
+IX Araucanía;Lautaro;9108;2016;37,119
+IX Araucanía;Loncoche;9109;2016;23,354
+IX Araucanía;Lonquimay;9205;2016;10,964
+IX Araucanía;Los Sauces;9206;2016;7,838
+IX Araucanía;Lumaco;9207;2016;11,270
+IX Araucanía;Melipeuco;9110;2016;5,835
+IX Araucanía;Nueva Imperial;9111;2016;33,528
+IX Araucanía;Padre Las Casas;9112;2016;89,163
+IX Araucanía;Perquenco;9113;2016;7,300
+IX Araucanía;Pitrufquén;9114;2016;24,794
+IX Araucanía;Pucón;9115;2016;28,146
+IX Araucanía;Purén;9208;2016;12,926
+IX Araucanía;Renaico;9209;2016;10,662
+IX Araucanía;Saavedra;9116;2016;12,840
+IX Araucanía;Temuco;9101;2016;290,234
+IX Araucanía;Teodoro Schmidt;9117;2016;16,147
+IX Araucanía;Toltén;9118;2016;11,391
+IX Araucanía;Traiguén;9210;2016;19,771
+IX Araucanía;Victoria;9211;2016;34,911
+IX Araucanía;Vilcún;9119;2016;27,996
+IX Araucanía;Villarrica;9120;2016;55,582
+XIV Los Ríos;Corral;14102;2016;5,761
+XIV Los Ríos;Futrono;14202;2016;16,564
+XIV Los Ríos;La Unión;14201;2016;43,484
+XIV Los Ríos;Lago Ranco;14203;2016;10,854
+XIV Los Ríos;Lanco;14103;2016;17,777
+XIV Los Ríos;Los Lagos;14104;2016;22,727
+XIV Los Ríos;Máfil;14105;2016;7,461
+XIV Los Ríos;Mariquina;14106;2016;22,385
+XIV Los Ríos;Paillaco;14107;2016;20,956
+XIV Los Ríos;Panguipulli;14108;2016;36,527
+XIV Los Ríos;Río Bueno;14204;2016;33,069
+XIV Los Ríos;Valdivia;14101;2016;169,735
+X Los Lagos;Ancud;10202;2016;44,128
+X Los Lagos;Calbuco;10102;2016;35,073
+X Los Lagos;Castro;10201;2016;49,068
+X Los Lagos;Chaitén;10401;2016;3,967
+X Los Lagos;Chonchi;10203;2016;15,365
+X Los Lagos;Cochamó;10103;2016;4,078
+X Los Lagos;Curaco de Vélez;10204;2016;4,199
+X Los Lagos;Dalcahue;10205;2016;15,616
+X Los Lagos;Fresia;10104;2016;12,737
+X Los Lagos;Frutillar;10105;2016;17,312
+X Los Lagos;Futaleufú;10402;2016;3,417
+X Los Lagos;Hualaihué;10403;2016;11,165
+X Los Lagos;Llanquihue;10107;2016;18,137
+X Los Lagos;Los Muermos;10106;2016;16,441
+X Los Lagos;Maullín;10108;2016;15,647
+X Los Lagos;Osorno;10301;2016;157,855
+X Los Lagos;Palena;10404;2016;2,125
+X Los Lagos;Puerto Montt;10101;2016;248,230
+X Los Lagos;Puerto Octay;10302;2016;9,465
+X Los Lagos;Puerto Varas;10109;2016;41,182
+X Los Lagos;Puqueldón;10206;2016;3,986
+X Los Lagos;Purranque;10303;2016;21,354
+X Los Lagos;Puyehue;10304;2016;10,988
+X Los Lagos;Queilén;10207;2016;5,549
+X Los Lagos;Quellón;10208;2016;31,122
+X Los Lagos;Quemchi;10209;2016;9,074
+X Los Lagos;Quinchao;10210;2016;8,826
+X Los Lagos;Río Negro;10305;2016;13,517
+X Los Lagos;San Juan de la Costa;10306;2016;7,410
+X Los Lagos;San Pablo;10307;2016;10,462
+XI Aysén;Aisén;11201;2016;27,965
+XI Aysén;Chile Chico;11401;2016;5,127
+XI Aysén;Cisnes;11202;2016;5,347
+XI Aysén;Cochrane;11301;2016;3,382
+XI Aysén;Coihaique;11101;2016;61,081
+XI Aysén;Guaitecas;11203;2016;1,754
+XI Aysén;Lago Verde;11102;2016;982
+XI Aysén;O'Higgins;11302;2016;689
+XI Aysén;Río Ibáñez;11402;2016;2,331
+XI Aysén;Tortel;11303;2016;659
+XII Magallanes y la Antártica;Antártica;12202;2016;196
+XII Magallanes y la Antártica;Cabo de Hornos;12201;2016;2,869
+XII Magallanes y la Antártica;Laguna Blanca;12102;2016;569
+XII Magallanes y la Antártica;Natales;12401;2016;21,714
+XII Magallanes y la Antártica;Porvenir;12301;2016;7,619
+XII Magallanes y la Antártica;Primavera;12302;2016;520
+XII Magallanes y la Antártica;Punta Arenas;12101;2016;130,738
+XII Magallanes y la Antártica;Río Verde;12103;2016;109
+XII Magallanes y la Antártica;San Gregorio;12104;2016;298
+XII Magallanes y la Antártica;Timaukel;12303;2016;177
+XII Magallanes y la Antártica;Torres del Paine;12402;2016;738
+XV Arica y Parinacota;Arica;15101;2017;243,701
+XV Arica y Parinacota;Camarones;15102;2017;783
+XV Arica y Parinacota;General Lagos;15202;2017;555
+XV Arica y Parinacota;Putre;15201;2017;2,090
+I Tarapacá;Alto Hospicio;1107;2017;124,872
+I Tarapacá;Camiña;1402;2017;1,277
+I Tarapacá;Colchane;1403;2017;1,689
+I Tarapacá;Huara;1404;2017;2,966
+I Tarapacá;Iquique;1101;2017;200,897
+I Tarapacá;Pica;1405;2017;6,650
+I Tarapacá;Pozo Almonte;1401;2017;14,361
+II Antofagasta;Antofagasta;2101;2017;389,812
+II Antofagasta;Calama;2201;2017;181,897
+II Antofagasta;María Elena;2302;2017;4,840
+II Antofagasta;Mejillones;2102;2017;11,754
+II Antofagasta;Ollagüe;2202;2017;310
+II Antofagasta;San Pedro de Atacama;2203;2017;7,840
+II Antofagasta;Sierra Gorda;2103;2017;3,205
+II Antofagasta;Taltal;2104;2017;13,296
+II Antofagasta;Tocopilla;2301;2017;27,996
+III Atacama;Alto del Carmen;3302;2017;6,519
+III Atacama;Caldera;3102;2017;18,101
+III Atacama;Chañaral;3201;2017;13,660
+III Atacama;Copiapó;3101;2017;178,788
+III Atacama;Diego de Almagro;3202;2017;14,656
+III Atacama;Freirina;3303;2017;7,073
+III Atacama;Huasco;3304;2017;10,595
+III Atacama;Tierra Amarilla;3103;2017;17,857
+III Atacama;Vallenar;3301;2017;53,550
+IV Coquimbo;Andacollo;4103;2017;11,555
+IV Coquimbo;Canela;4202;2017;9,911
+IV Coquimbo;Combarbalá;4302;2017;15,453
+IV Coquimbo;Coquimbo;4102;2017;242,096
+IV Coquimbo;Illapel;4201;2017;32,931
+IV Coquimbo;La Higuera;4104;2017;4,727
+IV Coquimbo;La Serena;4101;2017;225,178
+IV Coquimbo;Los Vilos;4203;2017;20,391
+IV Coquimbo;Monte Patria;4303;2017;34,072
+IV Coquimbo;Ovalle;4301;2017;123,239
+IV Coquimbo;Paiguano;4105;2017;4,506
+IV Coquimbo;Punitaqui;4304;2017;10,923
+IV Coquimbo;Río Hurtado;4305;2017;4,992
+IV Coquimbo;Salamanca;4204;2017;27,511
+IV Coquimbo;Vicuña;4106;2017;26,874
+V Valparaíso;Algarrobo;5602;2017;10,700
+V Valparaíso;Cabildo;5402;2017;20,135
+V Valparaíso;Calle Larga;5302;2017;15,021
+V Valparaíso;Cartagena;5603;2017;20,563
+V Valparaíso;Casablanca;5102;2017;29,826
+V Valparaíso;Catemu;5702;2017;14,151
+V Valparaíso;Concón;5103;2017;51,533
+V Valparaíso;El Quisco;5604;2017;13,641
+V Valparaíso;El Tabo;5605;2017;10,592
+V Valparaíso;Hijuelas;5503;2017;18,212
+V Valparaíso;Isla de Pascua;5201;2017;6,832
+V Valparaíso;Juan Fernández;5104;2017;871
+V Valparaíso;Calera;5502;2017;55,555
+V Valparaíso;La Cruz;5504;2017;20,189
+V Valparaíso;La Ligua;5401;2017;33,884
+V Valparaíso;Limache;5802;2017;46,022
+V Valparaíso;Llaillay;5703;2017;24,955
+V Valparaíso;Los Andes;5301;2017;68,734
+V Valparaíso;Nogales;5506;2017;23,925
+V Valparaíso;Olmué;5803;2017;16,162
+V Valparaíso;Panquehue;5704;2017;7,387
+V Valparaíso;Papudo;5403;2017;5,340
+V Valparaíso;Petorca;5404;2017;10,384
+V Valparaíso;Puchuncaví;5105;2017;18,484
+V Valparaíso;Putaendo;5705;2017;16,533
+V Valparaíso;Quillota;5501;2017;95,852
+V Valparaíso;Quilpué;5801;2017;173,617
+V Valparaíso;Quintero;5107;2017;28,581
+V Valparaíso;Rinconada;5303;2017;11,028
+V Valparaíso;San Antonio;5601;2017;97,481
+V Valparaíso;San Esteban;5304;2017;19,043
+V Valparaíso;San Felipe;5701;2017;74,812
+V Valparaíso;Santa María;5706;2017;16,005
+V Valparaíso;Santo Domingo;5606;2017;9,552
+V Valparaíso;Valparaíso;5101;2017;295,927
+V Valparaíso;Villa Alemana;5804;2017;145,139
+V Valparaíso;Viña del Mar;5109;2017;326,760
+V Valparaíso;Zapallar;5405;2017;6,244
+Región Metropolitana;Alhué;13502;2017;5,916
+Región Metropolitana;Buin;13402;2017;86,079
+Región Metropolitana;Calera de Tango;13403;2017;25,528
+Región Metropolitana;Cerrillos;13102;2017;87,114
+Región Metropolitana;Cerro Navia;13103;2017;158,641
+Región Metropolitana;Colina;13301;2017;128,760
+Región Metropolitana;Conchalí;13104;2017;141,225
+Región Metropolitana;Curacaví;13503;2017;30,319
+Región Metropolitana;El Bosque;13105;2017;195,106
+Región Metropolitana;El Monte;13602;2017;37,061
+Región Metropolitana;Estación Central;13106;2017;146,477
+Región Metropolitana;Huechuraba;13107;2017;99,019
+Región Metropolitana;Independencia;13108;2017;85,638
+Región Metropolitana;Isla de Maipo;13603;2017;36,747
+Región Metropolitana;La Cisterna;13109;2017;93,057
+Región Metropolitana;La Florida;13110;2017;389,846
+Región Metropolitana;La Granja;13111;2017;143,819
+Región Metropolitana;La Pintana;13112;2017;214,663
+Región Metropolitana;La Reina;13113;2017;101,641
+Región Metropolitana;Lampa;13302;2017;97,124
+Región Metropolitana;Las Condes;13114;2017;286,735
+Región Metropolitana;Lo Barnechea;13115;2017;108,470
+Región Metropolitana;Lo Espejo;13116;2017;120,218
+Región Metropolitana;Lo Prado;13117;2017;113,370
+Región Metropolitana;Macul;13118;2017;124,905
+Región Metropolitana;Maipú;13119;2017;559,123
+Región Metropolitana;María Pinto;13504;2017;13,238
+Región Metropolitana;Melipilla;13501;2017;119,580
+Región Metropolitana;Ñuñoa;13120;2017;229,434
+Región Metropolitana;Padre Hurtado;13604;2017;58,675
+Región Metropolitana;Paine;13404;2017;69,351
+Región Metropolitana;Pedro Aguirre Cerda;13121;2017;122,579
+Región Metropolitana;Peñaflor;13605;2017;93,397
+Región Metropolitana;Peñalolén;13122;2017;244,800
+Región Metropolitana;Pirque;13202;2017;22,805
+Región Metropolitana;Providencia;13123;2017;150,742
+Región Metropolitana;Pudahuel;13124;2017;237,938
+Región Metropolitana;Puente Alto;13201;2017;625,553
+Región Metropolitana;Quilicura;13125;2017;224,468
+Región Metropolitana;Quinta Normal;13126;2017;116,217
+Región Metropolitana;Recoleta;13127;2017;170,326
+Región Metropolitana;Renca;13128;2017;153,266
+Región Metropolitana;San Bernardo;13401;2017;303,520
+Región Metropolitana;San Joaquín;13129;2017;104,837
+Región Metropolitana;San José de Maipo;13203;2017;15,147
+Región Metropolitana;San Miguel;13130;2017;115,158
+Región Metropolitana;San Pedro;13505;2017;9,907
+Región Metropolitana;San Ramón;13131;2017;99,940
+Región Metropolitana;Santiago;13101;2017;386,471
+Región Metropolitana;Talagante;13601;2017;72,006
+Región Metropolitana;Tiltil;13303;2017;17,940
+Región Metropolitana;Vitacura;13132;2017;88,739
+VI O'Higgins;Chépica;6302;2017;16,278
+VI O'Higgins;Chimbarongo;6303;2017;37,876
+VI O'Higgins;Codegua;6102;2017;14,588
+VI O'Higgins;Coinco;6103;2017;7,241
+VI O'Higgins;Coltauco;6104;2017;20,078
+VI O'Higgins;Doñihue;6105;2017;20,677
+VI O'Higgins;Graneros;6106;2017;34,677
+VI O'Higgins;La Estrella;6202;2017;3,333
+VI O'Higgins;Las Cabras;6107;2017;24,295
+VI O'Higgins;Litueche;6203;2017;6,385
+VI O'Higgins;Lolol;6304;2017;7,053
+VI O'Higgins;Machalí;6108;2017;54,519
+VI O'Higgins;Malloa;6109;2017;13,937
+VI O'Higgins;Marchihue;6204;2017;7,637
+VI O'Higgins;Mostazal;6110;2017;26,931
+VI O'Higgins;Nancagua;6305;2017;17,147
+VI O'Higgins;Navidad;6205;2017;5,994
+VI O'Higgins;Olivar;6111;2017;15,489
+VI O'Higgins;Palmilla;6306;2017;13,468
+VI O'Higgins;Paredones;6206;2017;6,331
+VI O'Higgins;Peralillo;6307;2017;11,742
+VI O'Higgins;Peumo;6112;2017;16,273
+VI O'Higgins;Pichidegua;6113;2017;20,400
+VI O'Higgins;Pichilemu;6201;2017;14,587
+VI O'Higgins;Placilla;6308;2017;9,312
+VI O'Higgins;Pumanque;6309;2017;3,452
+VI O'Higgins;Quinta de Tilcoco;6114;2017;13,408
+VI O'Higgins;Rancagua;6101;2017;234,724
+VI O'Higgins;Rengo;6115;2017;62,284
+VI O'Higgins;Requínoa;6116;2017;34,479
+VI O'Higgins;San Fernando;6301;2017;74,435
+VI O'Higgins;San Vicente;6117;2017;47,613
+VI O'Higgins;Santa Cruz;6310;2017;38,028
+VII Maule;Cauquenes;7201;2017;40,135
+VII Maule;Chanco;7202;2017;8,958
+VII Maule;Colbún;7402;2017;19,530
+VII Maule;Constitución;7102;2017;51,031
+VII Maule;Curepto;7103;2017;10,732
+VII Maule;Curicó;7301;2017;146,612
+VII Maule;Empedrado;7104;2017;4,476
+VII Maule;Hualañé;7302;2017;10,204
+VII Maule;Licantén;7303;2017;7,249
+VII Maule;Linares;7401;2017;91,303
+VII Maule;Longaví;7403;2017;29,420
+VII Maule;Maule;7105;2017;57,427
+VII Maule;Molina;7304;2017;42,531
+VII Maule;Parral;7404;2017;38,403
+VII Maule;Pelarco;7106;2017;7,955
+VII Maule;Pelluhue;7203;2017;7,745
+VII Maule;Pencahue;7107;2017;8,834
+VII Maule;Rauco;7305;2017;10,182
+VII Maule;Retiro;7405;2017;19,688
+VII Maule;Río Claro;7108;2017;13,497
+VII Maule;Romeral;7306;2017;15,351
+VII Maule;Sagrada Familia;7307;2017;19,655
+VII Maule;San Clemente;7109;2017;41,916
+VII Maule;San Javier;7406;2017;41,181
+VII Maule;San Rafael;7110;2017;10,045
+VII Maule;Talca;7101;2017;236,037
+VII Maule;Teno;7308;2017;28,661
+VII Maule;Vichuquén;7309;2017;5,118
+VII Maule;Villa Alegre;7407;2017;15,274
+VII Maule;Yerbas Buenas;7408;2017;18,383
+VIII Biobío;Alto Biobío;8314;2017;5,957
+VIII Biobío;Antuco;8302;2017;3,906
+VIII Biobío;Arauco;8202;2017;38,431
+VIII Biobío;Bulnes;16102;2017;22,042
+VIII Biobío;Cabrero;8303;2017;29,563
+VIII Biobío;Cañete;8203;2017;34,277
+VIII Biobío;Chiguayante;8103;2017;101,243
+VIII Biobío;Chillán;16101;2017;181,008
+VIII Biobío;Chillán Viejo;16103;2017;33,982
+VIII Biobío;Cobquecura;16202;2017;5,667
+VIII Biobío;Coelemu;16203;2017;17,040
+VIII Biobío;Coihueco;16302;2017;25,996
+VIII Biobío;Concepción;8101;2017;229,160
+VIII Biobío;Contulmo;8204;2017;5,500
+VIII Biobío;Coronel;8102;2017;117,423
+VIII Biobío;Curanilahue;8205;2017;35,047
+VIII Biobío;El Carmen;16104;2017;12,806
+VIII Biobío;Florida;8104;2017;8,742
+VIII Biobío;Hualpén;8112;2017;110,823
+VIII Biobío;Hualqui;8105;2017;26,243
+VIII Biobío;Laja;8304;2017;24,083
+VIII Biobío;Lebu;8201;2017;26,670
+VIII Biobío;Los Alamos;8206;2017;24,253
+VIII Biobío;Los Angeles;8301;2017;197,987
+VIII Biobío;Lota;8106;2017;47,235
+VIII Biobío;Mulchén;8305;2017;30,465
+VIII Biobío;Nacimiento;8306;2017;28,542
+VIII Biobío;Negrete;8307;2017;10,450
+VIII Biobío;Ninhue;16204;2017;5,801
+VIII Biobío;Ñiquén;16303;2017;11,609
+VIII Biobío;Pemuco;16105;2017;9,301
+VIII Biobío;Penco;8107;2017;52,098
+VIII Biobío;Pinto;16106;2017;11,437
+VIII Biobío;Portezuelo;16205;2017;5,622
+VIII Biobío;Quilaco;8308;2017;4,080
+VIII Biobío;Quilleco;8309;2017;9,889
+VIII Biobío;Quillón;16107;2017;16,976
+VIII Biobío;Quirihue;16201;2017;13,645
+VIII Biobío;Ranquil;16206;2017;6,078
+VIII Biobío;San Carlos;16301;2017;53,406
+VIII Biobío;San Fabián;16304;2017;4,094
+VIII Biobío;San Ignacio;16108;2017;15,877
+VIII Biobío;San Nicolás;16305;2017;11,636
+VIII Biobío;San Pedro de la Paz;8108;2017;139,570
+VIII Biobío;San Rosendo;8310;2017;3,897
+VIII Biobío;Santa Bárbara;8311;2017;12,825
+VIII Biobío;Santa Juana;8109;2017;13,740
+VIII Biobío;Talcahuano;8110;2017;178,890
+VIII Biobío;Tirúa;8207;2017;10,495
+VIII Biobío;Tomé;8111;2017;55,814
+VIII Biobío;Treguaco;16207;2017;5,277
+VIII Biobío;Tucapel;8312;2017;14,523
+VIII Biobío;Yumbel;8313;2017;21,587
+VIII Biobío;Yungay;16109;2017;18,331
+IX Araucanía;Angol;9201;2017;55,845
+IX Araucanía;Carahue;9102;2017;26,467
+IX Araucanía;Cholchol;9121;2017;12,026
+IX Araucanía;Collipulli;9202;2017;24,708
+IX Araucanía;Cunco;9103;2017;18,926
+IX Araucanía;Curacautín;9203;2017;17,107
+IX Araucanía;Curarrehue;9104;2017;7,491
+IX Araucanía;Ercilla;9204;2017;9,140
+IX Araucanía;Freire;9105;2017;24,411
+IX Araucanía;Galvarino;9106;2017;12,469
+IX Araucanía;Gorbea;9107;2017;15,619
+IX Araucanía;Lautaro;9108;2017;37,340
+IX Araucanía;Loncoche;9109;2017;23,275
+IX Araucanía;Lonquimay;9205;2017;10,981
+IX Araucanía;Los Sauces;9206;2017;7,818
+IX Araucanía;Lumaco;9207;2017;11,217
+IX Araucanía;Melipeuco;9110;2017;5,819
+IX Araucanía;Nueva Imperial;9111;2017;33,653
+IX Araucanía;Padre Las Casas;9112;2017;91,442
+IX Araucanía;Perquenco;9113;2017;7,328
+IX Araucanía;Pitrufquén;9114;2017;24,898
+IX Araucanía;Pucón;9115;2017;28,609
+IX Araucanía;Purén;9208;2017;12,885
+IX Araucanía;Renaico;9209;2017;10,738
+IX Araucanía;Saavedra;9116;2017;12,706
+IX Araucanía;Temuco;9101;2017;292,534
+IX Araucanía;Teodoro Schmidt;9117;2017;16,125
+IX Araucanía;Toltén;9118;2017;11,357
+IX Araucanía;Traiguén;9210;2017;19,707
+IX Araucanía;Victoria;9211;2017;34,869
+IX Araucanía;Vilcún;9119;2017;28,326
+IX Araucanía;Villarrica;9120;2017;56,139
+XIV Los Ríos;Corral;14102;2017;5,769
+XIV Los Ríos;Futrono;14202;2017;16,636
+XIV Los Ríos;La Unión;14201;2017;43,671
+XIV Los Ríos;Lago Ranco;14203;2017;10,893
+XIV Los Ríos;Lanco;14103;2017;17,936
+XIV Los Ríos;Los Lagos;14104;2017;22,864
+XIV Los Ríos;Máfil;14105;2017;7,458
+XIV Los Ríos;Mariquina;14106;2017;22,654
+XIV Los Ríos;Paillaco;14107;2017;21,029
+XIV Los Ríos;Panguipulli;14108;2017;36,650
+XIV Los Ríos;Río Bueno;14204;2017;33,010
+XIV Los Ríos;Valdivia;14101;2017;171,527
+X Los Lagos;Ancud;10202;2017;44,249
+X Los Lagos;Calbuco;10102;2017;35,282
+X Los Lagos;Castro;10201;2017;49,451
+X Los Lagos;Chaitén;10401;2017;4,176
+X Los Lagos;Chonchi;10203;2017;15,494
+X Los Lagos;Cochamó;10103;2017;4,030
+X Los Lagos;Curaco de Vélez;10204;2017;4,243
+X Los Lagos;Dalcahue;10205;2017;15,927
+X Los Lagos;Fresia;10104;2017;12,658
+X Los Lagos;Frutillar;10105;2017;17,352
+X Los Lagos;Futaleufú;10402;2017;3,459
+X Los Lagos;Hualaihué;10403;2017;11,291
+X Los Lagos;Llanquihue;10107;2017;18,191
+X Los Lagos;Los Muermos;10106;2017;16,312
+X Los Lagos;Maullín;10108;2017;15,572
+X Los Lagos;Osorno;10301;2017;158,027
+X Los Lagos;Palena;10404;2017;2,124
+X Los Lagos;Puerto Montt;10101;2017;252,542
+X Los Lagos;Puerto Octay;10302;2017;9,360
+X Los Lagos;Puerto Varas;10109;2017;41,617
+X Los Lagos;Puqueldón;10206;2017;3,950
+X Los Lagos;Purranque;10303;2017;21,282
+X Los Lagos;Puyehue;10304;2017;10,928
+X Los Lagos;Queilén;10207;2017;5,558
+X Los Lagos;Quellón;10208;2017;31,703
+X Los Lagos;Quemchi;10209;2017;9,048
+X Los Lagos;Quinchao;10210;2017;8,759
+X Los Lagos;Río Negro;10305;2017;13,350
+X Los Lagos;San Juan de la Costa;10306;2017;7,298
+X Los Lagos;San Pablo;10307;2017;10,430
+XI Aysén;Aisén;11201;2017;28,283
+XI Aysén;Chile Chico;11401;2017;5,161
+XI Aysén;Cisnes;11202;2017;5,356
+XI Aysén;Cochrane;11301;2017;3,404
+XI Aysén;Coihaique;11101;2017;61,656
+XI Aysén;Guaitecas;11203;2017;1,759
+XI Aysén;Lago Verde;11102;2017;971
+XI Aysén;O'Higgins;11302;2017;706
+XI Aysén;Río Ibáñez;11402;2017;2,315
+XI Aysén;Tortel;11303;2017;677
+XII Magallanes y la Antártica;Antártica;12202;2017;201
+XII Magallanes y la Antártica;Cabo de Hornos;12201;2017;2,904
+XII Magallanes y la Antártica;Laguna Blanca;12102;2017;563
+XII Magallanes y la Antártica;Natales;12401;2017;21,861
+XII Magallanes y la Antártica;Porvenir;12301;2017;7,779
+XII Magallanes y la Antártica;Primavera;12302;2017;514
+XII Magallanes y la Antártica;Punta Arenas;12101;2017;131,297
+XII Magallanes y la Antártica;Río Verde;12103;2017;101
+XII Magallanes y la Antártica;San Gregorio;12104;2017;278
+XII Magallanes y la Antártica;Timaukel;12303;2017;163
+XII Magallanes y la Antártica;Torres del Paine;12402;2017;734
+XV Arica y Parinacota;Arica;15101;2018;247,663
+XV Arica y Parinacota;Camarones;15102;2018;781
+XV Arica y Parinacota;General Lagos;15202;2018;530
+XV Arica y Parinacota;Putre;15201;2018;2,090
+I Tarapacá;Alto Hospicio;1107;2018;131,512
+I Tarapacá;Camiña;1402;2018;1,272
+I Tarapacá;Colchane;1403;2018;1,682
+I Tarapacá;Huara;1404;2018;2,984
+I Tarapacá;Iquique;1101;2018;201,948
+I Tarapacá;Pica;1405;2018;6,652
+I Tarapacá;Pozo Almonte;1401;2018;14,562
+II Antofagasta;Antofagasta;2101;2018;395,453
+II Antofagasta;Calama;2201;2018;184,543
+II Antofagasta;María Elena;2302;2018;4,680
+II Antofagasta;Mejillones;2102;2018;11,977
+II Antofagasta;Ollagüe;2202;2018;306
+II Antofagasta;San Pedro de Atacama;2203;2018;8,052
+II Antofagasta;Sierra Gorda;2103;2018;3,258
+II Antofagasta;Taltal;2104;2018;13,396
+II Antofagasta;Tocopilla;2301;2018;28,180
+III Atacama;Alto del Carmen;3302;2018;6,624
+III Atacama;Caldera;3102;2018;18,369
+III Atacama;Chañaral;3201;2018;13,621
+III Atacama;Copiapó;3101;2018;181,962
+III Atacama;Diego de Almagro;3202;2018;14,360
+III Atacama;Freirina;3303;2018;7,160
+III Atacama;Huasco;3304;2018;10,768
+III Atacama;Tierra Amarilla;3103;2018;18,190
+III Atacama;Vallenar;3301;2018;53,747
+IV Coquimbo;Andacollo;4103;2018;11,619
+IV Coquimbo;Canela;4202;2018;9,895
+IV Coquimbo;Combarbalá;4302;2018;15,528
+IV Coquimbo;Coquimbo;4102;2018;247,386
+IV Coquimbo;Illapel;4201;2018;32,955
+IV Coquimbo;La Higuera;4104;2018;4,793
+IV Coquimbo;La Serena;4101;2018;229,318
+IV Coquimbo;Los Vilos;4203;2018;20,508
+IV Coquimbo;Monte Patria;4303;2018;34,180
+IV Coquimbo;Ovalle;4301;2018;124,556
+IV Coquimbo;Paiguano;4105;2018;4,507
+IV Coquimbo;Punitaqui;4304;2018;10,965
+IV Coquimbo;Río Hurtado;4305;2018;4,977
+IV Coquimbo;Salamanca;4204;2018;27,605
+IV Coquimbo;Vicuña;4106;2018;26,948
+V Valparaíso;Algarrobo;5602;2018;10,820
+V Valparaíso;Cabildo;5402;2018;20,129
+V Valparaíso;Calle Larga;5302;2018;15,329
+V Valparaíso;Cartagena;5603;2018;20,733
+V Valparaíso;Casablanca;5102;2018;30,316
+V Valparaíso;Catemu;5702;2018;14,229
+V Valparaíso;Concón;5103;2018;52,938
+V Valparaíso;El Quisco;5604;2018;13,917
+V Valparaíso;El Tabo;5605;2018;10,839
+V Valparaíso;Hijuelas;5503;2018;18,277
+V Valparaíso;Isla de Pascua;5201;2018;7,077
+V Valparaíso;Juan Fernández;5104;2018;880
+V Valparaíso;Calera;5502;2018;55,748
+V Valparaíso;La Cruz;5504;2018;20,721
+V Valparaíso;La Ligua;5401;2018;33,865
+V Valparaíso;Limache;5802;2018;46,320
+V Valparaíso;Llaillay;5703;2018;25,095
+V Valparaíso;Los Andes;5301;2018;69,048
+V Valparaíso;Nogales;5506;2018;23,984
+V Valparaíso;Olmué;5803;2018;16,241
+V Valparaíso;Panquehue;5704;2018;7,410
+V Valparaíso;Papudo;5403;2018;5,369
+V Valparaíso;Petorca;5404;2018;10,405
+V Valparaíso;Puchuncaví;5105;2018;18,842
+V Valparaíso;Putaendo;5705;2018;16,592
+V Valparaíso;Quillota;5501;2018;96,948
+V Valparaíso;Quilpué;5801;2018;176,377
+V Valparaíso;Quintero;5107;2018;29,035
+V Valparaíso;Rinconada;5303;2018;11,347
+V Valparaíso;San Antonio;5601;2018;97,780
+V Valparaíso;San Esteban;5304;2018;19,320
+V Valparaíso;San Felipe;5701;2018;75,259
+V Valparaíso;Santa María;5706;2018;16,171
+V Valparaíso;Santo Domingo;5606;2018;9,673
+V Valparaíso;Valparaíso;5101;2018;296,004
+V Valparaíso;Villa Alemana;5804;2018;148,580
+V Valparaíso;Viña del Mar;5109;2018;328,241
+V Valparaíso;Zapallar;5405;2018;6,256
+Región Metropolitana;Alhué;13502;2018;6,002
+Región Metropolitana;Buin;13402;2018;87,491
+Región Metropolitana;Calera de Tango;13403;2018;26,007
+Región Metropolitana;Cerrillos;13102;2018;87,958
+Región Metropolitana;Cerro Navia;13103;2018;158,723
+Región Metropolitana;Colina;13301;2018;132,607
+Región Metropolitana;Conchalí;13104;2018;141,206
+Región Metropolitana;Curacaví;13503;2018;30,651
+Región Metropolitana;El Bosque;13105;2018;195,555
+Región Metropolitana;El Monte;13602;2018;37,754
+Región Metropolitana;Estación Central;13106;2018;147,153
+Región Metropolitana;Huechuraba;13107;2018;100,554
+Región Metropolitana;Independencia;13108;2018;86,929
+Región Metropolitana;Isla de Maipo;13603;2018;37,473
+Región Metropolitana;La Cisterna;13109;2018;93,231
+Región Metropolitana;La Florida;13110;2018;390,164
+Región Metropolitana;La Granja;13111;2018;144,025
+Región Metropolitana;La Pintana;13112;2018;215,543
+Región Metropolitana;La Reina;13113;2018;101,627
+Región Metropolitana;Lampa;13302;2018;102,571
+Región Metropolitana;Las Condes;13114;2018;288,228
+Región Metropolitana;Lo Barnechea;13115;2018;110,742
+Región Metropolitana;Lo Espejo;13116;2018;120,247
+Región Metropolitana;Lo Prado;13117;2018;113,539
+Región Metropolitana;Macul;13118;2018;125,273
+Región Metropolitana;Maipú;13119;2018;563,499
+Región Metropolitana;María Pinto;13504;2018;13,406
+Región Metropolitana;Melipilla;13501;2018;120,972
+Región Metropolitana;Ñuñoa;13120;2018;233,739
+Región Metropolitana;Padre Hurtado;13604;2018;60,088
+Región Metropolitana;Paine;13404;2018;70,591
+Región Metropolitana;Pedro Aguirre Cerda;13121;2018;122,636
+Región Metropolitana;Peñaflor;13605;2018;95,138
+Región Metropolitana;Peñalolén;13122;2018;245,621
+Región Metropolitana;Pirque;13202;2018;23,194
+Región Metropolitana;Providencia;13123;2018;152,268
+Región Metropolitana;Pudahuel;13124;2018;240,165
+Región Metropolitana;Puente Alto;13201;2018;633,021
+Región Metropolitana;Quilicura;13125;2018;232,263
+Región Metropolitana;Quinta Normal;13126;2018;116,816
+Región Metropolitana;Recoleta;13127;2018;171,223
+Región Metropolitana;Renca;13128;2018;154,059
+Región Metropolitana;San Bernardo;13401;2018;306,505
+Región Metropolitana;San Joaquín;13129;2018;105,054
+Región Metropolitana;San José de Maipo;13203;2018;15,209
+Región Metropolitana;San Miguel;13130;2018;117,619
+Región Metropolitana;San Pedro;13505;2018;10,051
+Región Metropolitana;San Ramón;13131;2018;100,002
+Región Metropolitana;Santiago;13101;2018;400,869
+Región Metropolitana;Talagante;13601;2018;72,600
+Región Metropolitana;Tiltil;13303;2018;18,104
+Región Metropolitana;Vitacura;13132;2018;88,892
+VI O'Higgins;Chépica;6302;2018;16,362
+VI O'Higgins;Chimbarongo;6303;2018;38,065
+VI O'Higgins;Codegua;6102;2018;14,787
+VI O'Higgins;Coinco;6103;2018;7,261
+VI O'Higgins;Coltauco;6104;2018;20,251
+VI O'Higgins;Doñihue;6105;2018;20,838
+VI O'Higgins;Graneros;6106;2018;35,124
+VI O'Higgins;La Estrella;6202;2018;3,349
+VI O'Higgins;Las Cabras;6107;2018;24,447
+VI O'Higgins;Litueche;6203;2018;6,418
+VI O'Higgins;Lolol;6304;2018;7,072
+VI O'Higgins;Machalí;6108;2018;55,831
+VI O'Higgins;Malloa;6109;2018;13,972
+VI O'Higgins;Marchihue;6204;2018;7,650
+VI O'Higgins;Mostazal;6110;2018;27,157
+VI O'Higgins;Nancagua;6305;2018;17,169
+VI O'Higgins;Navidad;6205;2018;6,006
+VI O'Higgins;Olivar;6111;2018;15,725
+VI O'Higgins;Palmilla;6306;2018;13,559
+VI O'Higgins;Paredones;6206;2018;6,276
+VI O'Higgins;Peralillo;6307;2018;11,828
+VI O'Higgins;Peumo;6112;2018;16,345
+VI O'Higgins;Pichidegua;6113;2018;20,481
+VI O'Higgins;Pichilemu;6201;2018;14,665
+VI O'Higgins;Placilla;6308;2018;9,333
+VI O'Higgins;Pumanque;6309;2018;3,451
+VI O'Higgins;Quinta de Tilcoco;6114;2018;13,489
+VI O'Higgins;Rancagua;6101;2018;235,222
+VI O'Higgins;Rengo;6115;2018;62,827
+VI O'Higgins;Requínoa;6116;2018;36,414
+VI O'Higgins;San Fernando;6301;2018;74,788
+VI O'Higgins;San Vicente;6117;2018;47,873
+VI O'Higgins;Santa Cruz;6310;2018;38,222
+VII Maule;Cauquenes;7201;2018;39,853
+VII Maule;Chanco;7202;2018;8,874
+VII Maule;Colbún;7402;2018;19,561
+VII Maule;Constitución;7102;2018;51,161
+VII Maule;Curepto;7103;2018;10,674
+VII Maule;Curicó;7301;2018;147,820
+VII Maule;Empedrado;7104;2018;4,461
+VII Maule;Hualañé;7302;2018;10,182
+VII Maule;Licantén;7303;2018;7,227
+VII Maule;Linares;7401;2018;91,379
+VII Maule;Longaví;7403;2018;29,348
+VII Maule;Maule;7105;2018;61,882
+VII Maule;Molina;7304;2018;42,632
+VII Maule;Parral;7404;2018;38,227
+VII Maule;Pelarco;7106;2018;7,959
+VII Maule;Pelluhue;7203;2018;7,800
+VII Maule;Pencahue;7107;2018;8,812
+VII Maule;Rauco;7305;2018;10,250
+VII Maule;Retiro;7405;2018;19,660
+VII Maule;Río Claro;7108;2018;13,475
+VII Maule;Romeral;7306;2018;15,459
+VII Maule;Sagrada Familia;7307;2018;19,696
+VII Maule;San Clemente;7109;2018;42,067
+VII Maule;San Javier;7406;2018;41,197
+VII Maule;San Rafael;7110;2018;10,171
+VII Maule;Talca;7101;2018;237,283
+VII Maule;Teno;7308;2018;28,729
+VII Maule;Vichuquén;7309;2018;5,096
+VII Maule;Villa Alegre;7407;2018;15,232
+VII Maule;Yerbas Buenas;7408;2018;18,448
+VIII Biobío;Alto Biobío;8314;2018;5,886
+VIII Biobío;Antuco;8302;2018;3,891
+VIII Biobío;Arauco;8202;2018;38,490
+VIII Biobío;Bulnes;16102;2018;22,081
+VIII Biobío;Cabrero;8303;2018;29,773
+VIII Biobío;Cañete;8203;2018;34,287
+VIII Biobío;Chiguayante;8103;2018;102,321
+VIII Biobío;Chillán;16101;2018;181,618
+VIII Biobío;Chillán Viejo;16103;2018;34,829
+VIII Biobío;Cobquecura;16202;2018;5,643
+VIII Biobío;Coelemu;16203;2018;17,083
+VIII Biobío;Coihueco;16302;2018;26,057
+VIII Biobío;Concepción;8101;2018;229,156
+VIII Biobío;Contulmo;8204;2018;5,449
+VIII Biobío;Coronel;8102;2018;118,552
+VIII Biobío;Curanilahue;8205;2018;35,095
+VIII Biobío;El Carmen;16104;2018;12,742
+VIII Biobío;Florida;8104;2018;8,638
+VIII Biobío;Hualpén;8112;2018;112,188
+VIII Biobío;Hualqui;8105;2018;26,715
+VIII Biobío;Laja;8304;2018;24,089
+VIII Biobío;Lebu;8201;2018;26,706
+VIII Biobío;Los Alamos;8206;2018;24,584
+VIII Biobío;Los Angeles;8301;2018;199,465
+VIII Biobío;Lota;8106;2018;46,916
+VIII Biobío;Mulchén;8305;2018;30,435
+VIII Biobío;Nacimiento;8306;2018;28,606
+VIII Biobío;Negrete;8307;2018;10,544
+VIII Biobío;Ninhue;16204;2018;5,781
+VIII Biobío;Ñiquén;16303;2018;11,579
+VIII Biobío;Pemuco;16105;2018;9,297
+VIII Biobío;Penco;8107;2018;52,315
+VIII Biobío;Pinto;16106;2018;11,492
+VIII Biobío;Portezuelo;16205;2018;5,603
+VIII Biobío;Quilaco;8308;2018;4,069
+VIII Biobío;Quilleco;8309;2018;9,814
+VIII Biobío;Quillón;16107;2018;17,036
+VIII Biobío;Quirihue;16201;2018;13,742
+VIII Biobío;Ranquil;16206;2018;6,083
+VIII Biobío;San Carlos;16301;2018;53,548
+VIII Biobío;San Fabián;16304;2018;4,120
+VIII Biobío;San Ignacio;16108;2018;15,789
+VIII Biobío;San Nicolás;16305;2018;11,726
+VIII Biobío;San Pedro de la Paz;8108;2018;144,156
+VIII Biobío;San Rosendo;8310;2018;3,882
+VIII Biobío;Santa Bárbara;8311;2018;12,767
+VIII Biobío;Santa Juana;8109;2018;13,742
+VIII Biobío;Talcahuano;8110;2018;179,207
+VIII Biobío;Tirúa;8207;2018;10,505
+VIII Biobío;Tomé;8111;2018;55,810
+VIII Biobío;Treguaco;16207;2018;5,257
+VIII Biobío;Tucapel;8312;2018;14,582
+VIII Biobío;Yumbel;8313;2018;21,569
+VIII Biobío;Yungay;16109;2018;18,354
+IX Araucanía;Angol;9201;2018;56,103
+IX Araucanía;Carahue;9102;2018;26,406
+IX Araucanía;Cholchol;9121;2018;12,119
+IX Araucanía;Collipulli;9202;2018;24,774
+IX Araucanía;Cunco;9103;2018;18,862
+IX Araucanía;Curacautín;9203;2018;17,046
+IX Araucanía;Curarrehue;9104;2018;7,504
+IX Araucanía;Ercilla;9204;2018;9,112
+IX Araucanía;Freire;9105;2018;24,241
+IX Araucanía;Galvarino;9106;2018;12,408
+IX Araucanía;Gorbea;9107;2018;15,584
+IX Araucanía;Lautaro;9108;2018;37,557
+IX Araucanía;Loncoche;9109;2018;23,194
+IX Araucanía;Lonquimay;9205;2018;10,985
+IX Araucanía;Los Sauces;9206;2018;7,803
+IX Araucanía;Lumaco;9207;2018;11,164
+IX Araucanía;Melipeuco;9110;2018;5,816
+IX Araucanía;Nueva Imperial;9111;2018;33,768
+IX Araucanía;Padre Las Casas;9112;2018;93,760
+IX Araucanía;Perquenco;9113;2018;7,366
+IX Araucanía;Pitrufquén;9114;2018;25,009
+IX Araucanía;Pucón;9115;2018;29,072
+IX Araucanía;Purén;9208;2018;12,822
+IX Araucanía;Renaico;9209;2018;10,804
+IX Araucanía;Saavedra;9116;2018;12,571
+IX Araucanía;Temuco;9101;2018;294,734
+IX Araucanía;Teodoro Schmidt;9117;2018;16,096
+IX Araucanía;Toltén;9118;2018;11,319
+IX Araucanía;Traiguén;9210;2018;19,640
+IX Araucanía;Victoria;9211;2018;34,814
+IX Araucanía;Vilcún;9119;2018;28,638
+IX Araucanía;Villarrica;9120;2018;56,689
+XIV Los Ríos;Corral;14102;2018;5,771
+XIV Los Ríos;Futrono;14202;2018;16,709
+XIV Los Ríos;La Unión;14201;2018;43,838
+XIV Los Ríos;Lago Ranco;14203;2018;10,920
+XIV Los Ríos;Lanco;14103;2018;18,091
+XIV Los Ríos;Los Lagos;14104;2018;22,988
+XIV Los Ríos;Máfil;14105;2018;7,456
+XIV Los Ríos;Mariquina;14106;2018;22,920
+XIV Los Ríos;Paillaco;14107;2018;21,094
+XIV Los Ríos;Panguipulli;14108;2018;36,753
+XIV Los Ríos;Río Bueno;14204;2018;32,931
+XIV Los Ríos;Valdivia;14101;2018;173,341
+X Los Lagos;Ancud;10202;2018;44,373
+X Los Lagos;Calbuco;10102;2018;35,471
+X Los Lagos;Castro;10201;2018;49,824
+X Los Lagos;Chaitén;10401;2018;4,394
+X Los Lagos;Chonchi;10203;2018;15,620
+X Los Lagos;Cochamó;10103;2018;3,990
+X Los Lagos;Curaco de Vélez;10204;2018;4,286
+X Los Lagos;Dalcahue;10205;2018;16,234
+X Los Lagos;Fresia;10104;2018;12,584
+X Los Lagos;Frutillar;10105;2018;17,371
+X Los Lagos;Futaleufú;10402;2018;3,478
+X Los Lagos;Hualaihué;10403;2018;11,408
+X Los Lagos;Llanquihue;10107;2018;18,229
+X Los Lagos;Los Muermos;10106;2018;16,177
+X Los Lagos;Maullín;10108;2018;15,492
+X Los Lagos;Osorno;10301;2018;158,162
+X Los Lagos;Palena;10404;2018;2,119
+X Los Lagos;Puerto Montt;10101;2018;256,828
+X Los Lagos;Puerto Octay;10302;2018;9,257
+X Los Lagos;Puerto Varas;10109;2018;42,027
+X Los Lagos;Puqueldón;10206;2018;3,912
+X Los Lagos;Purranque;10303;2018;21,197
+X Los Lagos;Puyehue;10304;2018;10,864
+X Los Lagos;Queilén;10207;2018;5,548
+X Los Lagos;Quellón;10208;2018;32,294
+X Los Lagos;Quemchi;10209;2018;9,012
+X Los Lagos;Quinchao;10210;2018;8,693
+X Los Lagos;Río Negro;10305;2018;13,195
+X Los Lagos;San Juan de la Costa;10306;2018;7,174
+X Los Lagos;San Pablo;10307;2018;10,398
+XI Aysén;Aisén;11201;2018;28,595
+XI Aysén;Chile Chico;11401;2018;5,176
+XI Aysén;Cisnes;11202;2018;5,372
+XI Aysén;Cochrane;11301;2018;3,430
+XI Aysén;Coihaique;11101;2018;62,265
+XI Aysén;Guaitecas;11203;2018;1,763
+XI Aysén;Lago Verde;11102;2018;959
+XI Aysén;O'Higgins;11302;2018;722
+XI Aysén;Río Ibáñez;11402;2018;2,281
+XI Aysén;Tortel;11303;2018;681
+XII Magallanes y la Antártica;Antártica;12202;2018;209
+XII Magallanes y la Antártica;Cabo de Hornos;12201;2018;2,949
+XII Magallanes y la Antártica;Laguna Blanca;12102;2018;560
+XII Magallanes y la Antártica;Natales;12401;2018;22,005
+XII Magallanes y la Antártica;Porvenir;12301;2018;7,947
+XII Magallanes y la Antártica;Primavera;12302;2018;505
+XII Magallanes y la Antártica;Punta Arenas;12101;2018;131,783
+XII Magallanes y la Antártica;Río Verde;12103;2018;95
+XII Magallanes y la Antártica;San Gregorio;12104;2018;266
+XII Magallanes y la Antártica;Timaukel;12303;2018;157
+XII Magallanes y la Antártica;Torres del Paine;12402;2018;725
+XV Arica y Parinacota;Arica;15101;2019;251,548
+XV Arica y Parinacota;Camarones;15102;2019;791
+XV Arica y Parinacota;General Lagos;15202;2019;517
+XV Arica y Parinacota;Putre;15201;2019;2,094
+I Tarapacá;Alto Hospicio;1107;2019;138,319
+I Tarapacá;Camiña;1402;2019;1,268
+I Tarapacá;Colchane;1403;2019;1,675
+I Tarapacá;Huara;1404;2019;2,983
+I Tarapacá;Iquique;1101;2019;202,809
+I Tarapacá;Pica;1405;2019;6,648
+I Tarapacá;Pozo Almonte;1401;2019;14,752
+II Antofagasta;Antofagasta;2101;2019;400,967
+II Antofagasta;Calama;2201;2019;187,129
+II Antofagasta;María Elena;2302;2019;4,521
+II Antofagasta;Mejillones;2102;2019;12,192
+II Antofagasta;Ollagüe;2202;2019;309
+II Antofagasta;San Pedro de Atacama;2203;2019;8,256
+II Antofagasta;Sierra Gorda;2103;2019;3,314
+II Antofagasta;Taltal;2104;2019;13,509
+II Antofagasta;Tocopilla;2301;2019;28,348
+III Atacama;Alto del Carmen;3302;2019;6,736
+III Atacama;Caldera;3102;2019;18,633
+III Atacama;Chañaral;3201;2019;13,563
+III Atacama;Copiapó;3101;2019;185,116
+III Atacama;Diego de Almagro;3202;2019;14,072
+III Atacama;Freirina;3303;2019;7,233
+III Atacama;Huasco;3304;2019;10,930
+III Atacama;Tierra Amarilla;3103;2019;18,500
+III Atacama;Vallenar;3301;2019;53,907
+IV Coquimbo;Andacollo;4103;2019;11,677
+IV Coquimbo;Canela;4202;2019;9,883
+IV Coquimbo;Combarbalá;4302;2019;15,587
+IV Coquimbo;Coquimbo;4102;2019;252,663
+IV Coquimbo;Illapel;4201;2019;32,965
+IV Coquimbo;La Higuera;4104;2019;4,843
+IV Coquimbo;La Serena;4101;2019;233,413
+IV Coquimbo;Los Vilos;4203;2019;20,613
+IV Coquimbo;Monte Patria;4303;2019;34,278
+IV Coquimbo;Ovalle;4301;2019;125,832
+IV Coquimbo;Paiguano;4105;2019;4,509
+IV Coquimbo;Punitaqui;4304;2019;11,016
+IV Coquimbo;Río Hurtado;4305;2019;4,974
+IV Coquimbo;Salamanca;4204;2019;27,671
+IV Coquimbo;Vicuña;4106;2019;27,015
+V Valparaíso;Algarrobo;5602;2019;10,938
+V Valparaíso;Cabildo;5402;2019;20,129
+V Valparaíso;Calle Larga;5302;2019;15,637
+V Valparaíso;Cartagena;5603;2019;20,890
+V Valparaíso;Casablanca;5102;2019;30,805
+V Valparaíso;Catemu;5702;2019;14,317
+V Valparaíso;Concón;5103;2019;54,356
+V Valparaíso;El Quisco;5604;2019;14,191
+V Valparaíso;El Tabo;5605;2019;11,095
+V Valparaíso;Hijuelas;5503;2019;18,340
+V Valparaíso;Isla de Pascua;5201;2019;7,327
+V Valparaíso;Juan Fernández;5104;2019;889
+V Valparaíso;Calera;5502;2019;55,924
+V Valparaíso;La Cruz;5504;2019;21,255
+V Valparaíso;La Ligua;5401;2019;33,839
+V Valparaíso;Limache;5802;2019;46,598
+V Valparaíso;Llaillay;5703;2019;25,209
+V Valparaíso;Los Andes;5301;2019;69,345
+V Valparaíso;Nogales;5506;2019;24,033
+V Valparaíso;Olmué;5803;2019;16,305
+V Valparaíso;Panquehue;5704;2019;7,427
+V Valparaíso;Papudo;5403;2019;5,394
+V Valparaíso;Petorca;5404;2019;10,415
+V Valparaíso;Puchuncaví;5105;2019;19,213
+V Valparaíso;Putaendo;5705;2019;16,648
+V Valparaíso;Quillota;5501;2019;98,022
+V Valparaíso;Quilpué;5801;2019;179,109
+V Valparaíso;Quintero;5107;2019;29,480
+V Valparaíso;Rinconada;5303;2019;11,681
+V Valparaíso;San Antonio;5601;2019;98,054
+V Valparaíso;San Esteban;5304;2019;19,588
+V Valparaíso;San Felipe;5701;2019;75,696
+V Valparaíso;Santa María;5706;2019;16,334
+V Valparaíso;Santo Domingo;5606;2019;9,789
+V Valparaíso;Valparaíso;5101;2019;296,007
+V Valparaíso;Villa Alemana;5804;2019;152,035
+V Valparaíso;Viña del Mar;5109;2019;329,616
+V Valparaíso;Zapallar;5405;2019;6,268
+Región Metropolitana;Alhué;13502;2019;6,084
+Región Metropolitana;Buin;13402;2019;88,895
+Región Metropolitana;Calera de Tango;13403;2019;26,470
+Región Metropolitana;Cerrillos;13102;2019;88,765
+Región Metropolitana;Cerro Navia;13103;2019;158,729
+Región Metropolitana;Colina;13301;2019;136,512
+Región Metropolitana;Conchalí;13104;2019;141,129
+Región Metropolitana;Curacaví;13503;2019;30,960
+Región Metropolitana;El Bosque;13105;2019;195,909
+Región Metropolitana;El Monte;13602;2019;38,440
+Región Metropolitana;Estación Central;13106;2019;147,798
+Región Metropolitana;Huechuraba;13107;2019;102,062
+Región Metropolitana;Independencia;13108;2019;88,209
+Región Metropolitana;Isla de Maipo;13603;2019;38,201
+Región Metropolitana;La Cisterna;13109;2019;93,377
+Región Metropolitana;La Florida;13110;2019;390,353
+Región Metropolitana;La Granja;13111;2019;144,176
+Región Metropolitana;La Pintana;13112;2019;216,330
+Región Metropolitana;La Reina;13113;2019;101,589
+Región Metropolitana;Lampa;13302;2019;108,270
+Región Metropolitana;Las Condes;13114;2019;289,616
+Región Metropolitana;Lo Barnechea;13115;2019;113,037
+Región Metropolitana;Lo Espejo;13116;2019;120,230
+Región Metropolitana;Lo Prado;13117;2019;113,669
+Región Metropolitana;Macul;13118;2019;125,596
+Región Metropolitana;Maipú;13119;2019;567,675
+Región Metropolitana;María Pinto;13504;2019;13,561
+Región Metropolitana;Melipilla;13501;2019;122,339
+Región Metropolitana;Ñuñoa;13120;2019;238,014
+Región Metropolitana;Padre Hurtado;13604;2019;61,494
+Región Metropolitana;Paine;13404;2019;71,829
+Región Metropolitana;Pedro Aguirre Cerda;13121;2019;122,641
+Región Metropolitana;Peñaflor;13605;2019;96,876
+Región Metropolitana;Peñalolén;13122;2019;246,310
+Región Metropolitana;Pirque;13202;2019;23,595
+Región Metropolitana;Providencia;13123;2019;153,748
+Región Metropolitana;Pudahuel;13124;2019;242,328
+Región Metropolitana;Puente Alto;13201;2019;640,317
+Región Metropolitana;Quilicura;13125;2019;240,200
+Región Metropolitana;Quinta Normal;13126;2019;117,377
+Región Metropolitana;Recoleta;13127;2019;172,058
+Región Metropolitana;Renca;13128;2019;154,791
+Región Metropolitana;San Bernardo;13401;2019;309,391
+Región Metropolitana;San Joaquín;13129;2019;105,256
+Región Metropolitana;San José de Maipo;13203;2019;15,274
+Región Metropolitana;San Miguel;13130;2019;120,099
+Región Metropolitana;San Pedro;13505;2019;10,186
+Región Metropolitana;San Ramón;13131;2019;100,023
+Región Metropolitana;Santiago;13101;2019;415,398
+Región Metropolitana;Talagante;13601;2019;73,185
+Región Metropolitana;Tiltil;13303;2019;18,251
+Región Metropolitana;Vitacura;13132;2019;89,004
+VI O'Higgins;Chépica;6302;2019;16,449
+VI O'Higgins;Chimbarongo;6303;2019;38,223
+VI O'Higgins;Codegua;6102;2019;14,978
+VI O'Higgins;Coinco;6103;2019;7,281
+VI O'Higgins;Coltauco;6104;2019;20,412
+VI O'Higgins;Doñihue;6105;2019;20,981
+VI O'Higgins;Graneros;6106;2019;35,535
+VI O'Higgins;La Estrella;6202;2019;3,356
+VI O'Higgins;Las Cabras;6107;2019;24,574
+VI O'Higgins;Litueche;6203;2019;6,455
+VI O'Higgins;Lolol;6304;2019;7,088
+VI O'Higgins;Machalí;6108;2019;57,069
+VI O'Higgins;Malloa;6109;2019;13,990
+VI O'Higgins;Marchihue;6204;2019;7,661
+VI O'Higgins;Mostazal;6110;2019;27,367
+VI O'Higgins;Nancagua;6305;2019;17,178
+VI O'Higgins;Navidad;6205;2019;6,013
+VI O'Higgins;Olivar;6111;2019;15,994
+VI O'Higgins;Palmilla;6306;2019;13,644
+VI O'Higgins;Paredones;6206;2019;6,212
+VI O'Higgins;Peralillo;6307;2019;11,904
+VI O'Higgins;Peumo;6112;2019;16,403
+VI O'Higgins;Pichidegua;6113;2019;20,537
+VI O'Higgins;Pichilemu;6201;2019;14,730
+VI O'Higgins;Placilla;6308;2019;9,333
+VI O'Higgins;Pumanque;6309;2019;3,442
+VI O'Higgins;Quinta de Tilcoco;6114;2019;13,541
+VI O'Higgins;Rancagua;6101;2019;235,604
+VI O'Higgins;Rengo;6115;2019;63,348
+VI O'Higgins;Requínoa;6116;2019;38,682
+VI O'Higgins;San Fernando;6301;2019;75,092
+VI O'Higgins;San Vicente;6117;2019;48,112
+VI O'Higgins;Santa Cruz;6310;2019;38,387
+VII Maule;Cauquenes;7201;2019;39,544
+VII Maule;Chanco;7202;2019;8,785
+VII Maule;Colbún;7402;2019;19,577
+VII Maule;Constitución;7102;2019;51,291
+VII Maule;Curepto;7103;2019;10,611
+VII Maule;Curicó;7301;2019;148,959
+VII Maule;Empedrado;7104;2019;4,457
+VII Maule;Hualañé;7302;2019;10,152
+VII Maule;Licantén;7303;2019;7,210
+VII Maule;Linares;7401;2019;91,398
+VII Maule;Longaví;7403;2019;29,268
+VII Maule;Maule;7105;2019;66,634
+VII Maule;Molina;7304;2019;42,712
+VII Maule;Parral;7404;2019;38,048
+VII Maule;Pelarco;7106;2019;7,950
+VII Maule;Pelluhue;7203;2019;7,850
+VII Maule;Pencahue;7107;2019;8,796
+VII Maule;Rauco;7305;2019;10,303
+VII Maule;Retiro;7405;2019;19,631
+VII Maule;Río Claro;7108;2019;13,448
+VII Maule;Romeral;7306;2019;15,559
+VII Maule;Sagrada Familia;7307;2019;19,734
+VII Maule;San Clemente;7109;2019;42,202
+VII Maule;San Javier;7406;2019;41,188
+VII Maule;San Rafael;7110;2019;10,295
+VII Maule;Talca;7101;2019;238,380
+VII Maule;Teno;7308;2019;28,781
+VII Maule;Vichuquén;7309;2019;5,085
+VII Maule;Villa Alegre;7407;2019;15,179
+VII Maule;Yerbas Buenas;7408;2019;18,498
+VIII Biobío;Alto Biobío;8314;2019;5,817
+VIII Biobío;Antuco;8302;2019;3,858
+VIII Biobío;Arauco;8202;2019;38,518
+VIII Biobío;Bulnes;16102;2019;22,112
+VIII Biobío;Cabrero;8303;2019;29,974
+VIII Biobío;Cañete;8203;2019;34,266
+VIII Biobío;Chiguayante;8103;2019;103,367
+VIII Biobío;Chillán;16101;2019;182,153
+VIII Biobío;Chillán Viejo;16103;2019;35,685
+VIII Biobío;Cobquecura;16202;2019;5,621
+VIII Biobío;Coelemu;16203;2019;17,125
+VIII Biobío;Coihueco;16302;2019;26,105
+VIII Biobío;Concepción;8101;2019;228,960
+VIII Biobío;Contulmo;8204;2019;5,412
+VIII Biobío;Coronel;8102;2019;119,664
+VIII Biobío;Curanilahue;8205;2019;35,144
+VIII Biobío;El Carmen;16104;2019;12,690
+VIII Biobío;Florida;8104;2019;8,530
+VIII Biobío;Hualpén;8112;2019;113,524
+VIII Biobío;Hualqui;8105;2019;27,197
+VIII Biobío;Laja;8304;2019;24,092
+VIII Biobío;Lebu;8201;2019;26,759
+VIII Biobío;Los Alamos;8206;2019;24,914
+VIII Biobío;Los Angeles;8301;2019;200,866
+VIII Biobío;Lota;8106;2019;46,589
+VIII Biobío;Mulchén;8305;2019;30,400
+VIII Biobío;Nacimiento;8306;2019;28,656
+VIII Biobío;Negrete;8307;2019;10,625
+VIII Biobío;Ninhue;16204;2019;5,755
+VIII Biobío;Ñiquén;16303;2019;11,536
+VIII Biobío;Pemuco;16105;2019;9,283
+VIII Biobío;Penco;8107;2019;52,504
+VIII Biobío;Pinto;16106;2019;11,546
+VIII Biobío;Portezuelo;16205;2019;5,587
+VIII Biobío;Quilaco;8308;2019;4,053
+VIII Biobío;Quilleco;8309;2019;9,737
+VIII Biobío;Quillón;16107;2019;17,089
+VIII Biobío;Quirihue;16201;2019;13,847
+VIII Biobío;Ranquil;16206;2019;6,099
+VIII Biobío;San Carlos;16301;2019;53,692
+VIII Biobío;San Fabián;16304;2019;4,135
+VIII Biobío;San Ignacio;16108;2019;15,709
+VIII Biobío;San Nicolás;16305;2019;11,816
+VIII Biobío;San Pedro de la Paz;8108;2019;148,811
+VIII Biobío;San Rosendo;8310;2019;3,868
+VIII Biobío;Santa Bárbara;8311;2019;12,695
+VIII Biobío;Santa Juana;8109;2019;13,743
+VIII Biobío;Talcahuano;8110;2019;179,474
+VIII Biobío;Tirúa;8207;2019;10,527
+VIII Biobío;Tomé;8111;2019;55,802
+VIII Biobío;Treguaco;16207;2019;5,238
+VIII Biobío;Tucapel;8312;2019;14,647
+VIII Biobío;Yumbel;8313;2019;21,553
+VIII Biobío;Yungay;16109;2019;18,381
+IX Araucanía;Angol;9201;2019;56,345
+IX Araucanía;Carahue;9102;2019;26,341
+IX Araucanía;Cholchol;9121;2019;12,212
+IX Araucanía;Collipulli;9202;2019;24,832
+IX Araucanía;Cunco;9103;2019;18,800
+IX Araucanía;Curacautín;9203;2019;16,969
+IX Araucanía;Curarrehue;9104;2019;7,520
+IX Araucanía;Ercilla;9204;2019;9,082
+IX Araucanía;Freire;9105;2019;24,058
+IX Araucanía;Galvarino;9106;2019;12,341
+IX Araucanía;Gorbea;9107;2019;15,537
+IX Araucanía;Lautaro;9108;2019;37,756
+IX Araucanía;Loncoche;9109;2019;23,109
+IX Araucanía;Lonquimay;9205;2019;10,980
+IX Araucanía;Los Sauces;9206;2019;7,791
+IX Araucanía;Lumaco;9207;2019;11,099
+IX Araucanía;Melipeuco;9110;2019;5,798
+IX Araucanía;Nueva Imperial;9111;2019;33,876
+IX Araucanía;Padre Las Casas;9112;2019;96,098
+IX Araucanía;Perquenco;9113;2019;7,393
+IX Araucanía;Pitrufquén;9114;2019;25,100
+IX Araucanía;Pucón;9115;2019;29,536
+IX Araucanía;Purén;9208;2019;12,769
+IX Araucanía;Renaico;9209;2019;10,873
+IX Araucanía;Saavedra;9116;2019;12,425
+IX Araucanía;Temuco;9101;2019;296,889
+IX Araucanía;Teodoro Schmidt;9117;2019;16,061
+IX Araucanía;Toltén;9118;2019;11,274
+IX Araucanía;Traiguén;9210;2019;19,567
+IX Araucanía;Victoria;9211;2019;34,762
+IX Araucanía;Vilcún;9119;2019;28,947
+IX Araucanía;Villarrica;9120;2019;57,231
+XIV Los Ríos;Corral;14102;2019;5,775
+XIV Los Ríos;Futrono;14202;2019;16,779
+XIV Los Ríos;La Unión;14201;2019;44,002
+XIV Los Ríos;Lago Ranco;14203;2019;10,938
+XIV Los Ríos;Lanco;14103;2019;18,244
+XIV Los Ríos;Los Lagos;14104;2019;23,112
+XIV Los Ríos;Máfil;14105;2019;7,449
+XIV Los Ríos;Mariquina;14106;2019;23,186
+XIV Los Ríos;Paillaco;14107;2019;21,154
+XIV Los Ríos;Panguipulli;14108;2019;36,853
+XIV Los Ríos;Río Bueno;14204;2019;32,861
+XIV Los Ríos;Valdivia;14101;2019;175,090
+X Los Lagos;Ancud;10202;2019;44,476
+X Los Lagos;Calbuco;10102;2019;35,654
+X Los Lagos;Castro;10201;2019;50,159
+X Los Lagos;Chaitén;10401;2019;4,605
+X Los Lagos;Chonchi;10203;2019;15,745
+X Los Lagos;Cochamó;10103;2019;3,939
+X Los Lagos;Curaco de Vélez;10204;2019;4,323
+X Los Lagos;Dalcahue;10205;2019;16,541
+X Los Lagos;Fresia;10104;2019;12,507
+X Los Lagos;Frutillar;10105;2019;17,383
+X Los Lagos;Futaleufú;10402;2019;3,513
+X Los Lagos;Hualaihué;10403;2019;11,519
+X Los Lagos;Llanquihue;10107;2019;18,268
+X Los Lagos;Los Muermos;10106;2019;16,030
+X Los Lagos;Maullín;10108;2019;15,408
+X Los Lagos;Osorno;10301;2019;158,234
+X Los Lagos;Palena;10404;2019;2,119
+X Los Lagos;Puerto Montt;10101;2019;261,117
+X Los Lagos;Puerto Octay;10302;2019;9,146
+X Los Lagos;Puerto Varas;10109;2019;42,423
+X Los Lagos;Puqueldón;10206;2019;3,882
+X Los Lagos;Purranque;10303;2019;21,098
+X Los Lagos;Puyehue;10304;2019;10,798
+X Los Lagos;Queilén;10207;2019;5,534
+X Los Lagos;Quellón;10208;2019;32,867
+X Los Lagos;Quemchi;10209;2019;8,979
+X Los Lagos;Quinchao;10210;2019;8,625
+X Los Lagos;Río Negro;10305;2019;13,028
+X Los Lagos;San Juan de la Costa;10306;2019;7,056
+X Los Lagos;San Pablo;10307;2019;10,356
+XI Aysén;Aisén;11201;2019;28,914
+XI Aysén;Chile Chico;11401;2019;5,214
+XI Aysén;Cisnes;11202;2019;5,387
+XI Aysén;Cochrane;11301;2019;3,455
+XI Aysén;Coihaique;11101;2019;62,799
+XI Aysén;Guaitecas;11203;2019;1,771
+XI Aysén;Lago Verde;11102;2019;950
+XI Aysén;O'Higgins;11302;2019;739
+XI Aysén;Río Ibáñez;11402;2019;2,262
+XI Aysén;Tortel;11303;2019;692
+XII Magallanes y la Antártica;Antártica;12202;2019;214
+XII Magallanes y la Antártica;Cabo de Hornos;12201;2019;2,987
+XII Magallanes y la Antártica;Laguna Blanca;12102;2019;555
+XII Magallanes y la Antártica;Natales;12401;2019;22,136
+XII Magallanes y la Antártica;Porvenir;12301;2019;8,111
+XII Magallanes y la Antártica;Primavera;12302;2019;500
+XII Magallanes y la Antártica;Punta Arenas;12101;2019;132,236
+XII Magallanes y la Antártica;Río Verde;12103;2019;86
+XII Magallanes y la Antártica;San Gregorio;12104;2019;260
+XII Magallanes y la Antártica;Timaukel;12303;2019;153
+XII Magallanes y la Antártica;Torres del Paine;12402;2019;729
+XV Arica y Parinacota;Arica;15101;2020;255,390
+XV Arica y Parinacota;Camarones;15102;2020;791
+XV Arica y Parinacota;General Lagos;15202;2020;502
+XV Arica y Parinacota;Putre;15201;2020;2,095
+I Tarapacá;Alto Hospicio;1107;2020;145,285
+I Tarapacá;Camiña;1402;2020;1,262
+I Tarapacá;Colchane;1403;2020;1,671
+I Tarapacá;Huara;1404;2020;2,991
+I Tarapacá;Iquique;1101;2020;203,439
+I Tarapacá;Pica;1405;2020;6,645
+I Tarapacá;Pozo Almonte;1401;2020;14,936
+II Antofagasta;Antofagasta;2101;2020;406,362
+II Antofagasta;Calama;2201;2020;189,654
+II Antofagasta;María Elena;2302;2020;4,371
+II Antofagasta;Mejillones;2102;2020;12,403
+II Antofagasta;Ollagüe;2202;2020;305
+II Antofagasta;San Pedro de Atacama;2203;2020;8,476
+II Antofagasta;Sierra Gorda;2103;2020;3,359
+II Antofagasta;Taltal;2104;2020;13,601
+II Antofagasta;Tocopilla;2301;2020;28,507
+III Atacama;Alto del Carmen;3302;2020;6,829
+III Atacama;Caldera;3102;2020;18,888
+III Atacama;Chañaral;3201;2020;13,511
+III Atacama;Copiapó;3101;2020;188,189
+III Atacama;Diego de Almagro;3202;2020;13,785
+III Atacama;Freirina;3303;2020;7,306
+III Atacama;Huasco;3304;2020;11,093
+III Atacama;Tierra Amarilla;3103;2020;18,816
+III Atacama;Vallenar;3301;2020;54,046
+IV Coquimbo;Andacollo;4103;2020;11,734
+IV Coquimbo;Canela;4202;2020;9,864
+IV Coquimbo;Combarbalá;4302;2020;15,649
+IV Coquimbo;Coquimbo;4102;2020;257,931
+IV Coquimbo;Illapel;4201;2020;32,964
+IV Coquimbo;La Higuera;4104;2020;4,893
+IV Coquimbo;La Serena;4101;2020;237,433
+IV Coquimbo;Los Vilos;4203;2020;20,723
+IV Coquimbo;Monte Patria;4303;2020;34,365
+IV Coquimbo;Ovalle;4301;2020;127,072
+IV Coquimbo;Paiguano;4105;2020;4,503
+IV Coquimbo;Punitaqui;4304;2020;11,058
+IV Coquimbo;Río Hurtado;4305;2020;4,957
+IV Coquimbo;Salamanca;4204;2020;27,738
+IV Coquimbo;Vicuña;4106;2020;27,069
+V Valparaíso;Algarrobo;5602;2020;11,032
+V Valparaíso;Cabildo;5402;2020;20,113
+V Valparaíso;Calle Larga;5302;2020;15,947
+V Valparaíso;Cartagena;5603;2020;21,036
+V Valparaíso;Casablanca;5102;2020;31,296
+V Valparaíso;Catemu;5702;2020;14,389
+V Valparaíso;Concón;5103;2020;55,805
+V Valparaíso;El Quisco;5604;2020;14,479
+V Valparaíso;El Tabo;5605;2020;11,346
+V Valparaíso;Hijuelas;5503;2020;18,400
+V Valparaíso;Isla de Pascua;5201;2020;7,582
+V Valparaíso;Juan Fernández;5104;2020;896
+V Valparaíso;Calera;5502;2020;56,067
+V Valparaíso;La Cruz;5504;2020;21,790
+V Valparaíso;La Ligua;5401;2020;33,803
+V Valparaíso;Limache;5802;2020;46,870
+V Valparaíso;Llaillay;5703;2020;25,331
+V Valparaíso;Los Andes;5301;2020;69,609
+V Valparaíso;Nogales;5506;2020;24,079
+V Valparaíso;Olmué;5803;2020;16,374
+V Valparaíso;Panquehue;5704;2020;7,438
+V Valparaíso;Papudo;5403;2020;5,417
+V Valparaíso;Petorca;5404;2020;10,432
+V Valparaíso;Puchuncaví;5105;2020;19,572
+V Valparaíso;Putaendo;5705;2020;16,702
+V Valparaíso;Quillota;5501;2020;99,063
+V Valparaíso;Quilpué;5801;2020;181,831
+V Valparaíso;Quintero;5107;2020;29,931
+V Valparaíso;Rinconada;5303;2020;12,013
+V Valparaíso;San Antonio;5601;2020;98,299
+V Valparaíso;San Esteban;5304;2020;19,859
+V Valparaíso;San Felipe;5701;2020;76,103
+V Valparaíso;Santa María;5706;2020;16,489
+V Valparaíso;Santo Domingo;5606;2020;9,906
+V Valparaíso;Valparaíso;5101;2020;295,916
+V Valparaíso;Villa Alemana;5804;2020;155,527
+V Valparaíso;Viña del Mar;5109;2020;330,898
+V Valparaíso;Zapallar;5405;2020;6,274
+Región Metropolitana;Alhué;13502;2020;6,179
+Región Metropolitana;Buin;13402;2020;90,292
+Región Metropolitana;Calera de Tango;13403;2020;26,941
+Región Metropolitana;Cerrillos;13102;2020;89,544
+Región Metropolitana;Cerro Navia;13103;2020;158,670
+Región Metropolitana;Colina;13301;2020;140,475
+Región Metropolitana;Conchalí;13104;2020;140,988
+Región Metropolitana;Curacaví;13503;2020;31,274
+Región Metropolitana;El Bosque;13105;2020;196,166
+Región Metropolitana;El Monte;13602;2020;39,125
+Región Metropolitana;Estación Central;13106;2020;148,400
+Región Metropolitana;Huechuraba;13107;2020;103,549
+Región Metropolitana;Independencia;13108;2020;89,493
+Región Metropolitana;Isla de Maipo;13603;2020;38,916
+Región Metropolitana;La Cisterna;13109;2020;93,480
+Región Metropolitana;La Florida;13110;2020;390,403
+Región Metropolitana;La Granja;13111;2020;144,260
+Región Metropolitana;La Pintana;13112;2020;217,034
+Región Metropolitana;La Reina;13113;2020;101,518
+Región Metropolitana;Lampa;13302;2020;114,237
+Región Metropolitana;Las Condes;13114;2020;290,869
+Región Metropolitana;Lo Barnechea;13115;2020;115,313
+Región Metropolitana;Lo Espejo;13116;2020;120,148
+Región Metropolitana;Lo Prado;13117;2020;113,748
+Región Metropolitana;Macul;13118;2020;125,855
+Región Metropolitana;Maipú;13119;2020;571,632
+Región Metropolitana;María Pinto;13504;2020;13,728
+Región Metropolitana;Melipilla;13501;2020;123,669
+Región Metropolitana;Ñuñoa;13120;2020;242,287
+Región Metropolitana;Padre Hurtado;13604;2020;62,906
+Región Metropolitana;Paine;13404;2020;73,044
+Región Metropolitana;Pedro Aguirre Cerda;13121;2020;122,600
+Región Metropolitana;Peñaflor;13605;2020;98,603
+Región Metropolitana;Peñalolén;13122;2020;246,871
+Región Metropolitana;Pirque;13202;2020;23,979
+Región Metropolitana;Providencia;13123;2020;155,166
+Región Metropolitana;Pudahuel;13124;2020;244,395
+Región Metropolitana;Puente Alto;13201;2020;647,428
+Región Metropolitana;Quilicura;13125;2020;248,306
+Región Metropolitana;Quinta Normal;13126;2020;117,930
+Región Metropolitana;Recoleta;13127;2020;172,820
+Región Metropolitana;Renca;13128;2020;155,465
+Región Metropolitana;San Bernardo;13401;2020;312,169
+Región Metropolitana;San Joaquín;13129;2020;105,409
+Región Metropolitana;San José de Maipo;13203;2020;15,329
+Región Metropolitana;San Miguel;13130;2020;122,562
+Región Metropolitana;San Pedro;13505;2020;10,323
+Región Metropolitana;San Ramón;13131;2020;100,025
+Región Metropolitana;Santiago;13101;2020;430,114
+Región Metropolitana;Talagante;13601;2020;73,748
+Región Metropolitana;Tiltil;13303;2020;18,409
+Región Metropolitana;Vitacura;13132;2020;89,085
+VI O'Higgins;Chépica;6302;2020;16,496
+VI O'Higgins;Chimbarongo;6303;2020;38,350
+VI O'Higgins;Codegua;6102;2020;15,143
+VI O'Higgins;Coinco;6103;2020;7,286
+VI O'Higgins;Coltauco;6104;2020;20,558
+VI O'Higgins;Doñihue;6105;2020;21,119
+VI O'Higgins;Graneros;6106;2020;35,941
+VI O'Higgins;La Estrella;6202;2020;3,370
+VI O'Higgins;Las Cabras;6107;2020;24,689
+VI O'Higgins;Litueche;6203;2020;6,480
+VI O'Higgins;Lolol;6304;2020;7,100
+VI O'Higgins;Machalí;6108;2020;58,209
+VI O'Higgins;Malloa;6109;2020;13,995
+VI O'Higgins;Marchihue;6204;2020;7,667
+VI O'Higgins;Mostazal;6110;2020;27,548
+VI O'Higgins;Nancagua;6305;2020;17,171
+VI O'Higgins;Navidad;6205;2020;6,013
+VI O'Higgins;Olivar;6111;2020;16,281
+VI O'Higgins;Palmilla;6306;2020;13,713
+VI O'Higgins;Paredones;6206;2020;6,148
+VI O'Higgins;Peralillo;6307;2020;11,967
+VI O'Higgins;Peumo;6112;2020;16,464
+VI O'Higgins;Pichidegua;6113;2020;20,583
+VI O'Higgins;Pichilemu;6201;2020;14,787
+VI O'Higgins;Placilla;6308;2020;9,322
+VI O'Higgins;Pumanque;6309;2020;3,431
+VI O'Higgins;Quinta de Tilcoco;6114;2020;13,596
+VI O'Higgins;Rancagua;6101;2020;235,849
+VI O'Higgins;Rengo;6115;2020;63,820
+VI O'Higgins;Requínoa;6116;2020;41,359
+VI O'Higgins;San Fernando;6301;2020;75,329
+VI O'Higgins;San Vicente;6117;2020;48,318
+VI O'Higgins;Santa Cruz;6310;2020;38,517
+VII Maule;Cauquenes;7201;2020;39,223
+VII Maule;Chanco;7202;2020;8,697
+VII Maule;Colbún;7402;2020;19,586
+VII Maule;Constitución;7102;2020;51,412
+VII Maule;Curepto;7103;2020;10,534
+VII Maule;Curicó;7301;2020;150,024
+VII Maule;Empedrado;7104;2020;4,451
+VII Maule;Hualañé;7302;2020;10,121
+VII Maule;Licantén;7303;2020;7,188
+VII Maule;Linares;7401;2020;91,372
+VII Maule;Longaví;7403;2020;29,165
+VII Maule;Maule;7105;2020;71,691
+VII Maule;Molina;7304;2020;42,767
+VII Maule;Parral;7404;2020;37,839
+VII Maule;Pelarco;7106;2020;7,958
+VII Maule;Pelluhue;7203;2020;7,896
+VII Maule;Pencahue;7107;2020;8,785
+VII Maule;Rauco;7305;2020;10,358
+VII Maule;Retiro;7405;2020;19,574
+VII Maule;Río Claro;7108;2020;13,423
+VII Maule;Romeral;7306;2020;15,663
+VII Maule;Sagrada Familia;7307;2020;19,751
+VII Maule;San Clemente;7109;2020;42,303
+VII Maule;San Javier;7406;2020;41,156
+VII Maule;San Rafael;7110;2020;10,412
+VII Maule;Talca;7101;2020;239,317
+VII Maule;Teno;7308;2020;28,809
+VII Maule;Vichuquén;7309;2020;5,066
+VII Maule;Villa Alegre;7407;2020;15,119
+VII Maule;Yerbas Buenas;7408;2020;18,542
+VIII Biobío;Alto Biobío;8314;2020;5,744
+VIII Biobío;Antuco;8302;2020;3,842
+VIII Biobío;Arauco;8202;2020;38,521
+VIII Biobío;Bulnes;16102;2020;22,133
+VIII Biobío;Cabrero;8303;2020;30,173
+VIII Biobío;Cañete;8203;2020;34,214
+VIII Biobío;Chiguayante;8103;2020;104,382
+VIII Biobío;Chillán;16101;2020;182,622
+VIII Biobío;Chillán Viejo;16103;2020;36,553
+VIII Biobío;Cobquecura;16202;2020;5,584
+VIII Biobío;Coelemu;16203;2020;17,164
+VIII Biobío;Coihueco;16302;2020;26,159
+VIII Biobío;Concepción;8101;2020;228,779
+VIII Biobío;Contulmo;8204;2020;5,365
+VIII Biobío;Coronel;8102;2020;120,729
+VIII Biobío;Curanilahue;8205;2020;35,157
+VIII Biobío;El Carmen;16104;2020;12,627
+VIII Biobío;Florida;8104;2020;8,433
+VIII Biobío;Hualpén;8112;2020;114,833
+VIII Biobío;Hualqui;8105;2020;27,670
+VIII Biobío;Laja;8304;2020;24,079
+VIII Biobío;Lebu;8201;2020;26,791
+VIII Biobío;Los Alamos;8206;2020;25,230
+VIII Biobío;Los Angeles;8301;2020;202,214
+VIII Biobío;Lota;8106;2020;46,241
+VIII Biobío;Mulchén;8305;2020;30,354
+VIII Biobío;Nacimiento;8306;2020;28,699
+VIII Biobío;Negrete;8307;2020;10,717
+VIII Biobío;Ninhue;16204;2020;5,732
+VIII Biobío;Ñiquén;16303;2020;11,501
+VIII Biobío;Pemuco;16105;2020;9,276
+VIII Biobío;Penco;8107;2020;52,695
+VIII Biobío;Pinto;16106;2020;11,588
+VIII Biobío;Portezuelo;16205;2020;5,575
+VIII Biobío;Quilaco;8308;2020;4,040
+VIII Biobío;Quilleco;8309;2020;9,654
+VIII Biobío;Quillón;16107;2020;17,141
+VIII Biobío;Quirihue;16201;2020;13,943
+VIII Biobío;Ranquil;16206;2020;6,105
+VIII Biobío;San Carlos;16301;2020;53,815
+VIII Biobío;San Fabián;16304;2020;4,146
+VIII Biobío;San Ignacio;16108;2020;15,611
+VIII Biobío;San Nicolás;16305;2020;11,895
+VIII Biobío;San Pedro de la Paz;8108;2020;153,562
+VIII Biobío;San Rosendo;8310;2020;3,843
+VIII Biobío;Santa Bárbara;8311;2020;12,623
+VIII Biobío;Santa Juana;8109;2020;13,728
+VIII Biobío;Talcahuano;8110;2020;179,670
+VIII Biobío;Tirúa;8207;2020;10,528
+VIII Biobío;Tomé;8111;2020;55,760
+VIII Biobío;Treguaco;16207;2020;5,212
+VIII Biobío;Tucapel;8312;2020;14,700
+VIII Biobío;Yumbel;8313;2020;21,523
+VIII Biobío;Yungay;16109;2020;18,399
+IX Araucanía;Angol;9201;2020;56,563
+IX Araucanía;Carahue;9102;2020;26,276
+IX Araucanía;Cholchol;9121;2020;12,287
+IX Araucanía;Collipulli;9202;2020;24,875
+IX Araucanía;Cunco;9103;2020;18,724
+IX Araucanía;Curacautín;9203;2020;16,907
+IX Araucanía;Curarrehue;9104;2020;7,533
+IX Araucanía;Ercilla;9204;2020;9,041
+IX Araucanía;Freire;9105;2020;23,867
+IX Araucanía;Galvarino;9106;2020;12,279
+IX Araucanía;Gorbea;9107;2020;15,492
+IX Araucanía;Lautaro;9108;2020;37,952
+IX Araucanía;Loncoche;9109;2020;23,003
+IX Araucanía;Lonquimay;9205;2020;10,981
+IX Araucanía;Los Sauces;9206;2020;7,765
+IX Araucanía;Lumaco;9207;2020;11,039
+IX Araucanía;Melipeuco;9110;2020;5,782
+IX Araucanía;Nueva Imperial;9111;2020;33,976
+IX Araucanía;Padre Las Casas;9112;2020;98,459
+IX Araucanía;Perquenco;9113;2020;7,421
+IX Araucanía;Pitrufquén;9114;2020;25,184
+IX Araucanía;Pucón;9115;2020;29,991
+IX Araucanía;Purén;9208;2020;12,710
+IX Araucanía;Renaico;9209;2020;10,942
+IX Araucanía;Saavedra;9116;2020;12,289
+IX Araucanía;Temuco;9101;2020;298,974
+IX Araucanía;Teodoro Schmidt;9117;2020;16,028
+IX Araucanía;Toltén;9118;2020;11,232
+IX Araucanía;Traiguén;9210;2020;19,473
+IX Araucanía;Victoria;9211;2020;34,674
+IX Araucanía;Vilcún;9119;2020;29,264
+IX Araucanía;Villarrica;9120;2020;57,753
+XIV Los Ríos;Corral;14102;2020;5,776
+XIV Los Ríos;Futrono;14202;2020;16,830
+XIV Los Ríos;La Unión;14201;2020;44,157
+XIV Los Ríos;Lago Ranco;14203;2020;10,947
+XIV Los Ríos;Lanco;14103;2020;18,396
+XIV Los Ríos;Los Lagos;14104;2020;23,229
+XIV Los Ríos;Máfil;14105;2020;7,445
+XIV Los Ríos;Mariquina;14106;2020;23,448
+XIV Los Ríos;Paillaco;14107;2020;21,217
+XIV Los Ríos;Panguipulli;14108;2020;36,923
+XIV Los Ríos;Río Bueno;14204;2020;32,781
+XIV Los Ríos;Valdivia;14101;2020;176,840
+X Los Lagos;Ancud;10202;2020;44,568
+X Los Lagos;Calbuco;10102;2020;35,821
+X Los Lagos;Castro;10201;2020;50,483
+X Los Lagos;Chaitén;10401;2020;4,817
+X Los Lagos;Chonchi;10203;2020;15,860
+X Los Lagos;Cochamó;10103;2020;3,899
+X Los Lagos;Curaco de Vélez;10204;2020;4,356
+X Los Lagos;Dalcahue;10205;2020;16,839
+X Los Lagos;Fresia;10104;2020;12,418
+X Los Lagos;Frutillar;10105;2020;17,415
+X Los Lagos;Futaleufú;10402;2020;3,542
+X Los Lagos;Hualaihué;10403;2020;11,638
+X Los Lagos;Llanquihue;10107;2020;18,291
+X Los Lagos;Los Muermos;10106;2020;15,887
+X Los Lagos;Maullín;10108;2020;15,316
+X Los Lagos;Osorno;10301;2020;158,259
+X Los Lagos;Palena;10404;2020;2,109
+X Los Lagos;Puerto Montt;10101;2020;265,292
+X Los Lagos;Puerto Octay;10302;2020;9,026
+X Los Lagos;Puerto Varas;10109;2020;42,812
+X Los Lagos;Puqueldón;10206;2020;3,837
+X Los Lagos;Purranque;10303;2020;21,001
+X Los Lagos;Puyehue;10304;2020;10,734
+X Los Lagos;Queilén;10207;2020;5,531
+X Los Lagos;Quellón;10208;2020;33,445
+X Los Lagos;Quemchi;10209;2020;8,947
+X Los Lagos;Quinchao;10210;2020;8,558
+X Los Lagos;Río Negro;10305;2020;12,855
+X Los Lagos;San Juan de la Costa;10306;2020;6,941
+X Los Lagos;San Pablo;10307;2020;10,318
+XI Aysén;Aisén;11201;2020;29,212
+XI Aysén;Chile Chico;11401;2020;5,233
+XI Aysén;Cisnes;11202;2020;5,408
+XI Aysén;Cochrane;11301;2020;3,480
+XI Aysén;Coihaique;11101;2020;63,343
+XI Aysén;Guaitecas;11203;2020;1,781
+XI Aysén;Lago Verde;11102;2020;941
+XI Aysén;O'Higgins;11302;2020;762
+XI Aysén;Río Ibáñez;11402;2020;2,240
+XI Aysén;Tortel;11303;2020;702
+XII Magallanes y la Antártica;Antártica;12202;2020;222
+XII Magallanes y la Antártica;Cabo de Hornos;12201;2020;3,035
+XII Magallanes y la Antártica;Laguna Blanca;12102;2020;550
+XII Magallanes y la Antártica;Natales;12401;2020;22,267
+XII Magallanes y la Antártica;Porvenir;12301;2020;8,273
+XII Magallanes y la Antártica;Primavera;12302;2020;495
+XII Magallanes y la Antártica;Punta Arenas;12101;2020;132,654
+XII Magallanes y la Antártica;Río Verde;12103;2020;79
+XII Magallanes y la Antártica;San Gregorio;12104;2020;252
+XII Magallanes y la Antártica;Timaukel;12303;2020;144
+XII Magallanes y la Antártica;Torres del Paine;12402;2020;722

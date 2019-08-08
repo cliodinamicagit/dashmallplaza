@@ -1,0 +1,58 @@
+/* Basicos -----------------------------------------------------------------------------------------------------------*/
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+#contenido {
+    background-color: #f2f2f2;
+}
+
+/* Header ------------------------------------------------------------------------------------------------------------*/
+#id_header {
+    background-color: rgba(137,8,8,0.95);
+    border-radius: 5px;
+    height: 1.5cm;
+
+}
+
+#id_img {
+    height: 1.5cm;
+    width: available;
+
+}
+
+
+#dropdown_malls {
+    font-size: small;
+}
+
+.bloque {
+    background-color: #f9f9f9;
+    box-shadow: 2px 2px 2px lightgrey;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 3px;
+    float: inherit;
+    horiz-align: center;
+}
+
+.bloque-mini {
+    background-color: #f9f9f9;
+    box-shadow: 2px 2px 2px lightgrey;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 3px;
+    text-align: center;
+    font-max-size: xx-small;
+    height: 1.5cm;
+}
+
+#map_det {
+    font-size: small;
+
+    background-color: rgba(0,0,0,0);
+
+}

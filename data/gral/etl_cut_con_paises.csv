@@ -1,0 +1,3233 @@
+pais;pais_iso3;id_region;nombre_region;abreviatura_region;id_provincia;nombre_provincia;id_comuna;nombre_comuna
+Chile;CHL;1;Tarapacá;TPCA;11;Iquique;1101;Iquique
+Chile;CHL;1;Tarapacá;TPCA;11;Iquique;1107;Alto Hospicio
+Chile;CHL;1;Tarapacá;TPCA;14;Tamarugal;1401;Pozo Almonte
+Chile;CHL;1;Tarapacá;TPCA;14;Tamarugal;1402;Camiña
+Chile;CHL;1;Tarapacá;TPCA;14;Tamarugal;1403;Colchane
+Chile;CHL;1;Tarapacá;TPCA;14;Tamarugal;1404;Huara
+Chile;CHL;1;Tarapacá;TPCA;14;Tamarugal;1405;Pica
+Chile;CHL;2;Antofagasta;ANTOF;21;Antofagasta;2101;Antofagasta
+Chile;CHL;2;Antofagasta;ANTOF;21;Antofagasta;2102;Mejillones
+Chile;CHL;2;Antofagasta;ANTOF;21;Antofagasta;2103;Sierra Gorda
+Chile;CHL;2;Antofagasta;ANTOF;21;Antofagasta;2104;Taltal
+Chile;CHL;2;Antofagasta;ANTOF;22;El Loa;2201;Calama
+Chile;CHL;2;Antofagasta;ANTOF;22;El Loa;2202;Ollagüe
+Chile;CHL;2;Antofagasta;ANTOF;22;El Loa;2203;San Pedro de Atacama
+Chile;CHL;2;Antofagasta;ANTOF;23;Tocopilla;2301;Tocopilla
+Chile;CHL;2;Antofagasta;ANTOF;23;Tocopilla;2302;María Elena
+Chile;CHL;3;Atacama;ATCMA;31;Copiapó;3101;Copiapó
+Chile;CHL;3;Atacama;ATCMA;31;Copiapó;3102;Caldera
+Chile;CHL;3;Atacama;ATCMA;31;Copiapó;3103;Tierra Amarilla
+Chile;CHL;3;Atacama;ATCMA;32;Chañaral;3201;Chañaral
+Chile;CHL;3;Atacama;ATCMA;32;Chañaral;3202;Diego de Almagro
+Chile;CHL;3;Atacama;ATCMA;33;Huasco;3301;Vallenar
+Chile;CHL;3;Atacama;ATCMA;33;Huasco;3302;Alto del Carmen
+Chile;CHL;3;Atacama;ATCMA;33;Huasco;3303;Freirina
+Chile;CHL;3;Atacama;ATCMA;33;Huasco;3304;Huasco
+Chile;CHL;4;Coquimbo;COQ;41;Elqui;4101;La Serena
+Chile;CHL;4;Coquimbo;COQ;41;Elqui;4102;Coquimbo
+Chile;CHL;4;Coquimbo;COQ;41;Elqui;4103;Andacollo
+Chile;CHL;4;Coquimbo;COQ;41;Elqui;4104;La Higuera
+Chile;CHL;4;Coquimbo;COQ;41;Elqui;4105;Paiguano
+Chile;CHL;4;Coquimbo;COQ;41;Elqui;4106;Vicuña
+Chile;CHL;4;Coquimbo;COQ;42;Choapa;4201;Illapel
+Chile;CHL;4;Coquimbo;COQ;42;Choapa;4202;Canela
+Chile;CHL;4;Coquimbo;COQ;42;Choapa;4203;Los Vilos
+Chile;CHL;4;Coquimbo;COQ;42;Choapa;4204;Salamanca
+Chile;CHL;4;Coquimbo;COQ;43;Limarí;4301;Ovalle
+Chile;CHL;4;Coquimbo;COQ;43;Limarí;4302;Combarbalá
+Chile;CHL;4;Coquimbo;COQ;43;Limarí;4303;Monte Patria
+Chile;CHL;4;Coquimbo;COQ;43;Limarí;4304;Punitaqui
+Chile;CHL;4;Coquimbo;COQ;43;Limarí;4305;Río Hurtado
+Chile;CHL;5;Valparaíso;VALPO;51;Valparaíso;5101;Valparaíso
+Chile;CHL;5;Valparaíso;VALPO;51;Valparaíso;5102;Casablanca
+Chile;CHL;5;Valparaíso;VALPO;51;Valparaíso;5103;Concón
+Chile;CHL;5;Valparaíso;VALPO;51;Valparaíso;5104;Juan Fernández
+Chile;CHL;5;Valparaíso;VALPO;51;Valparaíso;5105;Puchuncaví
+Chile;CHL;5;Valparaíso;VALPO;51;Valparaíso;5107;Quintero
+Chile;CHL;5;Valparaíso;VALPO;51;Valparaíso;5109;Viña del Mar
+Chile;CHL;5;Valparaíso;VALPO;52;Isla de Pascua;5201;Isla de Pascua
+Chile;CHL;5;Valparaíso;VALPO;53;Los Andes;5301;Los Andes
+Chile;CHL;5;Valparaíso;VALPO;53;Los Andes;5302;Calle Larga
+Chile;CHL;5;Valparaíso;VALPO;53;Los Andes;5303;Rinconada
+Chile;CHL;5;Valparaíso;VALPO;53;Los Andes;5304;San Esteban
+Chile;CHL;5;Valparaíso;VALPO;54;Petorca;5401;La Ligua
+Chile;CHL;5;Valparaíso;VALPO;54;Petorca;5402;Cabildo
+Chile;CHL;5;Valparaíso;VALPO;54;Petorca;5403;Papudo
+Chile;CHL;5;Valparaíso;VALPO;54;Petorca;5404;Petorca
+Chile;CHL;5;Valparaíso;VALPO;54;Petorca;5405;Zapallar
+Chile;CHL;5;Valparaíso;VALPO;55;Quillota;5501;Quillota
+Chile;CHL;5;Valparaíso;VALPO;55;Quillota;5502;Calera
+Chile;CHL;5;Valparaíso;VALPO;55;Quillota;5503;Hijuelas
+Chile;CHL;5;Valparaíso;VALPO;55;Quillota;5504;La Cruz
+Chile;CHL;5;Valparaíso;VALPO;55;Quillota;5506;Nogales
+Chile;CHL;5;Valparaíso;VALPO;56;San Antonio;5601;San Antonio
+Chile;CHL;5;Valparaíso;VALPO;56;San Antonio;5602;Algarrobo
+Chile;CHL;5;Valparaíso;VALPO;56;San Antonio;5603;Cartagena
+Chile;CHL;5;Valparaíso;VALPO;56;San Antonio;5604;El Quisco
+Chile;CHL;5;Valparaíso;VALPO;56;San Antonio;5605;El Tabo
+Chile;CHL;5;Valparaíso;VALPO;56;San Antonio;5606;Santo Domingo
+Chile;CHL;5;Valparaíso;VALPO;57;San Felipe de Aconcagua;5701;San Felipe
+Chile;CHL;5;Valparaíso;VALPO;57;San Felipe de Aconcagua;5702;Catemu
+Chile;CHL;5;Valparaíso;VALPO;57;San Felipe de Aconcagua;5703;Llaillay
+Chile;CHL;5;Valparaíso;VALPO;57;San Felipe de Aconcagua;5704;Panquehue
+Chile;CHL;5;Valparaíso;VALPO;57;San Felipe de Aconcagua;5705;Putaendo
+Chile;CHL;5;Valparaíso;VALPO;57;San Felipe de Aconcagua;5706;Santa María
+Chile;CHL;5;Valparaíso;VALPO;58;Marga Marga;5801;Quilpué
+Chile;CHL;5;Valparaíso;VALPO;58;Marga Marga;5802;Limache
+Chile;CHL;5;Valparaíso;VALPO;58;Marga Marga;5803;Olmué
+Chile;CHL;5;Valparaíso;VALPO;58;Marga Marga;5804;Villa Alemana
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6101;Rancagua
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6102;Codegua
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6103;Coinco
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6104;Coltauco
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6105;Doñihue
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6106;Graneros
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6107;Las Cabras
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6108;Machalí
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6109;Malloa
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6110;Mostazal
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6111;Olivar
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6112;Peumo
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6113;Pichidegua
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6114;Quinta de Tilcoco
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6115;Rengo
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6116;Requínoa
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;61;Cachapoal;6117;San Vicente
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;62;Cardenal Caro;6201;Pichilemu
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;62;Cardenal Caro;6202;La Estrella
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;62;Cardenal Caro;6203;Litueche
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;62;Cardenal Caro;6204;Marchihue
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;62;Cardenal Caro;6205;Navidad
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;62;Cardenal Caro;6206;Paredones
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;63;Colchagua;6301;San Fernando
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;63;Colchagua;6302;Chépica
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;63;Colchagua;6303;Chimbarongo
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;63;Colchagua;6304;Lolol
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;63;Colchagua;6305;Nancagua
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;63;Colchagua;6306;Palmilla
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;63;Colchagua;6307;Peralillo
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;63;Colchagua;6308;Placilla
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;63;Colchagua;6309;Pumanque
+Chile;CHL;6;Libertador General Bernardo O'Higgins;LGBO;63;Colchagua;6310;Santa Cruz
+Chile;CHL;7;Maule;MAULE;71;Talca;7101;Talca
+Chile;CHL;7;Maule;MAULE;71;Talca;7102;Constitución
+Chile;CHL;7;Maule;MAULE;71;Talca;7103;Curepto
+Chile;CHL;7;Maule;MAULE;71;Talca;7104;Empedrado
+Chile;CHL;7;Maule;MAULE;71;Talca;7105;Maule
+Chile;CHL;7;Maule;MAULE;71;Talca;7106;Pelarco
+Chile;CHL;7;Maule;MAULE;71;Talca;7107;Pencahue
+Chile;CHL;7;Maule;MAULE;71;Talca;7108;Río Claro
+Chile;CHL;7;Maule;MAULE;71;Talca;7109;San Clemente
+Chile;CHL;7;Maule;MAULE;71;Talca;7110;San Rafael
+Chile;CHL;7;Maule;MAULE;72;Cauquenes;7201;Cauquenes
+Chile;CHL;7;Maule;MAULE;72;Cauquenes;7202;Chanco
+Chile;CHL;7;Maule;MAULE;72;Cauquenes;7203;Pelluhue
+Chile;CHL;7;Maule;MAULE;73;Curicó;7301;Curicó
+Chile;CHL;7;Maule;MAULE;73;Curicó;7302;Hualañé
+Chile;CHL;7;Maule;MAULE;73;Curicó;7303;Licantén
+Chile;CHL;7;Maule;MAULE;73;Curicó;7304;Molina
+Chile;CHL;7;Maule;MAULE;73;Curicó;7305;Rauco
+Chile;CHL;7;Maule;MAULE;73;Curicó;7306;Romeral
+Chile;CHL;7;Maule;MAULE;73;Curicó;7307;Sagrada Familia
+Chile;CHL;7;Maule;MAULE;73;Curicó;7308;Teno
+Chile;CHL;7;Maule;MAULE;73;Curicó;7309;Vichuquén
+Chile;CHL;7;Maule;MAULE;74;Linares;7401;Linares
+Chile;CHL;7;Maule;MAULE;74;Linares;7402;Colbún
+Chile;CHL;7;Maule;MAULE;74;Linares;7403;Longaví
+Chile;CHL;7;Maule;MAULE;74;Linares;7404;Parral
+Chile;CHL;7;Maule;MAULE;74;Linares;7405;Retiro
+Chile;CHL;7;Maule;MAULE;74;Linares;7406;San Javier
+Chile;CHL;7;Maule;MAULE;74;Linares;7407;Villa Alegre
+Chile;CHL;7;Maule;MAULE;74;Linares;7408;Yerbas Buenas
+Chile;CHL;8;Biobío;BBIO;81;Concepción;8101;Concepción
+Chile;CHL;8;Biobío;BBIO;81;Concepción;8102;Coronel
+Chile;CHL;8;Biobío;BBIO;81;Concepción;8103;Chiguayante
+Chile;CHL;8;Biobío;BBIO;81;Concepción;8104;Florida
+Chile;CHL;8;Biobío;BBIO;81;Concepción;8105;Hualqui
+Chile;CHL;8;Biobío;BBIO;81;Concepción;8106;Lota
+Chile;CHL;8;Biobío;BBIO;81;Concepción;8107;Penco
+Chile;CHL;8;Biobío;BBIO;81;Concepción;8108;San Pedro de la Paz
+Chile;CHL;8;Biobío;BBIO;81;Concepción;8109;Santa Juana
+Chile;CHL;8;Biobío;BBIO;81;Concepción;8110;Talcahuano
+Chile;CHL;8;Biobío;BBIO;81;Concepción;8111;Tomé
+Chile;CHL;8;Biobío;BBIO;81;Concepción;8112;Hualpén
+Chile;CHL;8;Biobío;BBIO;82;Arauco;8201;Lebu
+Chile;CHL;8;Biobío;BBIO;82;Arauco;8202;Arauco
+Chile;CHL;8;Biobío;BBIO;82;Arauco;8203;Cañete
+Chile;CHL;8;Biobío;BBIO;82;Arauco;8204;Contulmo
+Chile;CHL;8;Biobío;BBIO;82;Arauco;8205;Curanilahue
+Chile;CHL;8;Biobío;BBIO;82;Arauco;8206;Los Alamos
+Chile;CHL;8;Biobío;BBIO;82;Arauco;8207;Tirúa
+Chile;CHL;8;Biobío;BBIO;83;Biobío;8301;Los Angeles
+Chile;CHL;8;Biobío;BBIO;83;Biobío;8302;Antuco
+Chile;CHL;8;Biobío;BBIO;83;Biobío;8303;Cabrero
+Chile;CHL;8;Biobío;BBIO;83;Biobío;8304;Laja
+Chile;CHL;8;Biobío;BBIO;83;Biobío;8305;Mulchén
+Chile;CHL;8;Biobío;BBIO;83;Biobío;8306;Nacimiento
+Chile;CHL;8;Biobío;BBIO;83;Biobío;8307;Negrete
+Chile;CHL;8;Biobío;BBIO;83;Biobío;8308;Quilaco
+Chile;CHL;8;Biobío;BBIO;83;Biobío;8309;Quilleco
+Chile;CHL;8;Biobío;BBIO;83;Biobío;8310;San Rosendo
+Chile;CHL;8;Biobío;BBIO;83;Biobío;8311;Santa Bárbara
+Chile;CHL;8;Biobío;BBIO;83;Biobío;8312;Tucapel
+Chile;CHL;8;Biobío;BBIO;83;Biobío;8313;Yumbel
+Chile;CHL;8;Biobío;BBIO;83;Biobío;8314;Alto Biobío
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9101;Temuco
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9102;Carahue
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9103;Cunco
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9104;Curarrehue
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9105;Freire
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9106;Galvarino
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9107;Gorbea
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9108;Lautaro
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9109;Loncoche
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9110;Melipeuco
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9111;Nueva Imperial
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9112;Padre Las Casas
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9113;Perquenco
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9114;Pitrufquén
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9115;Pucón
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9116;Saavedra
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9117;Teodoro Schmidt
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9118;Toltén
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9119;Vilcún
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9120;Villarrica
+Chile;CHL;9;La Araucanía;ARAUC;91;Cautín;9121;Cholchol
+Chile;CHL;9;La Araucanía;ARAUC;92;Malleco;9201;Angol
+Chile;CHL;9;La Araucanía;ARAUC;92;Malleco;9202;Collipulli
+Chile;CHL;9;La Araucanía;ARAUC;92;Malleco;9203;Curacautín
+Chile;CHL;9;La Araucanía;ARAUC;92;Malleco;9204;Ercilla
+Chile;CHL;9;La Araucanía;ARAUC;92;Malleco;9205;Lonquimay
+Chile;CHL;9;La Araucanía;ARAUC;92;Malleco;9206;Los Sauces
+Chile;CHL;9;La Araucanía;ARAUC;92;Malleco;9207;Lumaco
+Chile;CHL;9;La Araucanía;ARAUC;92;Malleco;9208;Purén
+Chile;CHL;9;La Araucanía;ARAUC;92;Malleco;9209;Renaico
+Chile;CHL;9;La Araucanía;ARAUC;92;Malleco;9210;Traiguén
+Chile;CHL;9;La Araucanía;ARAUC;92;Malleco;9211;Victoria
+Chile;CHL;10;Los Lagos;LAGOS;101;Llanquihue;10101;Puerto Montt
+Chile;CHL;10;Los Lagos;LAGOS;101;Llanquihue;10102;Calbuco
+Chile;CHL;10;Los Lagos;LAGOS;101;Llanquihue;10103;Cochamó
+Chile;CHL;10;Los Lagos;LAGOS;101;Llanquihue;10104;Fresia
+Chile;CHL;10;Los Lagos;LAGOS;101;Llanquihue;10105;Frutillar
+Chile;CHL;10;Los Lagos;LAGOS;101;Llanquihue;10106;Los Muermos
+Chile;CHL;10;Los Lagos;LAGOS;101;Llanquihue;10107;Llanquihue
+Chile;CHL;10;Los Lagos;LAGOS;101;Llanquihue;10108;Maullín
+Chile;CHL;10;Los Lagos;LAGOS;101;Llanquihue;10109;Puerto Varas
+Chile;CHL;10;Los Lagos;LAGOS;102;Chiloé;10201;Castro
+Chile;CHL;10;Los Lagos;LAGOS;102;Chiloé;10202;Ancud
+Chile;CHL;10;Los Lagos;LAGOS;102;Chiloé;10203;Chonchi
+Chile;CHL;10;Los Lagos;LAGOS;102;Chiloé;10204;Curaco de Vélez
+Chile;CHL;10;Los Lagos;LAGOS;102;Chiloé;10205;Dalcahue
+Chile;CHL;10;Los Lagos;LAGOS;102;Chiloé;10206;Puqueldón
+Chile;CHL;10;Los Lagos;LAGOS;102;Chiloé;10207;Queilén
+Chile;CHL;10;Los Lagos;LAGOS;102;Chiloé;10208;Quellón
+Chile;CHL;10;Los Lagos;LAGOS;102;Chiloé;10209;Quemchi
+Chile;CHL;10;Los Lagos;LAGOS;102;Chiloé;10210;Quinchao
+Chile;CHL;10;Los Lagos;LAGOS;103;Osorno;10301;Osorno
+Chile;CHL;10;Los Lagos;LAGOS;103;Osorno;10302;Puerto Octay
+Chile;CHL;10;Los Lagos;LAGOS;103;Osorno;10303;Purranque
+Chile;CHL;10;Los Lagos;LAGOS;103;Osorno;10304;Puyehue
+Chile;CHL;10;Los Lagos;LAGOS;103;Osorno;10305;Río Negro
+Chile;CHL;10;Los Lagos;LAGOS;103;Osorno;10306;San Juan de la Costa
+Chile;CHL;10;Los Lagos;LAGOS;103;Osorno;10307;San Pablo
+Chile;CHL;10;Los Lagos;LAGOS;104;Palena;10401;Chaitén
+Chile;CHL;10;Los Lagos;LAGOS;104;Palena;10402;Futaleufú
+Chile;CHL;10;Los Lagos;LAGOS;104;Palena;10403;Hualaihué
+Chile;CHL;10;Los Lagos;LAGOS;104;Palena;10404;Palena
+Chile;CHL;11;Aysén del General Carlos Ibáñez del Campo;AYSEN;111;Coihaique;11101;Coihaique
+Chile;CHL;11;Aysén del General Carlos Ibáñez del Campo;AYSEN;111;Coihaique;11102;Lago Verde
+Chile;CHL;11;Aysén del General Carlos Ibáñez del Campo;AYSEN;112;Aisén;11201;Aisén
+Chile;CHL;11;Aysén del General Carlos Ibáñez del Campo;AYSEN;112;Aisén;11202;Cisnes
+Chile;CHL;11;Aysén del General Carlos Ibáñez del Campo;AYSEN;112;Aisén;11203;Guaitecas
+Chile;CHL;11;Aysén del General Carlos Ibáñez del Campo;AYSEN;113;Capitán Prat;11301;Cochrane
+Chile;CHL;11;Aysén del General Carlos Ibáñez del Campo;AYSEN;113;Capitán Prat;11302;O'Higgins
+Chile;CHL;11;Aysén del General Carlos Ibáñez del Campo;AYSEN;113;Capitán Prat;11303;Tortel
+Chile;CHL;11;Aysén del General Carlos Ibáñez del Campo;AYSEN;114;General Carrera;11401;Chile Chico
+Chile;CHL;11;Aysén del General Carlos Ibáñez del Campo;AYSEN;114;General Carrera;11402;Río Ibáñez
+Chile;CHL;12;Magallanes y de la Antártica Chilena;MAG;121;Magallanes;12101;Punta Arenas
+Chile;CHL;12;Magallanes y de la Antártica Chilena;MAG;121;Magallanes;12102;Laguna Blanca
+Chile;CHL;12;Magallanes y de la Antártica Chilena;MAG;121;Magallanes;12103;Río Verde
+Chile;CHL;12;Magallanes y de la Antártica Chilena;MAG;121;Magallanes;12104;San Gregorio
+Chile;CHL;12;Magallanes y de la Antártica Chilena;MAG;122;Antártica Chilena;12201;Cabo de Hornos
+Chile;CHL;12;Magallanes y de la Antártica Chilena;MAG;122;Antártica Chilena;12202;Antártica
+Chile;CHL;12;Magallanes y de la Antártica Chilena;MAG;123;Tierra del Fuego;12301;Porvenir
+Chile;CHL;12;Magallanes y de la Antártica Chilena;MAG;123;Tierra del Fuego;12302;Primavera
+Chile;CHL;12;Magallanes y de la Antártica Chilena;MAG;123;Tierra del Fuego;12303;Timaukel
+Chile;CHL;12;Magallanes y de la Antártica Chilena;MAG;124;Última Esperanza;12401;Natales
+Chile;CHL;12;Magallanes y de la Antártica Chilena;MAG;124;Última Esperanza;12402;Torres del Paine
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13101;Santiago
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13102;Cerrillos
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13103;Cerro Navia
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13104;Conchalí
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13105;El Bosque
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13106;Estación Central
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13107;Huechuraba
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13108;Independencia
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13109;La Cisterna
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13110;La Florida
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13111;La Granja
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13112;La Pintana
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13113;La Reina
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13114;Las Condes
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13115;Lo Barnechea
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13116;Lo Espejo
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13117;Lo Prado
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13118;Macul
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13119;Maipú
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13120;Ñuñoa
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13121;Pedro Aguirre Cerda
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13122;Peñalolén
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13123;Providencia
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13124;Pudahuel
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13125;Quilicura
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13126;Quinta Normal
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13127;Recoleta
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13128;Renca
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13129;San Joaquín
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13130;San Miguel
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13131;San Ramón
+Chile;CHL;13;Metropolitana de Santiago;RM;131;Santiago;13132;Vitacura
+Chile;CHL;13;Metropolitana de Santiago;RM;132;Cordillera;13201;Puente Alto
+Chile;CHL;13;Metropolitana de Santiago;RM;132;Cordillera;13202;Pirque
+Chile;CHL;13;Metropolitana de Santiago;RM;132;Cordillera;13203;San José de Maipo
+Chile;CHL;13;Metropolitana de Santiago;RM;133;Chacabuco;13301;Colina
+Chile;CHL;13;Metropolitana de Santiago;RM;133;Chacabuco;13302;Lampa
+Chile;CHL;13;Metropolitana de Santiago;RM;133;Chacabuco;13303;Tiltil
+Chile;CHL;13;Metropolitana de Santiago;RM;134;Maipo;13401;San Bernardo
+Chile;CHL;13;Metropolitana de Santiago;RM;134;Maipo;13402;Buin
+Chile;CHL;13;Metropolitana de Santiago;RM;134;Maipo;13403;Calera de Tango
+Chile;CHL;13;Metropolitana de Santiago;RM;134;Maipo;13404;Paine
+Chile;CHL;13;Metropolitana de Santiago;RM;135;Melipilla;13501;Melipilla
+Chile;CHL;13;Metropolitana de Santiago;RM;135;Melipilla;13502;Alhué
+Chile;CHL;13;Metropolitana de Santiago;RM;135;Melipilla;13503;Curacaví
+Chile;CHL;13;Metropolitana de Santiago;RM;135;Melipilla;13504;María Pinto
+Chile;CHL;13;Metropolitana de Santiago;RM;135;Melipilla;13505;San Pedro
+Chile;CHL;13;Metropolitana de Santiago;RM;136;Talagante;13601;Talagante
+Chile;CHL;13;Metropolitana de Santiago;RM;136;Talagante;13602;El Monte
+Chile;CHL;13;Metropolitana de Santiago;RM;136;Talagante;13603;Isla de Maipo
+Chile;CHL;13;Metropolitana de Santiago;RM;136;Talagante;13604;Padre Hurtado
+Chile;CHL;13;Metropolitana de Santiago;RM;136;Talagante;13605;Peñaflor
+Chile;CHL;14;Los Ríos;RIOS;141;Valdivia;14101;Valdivia
+Chile;CHL;14;Los Ríos;RIOS;141;Valdivia;14102;Corral
+Chile;CHL;14;Los Ríos;RIOS;141;Valdivia;14103;Lanco
+Chile;CHL;14;Los Ríos;RIOS;141;Valdivia;14104;Los Lagos
+Chile;CHL;14;Los Ríos;RIOS;141;Valdivia;14105;Máfil
+Chile;CHL;14;Los Ríos;RIOS;141;Valdivia;14106;Mariquina
+Chile;CHL;14;Los Ríos;RIOS;141;Valdivia;14107;Paillaco
+Chile;CHL;14;Los Ríos;RIOS;141;Valdivia;14108;Panguipulli
+Chile;CHL;14;Los Ríos;RIOS;142;Ranco;14201;La Unión
+Chile;CHL;14;Los Ríos;RIOS;142;Ranco;14202;Futrono
+Chile;CHL;14;Los Ríos;RIOS;142;Ranco;14203;Lago Ranco
+Chile;CHL;14;Los Ríos;RIOS;142;Ranco;14204;Río Bueno
+Chile;CHL;15;Arica y Parinacota;AyP;151;Arica;15101;Arica
+Chile;CHL;15;Arica y Parinacota;AyP;151;Arica;15102;Camarones
+Chile;CHL;15;Arica y Parinacota;AyP;152;Parinacota;15201;Putre
+Chile;CHL;15;Arica y Parinacota;AyP;152;Parinacota;15202;General Lagos
+Chile;CHL;16;Ñuble;NUBLE;161;Diguillín;16101;Chillán
+Chile;CHL;16;Ñuble;NUBLE;161;Diguillín;16102;Bulnes
+Chile;CHL;16;Ñuble;NUBLE;161;Diguillín;16103;Chillán Viejo
+Chile;CHL;16;Ñuble;NUBLE;161;Diguillín;16104;El Carmen
+Chile;CHL;16;Ñuble;NUBLE;161;Diguillín;16105;Pemuco
+Chile;CHL;16;Ñuble;NUBLE;161;Diguillín;16106;Pinto
+Chile;CHL;16;Ñuble;NUBLE;161;Diguillín;16107;Quillón
+Chile;CHL;16;Ñuble;NUBLE;161;Diguillín;16108;San Ignacio
+Chile;CHL;16;Ñuble;NUBLE;161;Diguillín;16109;Yungay
+Chile;CHL;16;Ñuble;NUBLE;162;Itata;16201;Quirihue
+Chile;CHL;16;Ñuble;NUBLE;162;Itata;16202;Cobquecura
+Chile;CHL;16;Ñuble;NUBLE;162;Itata;16203;Coelemu
+Chile;CHL;16;Ñuble;NUBLE;162;Itata;16204;Ninhue
+Chile;CHL;16;Ñuble;NUBLE;162;Itata;16205;Portezuelo
+Chile;CHL;16;Ñuble;NUBLE;162;Itata;16206;Ranquil
+Chile;CHL;16;Ñuble;NUBLE;162;Itata;16207;Treguaco
+Chile;CHL;16;Ñuble;NUBLE;163;Punilla;16301;San Carlos
+Chile;CHL;16;Ñuble;NUBLE;163;Punilla;16302;Coihueco
+Chile;CHL;16;Ñuble;NUBLE;163;Punilla;16303;Ñiquén
+Chile;CHL;16;Ñuble;NUBLE;163;Punilla;16304;San Fabián
+Chile;CHL;16;Ñuble;NUBLE;163;Punilla;16305;San Nicolás
+Colombia;COL;5;Antioquia;;;;5001;MEDELLÍN
+Colombia;COL;5;Antioquia;;;;5002;ABEJORRAL
+Colombia;COL;5;Antioquia;;;;5004;ABRIAQUÍ
+Colombia;COL;5;Antioquia;;;;5021;ALEJANDRÍA
+Colombia;COL;5;Antioquia;;;;5030;AMAGÁ
+Colombia;COL;5;Antioquia;;;;5031;AMALFI
+Colombia;COL;5;Antioquia;;;;5034;ANDES
+Colombia;COL;5;Antioquia;;;;5036;ANGELÓPOLIS
+Colombia;COL;5;Antioquia;;;;5038;ANGOSTURA
+Colombia;COL;5;Antioquia;;;;5040;ANORÍ
+Colombia;COL;5;Antioquia;;;;5042;SANTA FE DE ANTIOQUIA
+Colombia;COL;5;Antioquia;;;;5044;ANZÁ
+Colombia;COL;5;Antioquia;;;;5045;APARTADÓ
+Colombia;COL;5;Antioquia;;;;5051;ARBOLETES
+Colombia;COL;5;Antioquia;;;;5055;ARGELIA
+Colombia;COL;5;Antioquia;;;;5059;ARMENIA
+Colombia;COL;5;Antioquia;;;;5079;BARBOSA
+Colombia;COL;5;Antioquia;;;;5086;BELMIRA
+Colombia;COL;5;Antioquia;;;;5088;BELLO
+Colombia;COL;5;Antioquia;;;;5091;BETANIA
+Colombia;COL;5;Antioquia;;;;5093;BETULIA
+Colombia;COL;5;Antioquia;;;;5101;BOLÍVAR
+Colombia;COL;5;Antioquia;;;;5107;BRICEÑO
+Colombia;COL;5;Antioquia;;;;5113;BURITICÁ
+Colombia;COL;5;Antioquia;;;;5120;CÁCERES
+Colombia;COL;5;Antioquia;;;;5125;CAICEDO
+Colombia;COL;5;Antioquia;;;;5129;CALDAS
+Colombia;COL;5;Antioquia;;;;5134;CAMPAMENTO
+Colombia;COL;5;Antioquia;;;;5138;CAÑASGORDAS
+Colombia;COL;5;Antioquia;;;;5142;CARACOLÍ
+Colombia;COL;5;Antioquia;;;;5145;CARAMANTA
+Colombia;COL;5;Antioquia;;;;5147;CAREPA
+Colombia;COL;5;Antioquia;;;;5148;CARMEN DE VIBORAL
+Colombia;COL;5;Antioquia;;;;5150;CAROLINA
+Colombia;COL;5;Antioquia;;;;5154;CAUCASIA
+Colombia;COL;5;Antioquia;;;;5172;CHIGORODÓ
+Colombia;COL;5;Antioquia;;;;5190;CISNEROS
+Colombia;COL;5;Antioquia;;;;5197;COCORNÁ
+Colombia;COL;5;Antioquia;;;;5206;CONCEPCIÓN
+Colombia;COL;5;Antioquia;;;;5209;CONCORDIA
+Colombia;COL;5;Antioquia;;;;5212;COPACABANA
+Colombia;COL;5;Antioquia;;;;5234;DABEIBA
+Colombia;COL;5;Antioquia;;;;5237;DON MATIAS
+Colombia;COL;5;Antioquia;;;;5240;EBÉJICO
+Colombia;COL;5;Antioquia;;;;5250;EL BAGRE
+Colombia;COL;5;Antioquia;;;;5264;ENTERARÍAS
+Colombia;COL;5;Antioquia;;;;5266;ENVIGADO
+Colombia;COL;5;Antioquia;;;;5282;FREDONIA
+Colombia;COL;5;Antioquia;;;;5284;FRONTINO
+Colombia;COL;5;Antioquia;;;;5306;GIRALDO
+Colombia;COL;5;Antioquia;;;;5308;GIRARDOTA
+Colombia;COL;5;Antioquia;;;;5310;GÓMEZ PLATA
+Colombia;COL;5;Antioquia;;;;5313;GRANADA
+Colombia;COL;5;Antioquia;;;;5315;GUADALUPE
+Colombia;COL;5;Antioquia;;;;5318;GUARNE
+Colombia;COL;5;Antioquia;;;;5321;GUATAPÉ
+Colombia;COL;5;Antioquia;;;;5347;HELICONIA
+Colombia;COL;5;Antioquia;;;;5353;HISPANIA
+Colombia;COL;5;Antioquia;;;;5360;ITAGÜI
+Colombia;COL;5;Antioquia;;;;5361;ITUANGO
+Colombia;COL;5;Antioquia;;;;5364;JARDÍN
+Colombia;COL;5;Antioquia;;;;5368;JERICÓ
+Colombia;COL;5;Antioquia;;;;5376;LA CEJA
+Colombia;COL;5;Antioquia;;;;5380;LA ESTRELLA
+Colombia;COL;5;Antioquia;;;;5390;LA PINTADA
+Colombia;COL;5;Antioquia;;;;5400;LA UNIÓN
+Colombia;COL;5;Antioquia;;;;5411;LIBORINA
+Colombia;COL;5;Antioquia;;;;5425;MACEO
+Colombia;COL;5;Antioquia;;;;5440;MARINILLA
+Colombia;COL;5;Antioquia;;;;5467;MONTEBELLO
+Colombia;COL;5;Antioquia;;;;5475;MURINDÓ
+Colombia;COL;5;Antioquia;;;;5480;MUTATÁ
+Colombia;COL;5;Antioquia;;;;5483;NARIÑO
+Colombia;COL;5;Antioquia;;;;5490;NECOCLÍ
+Colombia;COL;5;Antioquia;;;;5495;NECHÍ
+Colombia;COL;5;Antioquia;;;;5501;OLAYA
+Colombia;COL;5;Antioquia;;;;5541;PEÑOL
+Colombia;COL;5;Antioquia;;;;5543;PEQUÉ
+Colombia;COL;5;Antioquia;;;;5576;PUEBLORRICO
+Colombia;COL;5;Antioquia;;;;5579;PUERTO BERRÍO
+Colombia;COL;5;Antioquia;;;;5585;PUERTO NARE
+Colombia;COL;5;Antioquia;;;;5591;PUERTO TRIUNFO
+Colombia;COL;5;Antioquia;;;;5604;REMEDIOS
+Colombia;COL;5;Antioquia;;;;5615;RÍONEGRO
+Colombia;COL;5;Antioquia;;;;5628;SABANALARGA
+Colombia;COL;5;Antioquia;;;;5631;SABANETA
+Colombia;COL;5;Antioquia;;;;5642;SALGAR
+Colombia;COL;5;Antioquia;;;;5647;SAN ANDRÉS
+Colombia;COL;5;Antioquia;;;;5649;SAN CARLOS
+Colombia;COL;5;Antioquia;;;;5652;SAN FRANCISCO
+Colombia;COL;5;Antioquia;;;;5656;SAN JERÓNIMO
+Colombia;COL;5;Antioquia;;;;5658;SAN JOSÉ DE LA MONTAÑA
+Colombia;COL;5;Antioquia;;;;5659;SAN JUAN DE URABÁ
+Colombia;COL;5;Antioquia;;;;5660;SAN LUIS
+Colombia;COL;5;Antioquia;;;;5664;SAN PEDRO
+Colombia;COL;5;Antioquia;;;;5665;SAN PEDRO DE URABÁ
+Colombia;COL;5;Antioquia;;;;5667;SAN RAFAEL
+Colombia;COL;5;Antioquia;;;;5670;SAN ROQUE
+Colombia;COL;5;Antioquia;;;;5674;SAN VICENTE
+Colombia;COL;5;Antioquia;;;;5679;SANTA BÁRBARA
+Colombia;COL;5;Antioquia;;;;5686;SANTA ROSA DE OSOS
+Colombia;COL;5;Antioquia;;;;5690;SANTO DOMINGO
+Colombia;COL;5;Antioquia;;;;5697;SANTUARIO
+Colombia;COL;5;Antioquia;;;;5736;SEGOVIA
+Colombia;COL;5;Antioquia;;;;5756;SONSÓN
+Colombia;COL;5;Antioquia;;;;5761;SOPETRÁN
+Colombia;COL;5;Antioquia;;;;5789;TÁMESIS
+Colombia;COL;5;Antioquia;;;;5790;TARAZA
+Colombia;COL;5;Antioquia;;;;5792;TARSO
+Colombia;COL;5;Antioquia;;;;5809;TITIRIBÍ
+Colombia;COL;5;Antioquia;;;;5819;TOLEDO
+Colombia;COL;5;Antioquia;;;;5837;TURBO
+Colombia;COL;5;Antioquia;;;;5842;URAMITA
+Colombia;COL;5;Antioquia;;;;5847;URRAO
+Colombia;COL;5;Antioquia;;;;5854;VALDIVIA
+Colombia;COL;5;Antioquia;;;;5856;VALPARAISO
+Colombia;COL;5;Antioquia;;;;5858;VEGACHÍ
+Colombia;COL;5;Antioquia;;;;5861;VENECIA
+Colombia;COL;5;Antioquia;;;;5873;VIGÍA EL FUERTE
+Colombia;COL;5;Antioquia;;;;5885;YALÍ
+Colombia;COL;5;Antioquia;;;;5887;YARUMAL
+Colombia;COL;5;Antioquia;;;;5890;YOLOMBO
+Colombia;COL;5;Antioquia;;;;5893;YONDÓ
+Colombia;COL;5;Antioquia;;;;5895;ZARAGOZA
+Colombia;COL;8;Atlántico;;;;8001;BARRANQUILLA
+Colombia;COL;8;Atlántico;;;;8078;BARANOA
+Colombia;COL;8;Atlántico;;;;8137;CAMPO DE LA CRUZ
+Colombia;COL;8;Atlántico;;;;8141;CANDELARIA
+Colombia;COL;8;Atlántico;;;;8296;GALAPA
+Colombia;COL;8;Atlántico;;;;8372;JUAN DE ACOSTA
+Colombia;COL;8;Atlántico;;;;8421;LURUACO
+Colombia;COL;8;Atlántico;;;;8433;MALAMBÓ
+Colombia;COL;8;Atlántico;;;;8436;MANATÍ
+Colombia;COL;8;Atlántico;;;;8520;PALMAR DE VARELA
+Colombia;COL;8;Atlántico;;;;8549;PIOJÓ
+Colombia;COL;8;Atlántico;;;;8558;POLONUEVO
+Colombia;COL;8;Atlántico;;;;8560;PONEDERA
+Colombia;COL;8;Atlántico;;;;8573;PUERTO COLOMBIA
+Colombia;COL;8;Atlántico;;;;8606;REPELÓN
+Colombia;COL;8;Atlántico;;;;8634;SABANAGRANDE
+Colombia;COL;8;Atlántico;;;;8638;SABANALARGA
+Colombia;COL;8;Atlántico;;;;8675;SANTA LUCÍA
+Colombia;COL;8;Atlántico;;;;8685;SANTO TOMÁS
+Colombia;COL;8;Atlántico;;;;8758;SOLEDAD
+Colombia;COL;8;Atlántico;;;;8770;SUÁN
+Colombia;COL;8;Atlántico;;;;8832;TUBARA
+Colombia;COL;8;Atlántico;;;;8849;USIACURÍ
+Colombia;COL;11;Bogotá, D.C.;;;;11001;BOGOTÁ  D.C.
+Colombia;COL;13;Bolívar;;;;13001;CARTAGENA
+Colombia;COL;13;Bolívar;;;;13006;ACHÍ
+Colombia;COL;13;Bolívar;;;;13042;ARENAL
+Colombia;COL;13;Bolívar;;;;13052;ARJONA
+Colombia;COL;13;Bolívar;;;;13074;BARRANCO DE LOBA
+Colombia;COL;13;Bolívar;;;;13140;CALAMAR
+Colombia;COL;13;Bolívar;;;;13160;CANTAGALLO
+Colombia;COL;13;Bolívar;;;;13188;CICUCO
+Colombia;COL;13;Bolívar;;;;13212;CÓRDOBA
+Colombia;COL;13;Bolívar;;;;13222;CLEMENCIA
+Colombia;COL;13;Bolívar;;;;13244;EL CARMEN DE BOLÍVAR
+Colombia;COL;13;Bolívar;;;;13248;EL GUAMO
+Colombia;COL;13;Bolívar;;;;13300;HATILLO DE LOBA
+Colombia;COL;13;Bolívar;;;;13430;MAGANGUÉ
+Colombia;COL;13;Bolívar;;;;13433;MAHATES
+Colombia;COL;13;Bolívar;;;;13440;MARGARITA
+Colombia;COL;13;Bolívar;;;;13442;MARIA LA BAJA
+Colombia;COL;13;Bolívar;;;;13468;MOMPÓS
+Colombia;COL;13;Bolívar;;;;13473;MORALES
+Colombia;COL;13;Bolívar;;;;13549;PINILLOS
+Colombia;COL;13;Bolívar;;;;13580;REGIDOR
+Colombia;COL;13;Bolívar;;;;13600;RIOVIEJO
+Colombia;COL;13;Bolívar;;;;13620;SAN CRISTÓBAL
+Colombia;COL;13;Bolívar;;;;13647;SAN ESTANISLAO
+Colombia;COL;13;Bolívar;;;;13650;SAN FERNANDO
+Colombia;COL;13;Bolívar;;;;13654;SAN JACINTO
+Colombia;COL;13;Bolívar;;;;13655;SAN JACINTO DEL CAUCA
+Colombia;COL;13;Bolívar;;;;13657;SAN JUAN NEPOMUCENO
+Colombia;COL;13;Bolívar;;;;13667;SAN MARTÍN DE LOBA
+Colombia;COL;13;Bolívar;;;;13670;SAN PABLO
+Colombia;COL;13;Bolívar;;;;13673;SANTA CATALINA
+Colombia;COL;13;Bolívar;;;;13683;SANTA ROSA
+Colombia;COL;13;Bolívar;;;;13688;SANTA ROSA DEL SUR
+Colombia;COL;13;Bolívar;;;;13744;SIMITÍ
+Colombia;COL;13;Bolívar;;;;13760;SOPLAVIENTO
+Colombia;COL;13;Bolívar;;;;13780;TALAIGUA NUEVO
+Colombia;COL;13;Bolívar;;;;13836;TURBACO
+Colombia;COL;13;Bolívar;;;;13838;TURBANA
+Colombia;COL;13;Bolívar;;;;13873;VILLANUEVA
+Colombia;COL;13;Bolívar;;;;13894;ZAMBRANO
+Colombia;COL;15;Boyacá;;;;15001;TUNJA
+Colombia;COL;15;Boyacá;;;;15022;ALMEIDA
+Colombia;COL;15;Boyacá;;;;15047;AQUITANIA
+Colombia;COL;15;Boyacá;;;;15051;ARCABUCO
+Colombia;COL;15;Boyacá;;;;15087;BELÉN
+Colombia;COL;15;Boyacá;;;;15090;BERBEO
+Colombia;COL;15;Boyacá;;;;15092;BETÉITIVA
+Colombia;COL;15;Boyacá;;;;15097;BOAVITA
+Colombia;COL;15;Boyacá;;;;15104;BOYACÁ
+Colombia;COL;15;Boyacá;;;;15106;BRICEÑO
+Colombia;COL;15;Boyacá;;;;15109;BUENAVISTA
+Colombia;COL;15;Boyacá;;;;15114;BUSBANZA
+Colombia;COL;15;Boyacá;;;;15131;CALDAS
+Colombia;COL;15;Boyacá;;;;15135;CAMPOHERMOSO
+Colombia;COL;15;Boyacá;;;;15162;CERINZA
+Colombia;COL;15;Boyacá;;;;15172;CHINAVITA
+Colombia;COL;15;Boyacá;;;;15176;CHIQUINQUIRÁ
+Colombia;COL;15;Boyacá;;;;15180;CHISCAS
+Colombia;COL;15;Boyacá;;;;15183;CHITA
+Colombia;COL;15;Boyacá;;;;15185;CHITARAQUE
+Colombia;COL;15;Boyacá;;;;15187;CHIVATÁ
+Colombia;COL;15;Boyacá;;;;15189;CIÉNEGA
+Colombia;COL;15;Boyacá;;;;15204;CÓMBITA
+Colombia;COL;15;Boyacá;;;;15212;COPER
+Colombia;COL;15;Boyacá;;;;15215;CORRALES
+Colombia;COL;15;Boyacá;;;;15218;COVARACHÍA
+Colombia;COL;15;Boyacá;;;;15223;CUBARÁ
+Colombia;COL;15;Boyacá;;;;15224;CUCAITA
+Colombia;COL;15;Boyacá;;;;15226;CUÍTIVA
+Colombia;COL;15;Boyacá;;;;15232;CHÍQUIZA
+Colombia;COL;15;Boyacá;;;;15236;CHIVOR
+Colombia;COL;15;Boyacá;;;;15238;DUITAMA
+Colombia;COL;15;Boyacá;;;;15244;EL COCUY
+Colombia;COL;15;Boyacá;;;;15248;EL ESPINO
+Colombia;COL;15;Boyacá;;;;15272;FIRAVITOBA
+Colombia;COL;15;Boyacá;;;;15276;FLORESTA
+Colombia;COL;15;Boyacá;;;;15293;GACHANTIVÁ
+Colombia;COL;15;Boyacá;;;;15296;GÁMEZA
+Colombia;COL;15;Boyacá;;;;15299;GARAGOA
+Colombia;COL;15;Boyacá;;;;15317;GUACAMAYAS
+Colombia;COL;15;Boyacá;;;;15322;GUATEQUE
+Colombia;COL;15;Boyacá;;;;15325;GUAYATA
+Colombia;COL;15;Boyacá;;;;15332;GÜICÁN
+Colombia;COL;15;Boyacá;;;;15362;IZA
+Colombia;COL;15;Boyacá;;;;15367;JENESANO
+Colombia;COL;15;Boyacá;;;;15368;JERICÓ
+Colombia;COL;15;Boyacá;;;;15377;LABRANZAGRANDE
+Colombia;COL;15;Boyacá;;;;15380;LA CAPILLA
+Colombia;COL;15;Boyacá;;;;15401;LA VICTORIA
+Colombia;COL;15;Boyacá;;;;15403;LA UVITA
+Colombia;COL;15;Boyacá;;;;15407;VILLA DE LEIVA
+Colombia;COL;15;Boyacá;;;;15425;MACANAL
+Colombia;COL;15;Boyacá;;;;15442;MARIPÍ
+Colombia;COL;15;Boyacá;;;;15455;MIRAFLORES
+Colombia;COL;15;Boyacá;;;;15464;MONGUA
+Colombia;COL;15;Boyacá;;;;15466;MONGÜI
+Colombia;COL;15;Boyacá;;;;15469;MONIQUIRÁ
+Colombia;COL;15;Boyacá;;;;15476;MOTAVITA
+Colombia;COL;15;Boyacá;;;;15480;MUZO
+Colombia;COL;15;Boyacá;;;;15491;NOBSA
+Colombia;COL;15;Boyacá;;;;15494;NUEVO COLÓN
+Colombia;COL;15;Boyacá;;;;15500;OCAITÁ
+Colombia;COL;15;Boyacá;;;;15507;OTANCHE
+Colombia;COL;15;Boyacá;;;;15511;PACHAVITA
+Colombia;COL;15;Boyacá;;;;15514;PÁEZ
+Colombia;COL;15;Boyacá;;;;15516;PAIPA
+Colombia;COL;15;Boyacá;;;;15518;PAJARITO
+Colombia;COL;15;Boyacá;;;;15522;PANQUEBA
+Colombia;COL;15;Boyacá;;;;15531;PAUNA
+Colombia;COL;15;Boyacá;;;;15533;PAYA
+Colombia;COL;15;Boyacá;;;;15537;PAZ DE RÍO
+Colombia;COL;15;Boyacá;;;;15542;PESCA
+Colombia;COL;15;Boyacá;;;;15550;PISBA
+Colombia;COL;15;Boyacá;;;;15572;PUERTO BOYACÁ
+Colombia;COL;15;Boyacá;;;;15580;QUÍPAMA
+Colombia;COL;15;Boyacá;;;;15599;RAMIRIQUÍ
+Colombia;COL;15;Boyacá;;;;15600;RÁQUIRA
+Colombia;COL;15;Boyacá;;;;15621;RONDÓN
+Colombia;COL;15;Boyacá;;;;15632;SABOYÁ
+Colombia;COL;15;Boyacá;;;;15638;SÁCHICA
+Colombia;COL;15;Boyacá;;;;15646;SAMACÁ
+Colombia;COL;15;Boyacá;;;;15660;SAN EDUARDO
+Colombia;COL;15;Boyacá;;;;15664;SAN JOSÉ DE PARE
+Colombia;COL;15;Boyacá;;;;15667;SAN LUIS DE GACENO
+Colombia;COL;15;Boyacá;;;;15673;SAN MATEO
+Colombia;COL;15;Boyacá;;;;15676;SAN MIGUEL DE SEMA
+Colombia;COL;15;Boyacá;;;;15681;SAN PABLO DE BORBUR
+Colombia;COL;15;Boyacá;;;;15686;SANTAÑA
+Colombia;COL;15;Boyacá;;;;15690;SANTA MARÍA
+Colombia;COL;15;Boyacá;;;;15693;SANTA ROSA DE VITERBO
+Colombia;COL;15;Boyacá;;;;15696;SANTA SOFÍA
+Colombia;COL;15;Boyacá;;;;15720;SATIVANORTE
+Colombia;COL;15;Boyacá;;;;15723;SATIVASUR
+Colombia;COL;15;Boyacá;;;;15740;SIACHOQUE
+Colombia;COL;15;Boyacá;;;;15753;SOATÁ
+Colombia;COL;15;Boyacá;;;;15755;SOCOTÁ
+Colombia;COL;15;Boyacá;;;;15757;SOCHA
+Colombia;COL;15;Boyacá;;;;15759;SOGAMOSO
+Colombia;COL;15;Boyacá;;;;15761;SOMONDOCO
+Colombia;COL;15;Boyacá;;;;15762;SORA
+Colombia;COL;15;Boyacá;;;;15763;SOTAQUIRÁ
+Colombia;COL;15;Boyacá;;;;15764;SORACA
+Colombia;COL;15;Boyacá;;;;15774;SUSACÓN
+Colombia;COL;15;Boyacá;;;;15776;SUTAMARCHÁN
+Colombia;COL;15;Boyacá;;;;15778;SUTATENZA
+Colombia;COL;15;Boyacá;;;;15790;TASCO
+Colombia;COL;15;Boyacá;;;;15798;TENZA
+Colombia;COL;15;Boyacá;;;;15804;TIBANÁ
+Colombia;COL;15;Boyacá;;;;15806;TIBASOSA
+Colombia;COL;15;Boyacá;;;;15808;TINJACÁ
+Colombia;COL;15;Boyacá;;;;15810;TIPACOQUE
+Colombia;COL;15;Boyacá;;;;15814;TOCA
+Colombia;COL;15;Boyacá;;;;15816;TOGÜÍ
+Colombia;COL;15;Boyacá;;;;15820;TÓPAGA
+Colombia;COL;15;Boyacá;;;;15822;TOTA
+Colombia;COL;15;Boyacá;;;;15832;TUNUNGUA
+Colombia;COL;15;Boyacá;;;;15835;TURMEQUÉ
+Colombia;COL;15;Boyacá;;;;15837;TUTA
+Colombia;COL;15;Boyacá;;;;15839;TUTAZÁ
+Colombia;COL;15;Boyacá;;;;15842;UMBITA
+Colombia;COL;15;Boyacá;;;;15861;VENTAQUEMADA
+Colombia;COL;15;Boyacá;;;;15879;VIRACACHA
+Colombia;COL;15;Boyacá;;;;15897;ZETAQUIRÁ
+Colombia;COL;17;Caldas;;;;17001;MANIZALES
+Colombia;COL;17;Caldas;;;;17013;AGUADAS
+Colombia;COL;17;Caldas;;;;17042;ANSERMA
+Colombia;COL;17;Caldas;;;;17050;ARANZAZU
+Colombia;COL;17;Caldas;;;;17088;BELALCÁZAR
+Colombia;COL;17;Caldas;;;;17174;CHINCHINÁ
+Colombia;COL;17;Caldas;;;;17272;FILADELFIA
+Colombia;COL;17;Caldas;;;;17380;LA DORADA
+Colombia;COL;17;Caldas;;;;17388;LA MERCED
+Colombia;COL;17;Caldas;;;;17433;MANZANARES
+Colombia;COL;17;Caldas;;;;17442;MARMATO
+Colombia;COL;17;Caldas;;;;17444;MARQUETALIA
+Colombia;COL;17;Caldas;;;;17446;MARULANDA
+Colombia;COL;17;Caldas;;;;17486;NEIRA
+Colombia;COL;17;Caldas;;;;17495;NORCASIA
+Colombia;COL;17;Caldas;;;;17513;PÁCORA
+Colombia;COL;17;Caldas;;;;17524;PALESTINA
+Colombia;COL;17;Caldas;;;;17541;PENSILVANIA
+Colombia;COL;17;Caldas;;;;17614;RIOSUCIO
+Colombia;COL;17;Caldas;;;;17616;RISARALDA
+Colombia;COL;17;Caldas;;;;17653;SALAMINA
+Colombia;COL;17;Caldas;;;;17662;SAMANÁ
+Colombia;COL;17;Caldas;;;;17665;SAN JOSÉ
+Colombia;COL;17;Caldas;;;;17777;SUPÍA
+Colombia;COL;17;Caldas;;;;17867;VICTORIA
+Colombia;COL;17;Caldas;;;;17873;VILLAMARÍA
+Colombia;COL;17;Caldas;;;;17877;VITERBO
+Colombia;COL;19;Cauca;;;;19001;POPAYÁN
+Colombia;COL;19;Cauca;;;;19022;ALMAGUER
+Colombia;COL;19;Cauca;;;;19050;ARGELIA
+Colombia;COL;19;Cauca;;;;19075;BALBOA
+Colombia;COL;19;Cauca;;;;19100;BOLÍVAR
+Colombia;COL;19;Cauca;;;;19110;BUENOS AIRES
+Colombia;COL;19;Cauca;;;;19130;CAJIBÍO
+Colombia;COL;19;Cauca;;;;19137;CALDONO
+Colombia;COL;19;Cauca;;;;19142;CALOTO
+Colombia;COL;19;Cauca;;;;19212;CORINTO
+Colombia;COL;19;Cauca;;;;19256;EL TAMBO
+Colombia;COL;19;Cauca;;;;19290;FLORENCIA
+Colombia;COL;19;Cauca;;;;19318;GUAPÍ
+Colombia;COL;19;Cauca;;;;19355;INZA
+Colombia;COL;19;Cauca;;;;19392;LA SIERRA
+Colombia;COL;19;Cauca;;;;19397;LA VEGA
+Colombia;COL;19;Cauca;;;;19418;LÓPEZ
+Colombia;COL;19;Cauca;;;;19450;MERCADERES
+Colombia;COL;19;Cauca;;;;19455;MIRANDA
+Colombia;COL;19;Cauca;;;;19473;MORALES
+Colombia;COL;19;Cauca;;;;19513;PADILLA
+Colombia;COL;19;Cauca;;;;19517;BELALCÁZAR (PÁEZ)
+Colombia;COL;19;Cauca;;;;19532;EL BORDO (PATÍA)
+Colombia;COL;19;Cauca;;;;19548;PIENDAMO
+Colombia;COL;19;Cauca;;;;19573;PUERTO TEJADA
+Colombia;COL;19;Cauca;;;;19585;COCONUCO (PURACÉ)
+Colombia;COL;19;Cauca;;;;19622;ROSAS
+Colombia;COL;19;Cauca;;;;19693;SAN SEBASTIAN
+Colombia;COL;19;Cauca;;;;19698;SANTANDER DE QUILICHAO
+Colombia;COL;19;Cauca;;;;19701;SANTA ROSA
+Colombia;COL;19;Cauca;;;;19743;SILVIA
+Colombia;COL;19;Cauca;;;;19760;PAISPAMBA (SOTARÁ)
+Colombia;COL;19;Cauca;;;;19780;SUÁREZ
+Colombia;COL;19;Cauca;;;;19807;TIMBIO
+Colombia;COL;19;Cauca;;;;19809;TIMBIQUÍ
+Colombia;COL;19;Cauca;;;;19821;TORIBÍO
+Colombia;COL;19;Cauca;;;;19824;TOTORO
+Colombia;COL;19;Cauca;;;;19845;VILLA RICA
+Colombia;COL;20;Cesar;;;;20001;VALLEDUPAR
+Colombia;COL;20;Cesar;;;;20011;AGUACHICA
+Colombia;COL;20;Cesar;;;;20013;AGUSTÍN CODAZZI
+Colombia;COL;20;Cesar;;;;20032;ASTREA
+Colombia;COL;20;Cesar;;;;20045;BECERRIL
+Colombia;COL;20;Cesar;;;;20060;BOSCONIA
+Colombia;COL;20;Cesar;;;;20175;CHIMICHAGUA
+Colombia;COL;20;Cesar;;;;20178;CHIRIGUANÁ
+Colombia;COL;20;Cesar;;;;20228;CURUMANÍ
+Colombia;COL;20;Cesar;;;;20238;EL COPEY
+Colombia;COL;20;Cesar;;;;20250;EL PASO
+Colombia;COL;20;Cesar;;;;20295;GAMARRA
+Colombia;COL;20;Cesar;;;;20310;GONZÁLEZ
+Colombia;COL;20;Cesar;;;;20383;LA GLORIA
+Colombia;COL;20;Cesar;;;;20400;LA JAGUA DE IBIRICO
+Colombia;COL;20;Cesar;;;;20443;MANAURE BALCÓN DEL CESAR
+Colombia;COL;20;Cesar;;;;20517;PAILITAS
+Colombia;COL;20;Cesar;;;;20550;PELAYA
+Colombia;COL;20;Cesar;;;;20570;PUEBLO BELLO
+Colombia;COL;20;Cesar;;;;20614;RÍO DE ORO
+Colombia;COL;20;Cesar;;;;20621;LA PAZ
+Colombia;COL;20;Cesar;;;;20710;SAN ALBERTO
+Colombia;COL;20;Cesar;;;;20750;SAN DIEGO
+Colombia;COL;20;Cesar;;;;20770;SAN MARTÍN
+Colombia;COL;20;Cesar;;;;20787;TAMALAMEQUE
+Colombia;COL;23;Córdoba;;;;23001;MONTERÍA
+Colombia;COL;23;Córdoba;;;;23068;AYAPEL
+Colombia;COL;23;Córdoba;;;;23079;BUENAVISTA
+Colombia;COL;23;Córdoba;;;;23090;CANALETE
+Colombia;COL;23;Córdoba;;;;23162;CERETE
+Colombia;COL;23;Córdoba;;;;23168;CHIMA
+Colombia;COL;23;Córdoba;;;;23182;CHINÚ
+Colombia;COL;23;Córdoba;;;;23189;CIÉNAGA DE ORO
+Colombia;COL;23;Córdoba;;;;23300;COTORRA
+Colombia;COL;23;Córdoba;;;;23350;LA APARTADA (La Frontera)
+Colombia;COL;23;Córdoba;;;;23417;LORICA
+Colombia;COL;23;Córdoba;;;;23419;LOS CÓRDOBAS
+Colombia;COL;23;Córdoba;;;;23464;MOMIL
+Colombia;COL;23;Córdoba;;;;23466;MONTELÍBANO
+Colombia;COL;23;Córdoba;;;;23500;MONITOS
+Colombia;COL;23;Córdoba;;;;23555;PLANETA RICA
+Colombia;COL;23;Córdoba;;;;23570;PUEBLO NUEVO
+Colombia;COL;23;Córdoba;;;;23574;PUERTO ESCONDIDO
+Colombia;COL;23;Córdoba;;;;23580;PUERTO LIBERTADOR
+Colombia;COL;23;Córdoba;;;;23586;PURÍSIMA
+Colombia;COL;23;Córdoba;;;;23660;SAHAGÚN
+Colombia;COL;23;Córdoba;;;;23670;SAN ANDRÉS DE SOTAVIENTO
+Colombia;COL;23;Córdoba;;;;23672;SAN ANTERO
+Colombia;COL;23;Córdoba;;;;23675;SAN BERNARDO DEL VIENTO
+Colombia;COL;23;Córdoba;;;;23678;SAN CARLOS
+Colombia;COL;23;Córdoba;;;;23686;SAN PELAYO
+Colombia;COL;23;Córdoba;;;;23807;TIERRALTA
+Colombia;COL;23;Córdoba;;;;23855;VALENCIA
+Colombia;COL;25;Cundinamarca;;;;25001;AGUA DE DIOS
+Colombia;COL;25;Cundinamarca;;;;25019;ALBÁN
+Colombia;COL;25;Cundinamarca;;;;25035;ANAPOIMA
+Colombia;COL;25;Cundinamarca;;;;25040;ANOLAIMA
+Colombia;COL;25;Cundinamarca;;;;25053;ARBELÁEZ
+Colombia;COL;25;Cundinamarca;;;;25086;BELTRÁN
+Colombia;COL;25;Cundinamarca;;;;25095;BITUIMA
+Colombia;COL;25;Cundinamarca;;;;25099;BOJACÁ
+Colombia;COL;25;Cundinamarca;;;;25120;CABRERA
+Colombia;COL;25;Cundinamarca;;;;25123;CACHIPAY
+Colombia;COL;25;Cundinamarca;;;;25126;CAJICÁ
+Colombia;COL;25;Cundinamarca;;;;25148;CAPARRAPÍ
+Colombia;COL;25;Cundinamarca;;;;25151;CÁQUEZA
+Colombia;COL;25;Cundinamarca;;;;25154;CARMEN DE CARUPA
+Colombia;COL;25;Cundinamarca;;;;25168;CHAGUANÍ
+Colombia;COL;25;Cundinamarca;;;;25175;CHÍA
+Colombia;COL;25;Cundinamarca;;;;25178;CHIPAQUE
+Colombia;COL;25;Cundinamarca;;;;25181;CHOACHÍ
+Colombia;COL;25;Cundinamarca;;;;25183;CHOCONTÁ
+Colombia;COL;25;Cundinamarca;;;;25200;COGUA
+Colombia;COL;25;Cundinamarca;;;;25214;COTA
+Colombia;COL;25;Cundinamarca;;;;25224;CUCUNUBA
+Colombia;COL;25;Cundinamarca;;;;25245;EL COLEGIO
+Colombia;COL;25;Cundinamarca;;;;25258;EL PEÑÓN
+Colombia;COL;25;Cundinamarca;;;;25260;EL ROSAL
+Colombia;COL;25;Cundinamarca;;;;25269;FACATATIVÁ
+Colombia;COL;25;Cundinamarca;;;;25279;FÓMEQUE
+Colombia;COL;25;Cundinamarca;;;;25281;FOSCA
+Colombia;COL;25;Cundinamarca;;;;25286;FUNZA
+Colombia;COL;25;Cundinamarca;;;;25288;FÚQUENE
+Colombia;COL;25;Cundinamarca;;;;25290;FUSAGASUGÁ
+Colombia;COL;25;Cundinamarca;;;;25293;GACHALÁ
+Colombia;COL;25;Cundinamarca;;;;25295;GACHANCIPÁ
+Colombia;COL;25;Cundinamarca;;;;25297;GACHETÁ
+Colombia;COL;25;Cundinamarca;;;;25299;GAMA
+Colombia;COL;25;Cundinamarca;;;;25307;GIRARDOT
+Colombia;COL;25;Cundinamarca;;;;25312;GRANADA
+Colombia;COL;25;Cundinamarca;;;;25317;GUACHETÁ
+Colombia;COL;25;Cundinamarca;;;;25320;GUADUAS
+Colombia;COL;25;Cundinamarca;;;;25322;GUASCA
+Colombia;COL;25;Cundinamarca;;;;25324;GUATAQUÍ
+Colombia;COL;25;Cundinamarca;;;;25326;GUATAVITA
+Colombia;COL;25;Cundinamarca;;;;25328;GUAYABAL DE SIQUIMA
+Colombia;COL;25;Cundinamarca;;;;25335;GUAYABETAL
+Colombia;COL;25;Cundinamarca;;;;25339;GUTIÉRREZ
+Colombia;COL;25;Cundinamarca;;;;25368;JERUSALÉN
+Colombia;COL;25;Cundinamarca;;;;25372;JUNÍN
+Colombia;COL;25;Cundinamarca;;;;25377;LA CALERA
+Colombia;COL;25;Cundinamarca;;;;25386;LA MESA
+Colombia;COL;25;Cundinamarca;;;;25394;LA PALMA
+Colombia;COL;25;Cundinamarca;;;;25398;LA PEÑA
+Colombia;COL;25;Cundinamarca;;;;25402;LA VEGA
+Colombia;COL;25;Cundinamarca;;;;25407;LENGUAZAQUE
+Colombia;COL;25;Cundinamarca;;;;25426;MACHETÁ
+Colombia;COL;25;Cundinamarca;;;;25430;MADRID
+Colombia;COL;25;Cundinamarca;;;;25436;MANTA
+Colombia;COL;25;Cundinamarca;;;;25438;MEDINA
+Colombia;COL;25;Cundinamarca;;;;25473;MOSQUERA
+Colombia;COL;25;Cundinamarca;;;;25483;NARIÑO
+Colombia;COL;25;Cundinamarca;;;;25486;NEMOCÓN
+Colombia;COL;25;Cundinamarca;;;;25488;NILO
+Colombia;COL;25;Cundinamarca;;;;25489;NIMAIMA
+Colombia;COL;25;Cundinamarca;;;;25491;NOCAIMA
+Colombia;COL;25;Cundinamarca;;;;25506;VENECIA
+Colombia;COL;25;Cundinamarca;;;;25513;PACHO
+Colombia;COL;25;Cundinamarca;;;;25518;PAIME
+Colombia;COL;25;Cundinamarca;;;;25524;PANDI
+Colombia;COL;25;Cundinamarca;;;;25530;PARATEBUENO
+Colombia;COL;25;Cundinamarca;;;;25535;PASCA
+Colombia;COL;25;Cundinamarca;;;;25572;PUERTO SALGAR
+Colombia;COL;25;Cundinamarca;;;;25580;PULI
+Colombia;COL;25;Cundinamarca;;;;25592;QUEBRADA NEGRA
+Colombia;COL;25;Cundinamarca;;;;25594;QUETAME
+Colombia;COL;25;Cundinamarca;;;;25596;QUIPILE
+Colombia;COL;25;Cundinamarca;;;;25599;APULO
+Colombia;COL;25;Cundinamarca;;;;25612;RICAURTE
+Colombia;COL;25;Cundinamarca;;;;25645;SAN ANTONIO DEL TEQUENDAMA
+Colombia;COL;25;Cundinamarca;;;;25649;SAN BERNARDO
+Colombia;COL;25;Cundinamarca;;;;25653;SAN CAYETANO
+Colombia;COL;25;Cundinamarca;;;;25658;SAN FRANCISCO
+Colombia;COL;25;Cundinamarca;;;;25662;SAN JUAN DE RÍOSECO
+Colombia;COL;25;Cundinamarca;;;;25718;SASAIMA
+Colombia;COL;25;Cundinamarca;;;;25736;SESQUILÉ
+Colombia;COL;25;Cundinamarca;;;;25740;SIBATÉ
+Colombia;COL;25;Cundinamarca;;;;25743;SILVANIA
+Colombia;COL;25;Cundinamarca;;;;25745;SIMIJACA
+Colombia;COL;25;Cundinamarca;;;;25754;SOACHA
+Colombia;COL;25;Cundinamarca;;;;25758;SOPO
+Colombia;COL;25;Cundinamarca;;;;25769;SUBACHOQUE
+Colombia;COL;25;Cundinamarca;;;;25772;SUESCA
+Colombia;COL;25;Cundinamarca;;;;25777;SUPATÁ
+Colombia;COL;25;Cundinamarca;;;;25779;SUSA
+Colombia;COL;25;Cundinamarca;;;;25781;SUTATAUSA
+Colombia;COL;25;Cundinamarca;;;;25785;TABIO
+Colombia;COL;25;Cundinamarca;;;;25793;TAUSA
+Colombia;COL;25;Cundinamarca;;;;25797;TENA
+Colombia;COL;25;Cundinamarca;;;;25799;TENJO
+Colombia;COL;25;Cundinamarca;;;;25805;TIBACUY
+Colombia;COL;25;Cundinamarca;;;;25807;TIBIRITA
+Colombia;COL;25;Cundinamarca;;;;25815;TOCAIMA
+Colombia;COL;25;Cundinamarca;;;;25817;TOCANCIPÁ
+Colombia;COL;25;Cundinamarca;;;;25823;TOPAIPÍ
+Colombia;COL;25;Cundinamarca;;;;25839;UBALÁ
+Colombia;COL;25;Cundinamarca;;;;25841;UBAQUE
+Colombia;COL;25;Cundinamarca;;;;25843;UBATÉ
+Colombia;COL;25;Cundinamarca;;;;25845;UNE
+Colombia;COL;25;Cundinamarca;;;;25851;ÚTICA
+Colombia;COL;25;Cundinamarca;;;;25862;VERGARA
+Colombia;COL;25;Cundinamarca;;;;25867;VIANI
+Colombia;COL;25;Cundinamarca;;;;25871;VILLAGÓMEZ
+Colombia;COL;25;Cundinamarca;;;;25873;VILLAPINZÓN
+Colombia;COL;25;Cundinamarca;;;;25875;VILLETA
+Colombia;COL;25;Cundinamarca;;;;25878;VIOTÁ
+Colombia;COL;25;Cundinamarca;;;;25885;YACOPÍ
+Colombia;COL;25;Cundinamarca;;;;25898;ZIPACÓN
+Colombia;COL;25;Cundinamarca;;;;25899;ZIPAQUIRÁ
+Colombia;COL;27;Chocó;;;;27001;QUIBDÓ
+Colombia;COL;27;Chocó;;;;27006;ACANDÍ
+Colombia;COL;27;Chocó;;;;27025;PIE DE PATO (ALTO BAUDÓ)
+Colombia;COL;27;Chocó;;;;27050;ATRATO (YUTO)
+Colombia;COL;27;Chocó;;;;27073;BAGADÓ
+Colombia;COL;27;Chocó;;;;27075;BAHÍA SOLANO (CIUDAD MUTIS)
+Colombia;COL;27;Chocó;;;;27077;BAJO BAUDÓ (PIZARRO)
+Colombia;COL;27;Chocó;;;;27099;BOJAYÁ (BELLAVISTA)
+Colombia;COL;27;Chocó;;;;27150;CARMEN DEL DARIÉN (CUBARADÓ)
+Colombia;COL;27;Chocó;;;;27160;CÉRTEGUI
+Colombia;COL;27;Chocó;;;;27205;CONDOTO
+Colombia;COL;27;Chocó;;;;27245;EL CARMEN DE ATRATO
+Colombia;COL;27;Chocó;;;;27250;LITORAL DE SAN JUAN (SANTA GENOVEVA DE DOCORDÓ)
+Colombia;COL;27;Chocó;;;;27361;ISTMINA
+Colombia;COL;27;Chocó;;;;27372;JURADÓ
+Colombia;COL;27;Chocó;;;;27413;LLORÓ
+Colombia;COL;27;Chocó;;;;27425;BETÉ (MEDIO ATRATO)
+Colombia;COL;27;Chocó;;;;27430;PUERTO MELUK (MEDIO BAUDÓ)
+Colombia;COL;27;Chocó;;;;27491;NOVITA
+Colombia;COL;27;Chocó;;;;27495;NUQUÍ
+Colombia;COL;27;Chocó;;;;27600;PAIMADÓ (RÍO QUITO)
+Colombia;COL;27;Chocó;;;;27615;BELÉN DE BAJIRÁ
+Colombia;COL;27;Chocó;;;;27660;SAN JOSÉ DEL PALMAR
+Colombia;COL;27;Chocó;;;;27745;SIPÍ
+Colombia;COL;27;Chocó;;;;27787;TADÓ
+Colombia;COL;27;Chocó;;;;27800;UNGUÍA
+Colombia;COL;27;Chocó;;;;27810;UNIÓN PANAMERICA   (ÁNIMAS)
+Colombia;COL;41;Huila;;;;41001;NEIVA
+Colombia;COL;41;Huila;;;;41006;ACEVEDO
+Colombia;COL;41;Huila;;;;41013;AGRADO
+Colombia;COL;41;Huila;;;;41016;AÍPE
+Colombia;COL;41;Huila;;;;41020;ALGECIRAS
+Colombia;COL;41;Huila;;;;41026;ALTAMIRA
+Colombia;COL;41;Huila;;;;41078;BARAYA
+Colombia;COL;41;Huila;;;;41132;CAMPOALEGRE
+Colombia;COL;41;Huila;;;;41206;COLOMBIA
+Colombia;COL;41;Huila;;;;41244;ELIAS
+Colombia;COL;41;Huila;;;;41298;GARZÓN
+Colombia;COL;41;Huila;;;;41306;GIGANTE
+Colombia;COL;41;Huila;;;;41319;GUADALUPE
+Colombia;COL;41;Huila;;;;41349;HOBO
+Colombia;COL;41;Huila;;;;41357;ÍQUIRA
+Colombia;COL;41;Huila;;;;41359;ISNOS
+Colombia;COL;41;Huila;;;;41378;LA ARGENTINA
+Colombia;COL;41;Huila;;;;41396;LA PLATA
+Colombia;COL;41;Huila;;;;41483;NATAGA
+Colombia;COL;41;Huila;;;;41503;OPORAPA
+Colombia;COL;41;Huila;;;;41518;PAICOL
+Colombia;COL;41;Huila;;;;41524;PALERMO
+Colombia;COL;41;Huila;;;;41530;PALESTINA
+Colombia;COL;41;Huila;;;;41548;PITAL
+Colombia;COL;41;Huila;;;;41551;PITALITO
+Colombia;COL;41;Huila;;;;41615;RIVERA
+Colombia;COL;41;Huila;;;;41660;SALADO BLANCO
+Colombia;COL;41;Huila;;;;41668;SAN AGUSTIN
+Colombia;COL;41;Huila;;;;41676;SANTA MARÍA
+Colombia;COL;41;Huila;;;;41770;SUAZÁ
+Colombia;COL;41;Huila;;;;41791;TARQUÍ
+Colombia;COL;41;Huila;;;;41797;TESALIA
+Colombia;COL;41;Huila;;;;41799;TELLO
+Colombia;COL;41;Huila;;;;41801;TERUEL
+Colombia;COL;41;Huila;;;;41807;TIMANÁ
+Colombia;COL;41;Huila;;;;41872;VILLA VIEJA
+Colombia;COL;41;Huila;;;;41885;YAGUARA
+Colombia;COL;44;La Guajira;;;;44001;RIOHACHA
+Colombia;COL;44;La Guajira;;;;44035;ALBANIA
+Colombia;COL;44;La Guajira;;;;44078;BARRANCAS
+Colombia;COL;44;La Guajira;;;;44090;DIBULLA
+Colombia;COL;44;La Guajira;;;;44098;DISTRACCIÓN
+Colombia;COL;44;La Guajira;;;;44110;EL MOLINO
+Colombia;COL;44;La Guajira;;;;44279;FONSECA
+Colombia;COL;44;La Guajira;;;;44378;HATO NUEVO
+Colombia;COL;44;La Guajira;;;;44420;LA JAGUA DEL PILAR
+Colombia;COL;44;La Guajira;;;;44430;MAICAO
+Colombia;COL;44;La Guajira;;;;44560;MANAURE
+Colombia;COL;44;La Guajira;;;;44650;SAN JUAN DEL CESAR
+Colombia;COL;44;La Guajira;;;;44847;URIBIA
+Colombia;COL;44;La Guajira;;;;44855;URUMITA
+Colombia;COL;44;La Guajira;;;;44874;VILLANUEVA
+Colombia;COL;47;Magdalena;;;;47001;SANTA MARTA
+Colombia;COL;47;Magdalena;;;;47030;ALGARROBO
+Colombia;COL;47;Magdalena;;;;47053;ARACATACA
+Colombia;COL;47;Magdalena;;;;47058;EL DIFÍCIL (ARIGUANÍ)
+Colombia;COL;47;Magdalena;;;;47161;CERRO DE SAN ANTONIO
+Colombia;COL;47;Magdalena;;;;47170;CHIVOLO
+Colombia;COL;47;Magdalena;;;;47189;CIÉNAGA
+Colombia;COL;47;Magdalena;;;;47245;EL BANCO
+Colombia;COL;47;Magdalena;;;;47258;EL PIÑÓN
+Colombia;COL;47;Magdalena;;;;47268;EL RETÉN
+Colombia;COL;47;Magdalena;;;;47288;FUNDACIÓN
+Colombia;COL;47;Magdalena;;;;47318;GUAMAL
+Colombia;COL;47;Magdalena;;;;47541;PEDRAZA
+Colombia;COL;47;Magdalena;;;;47545;PIJIÑO DEL CARMEN
+Colombia;COL;47;Magdalena;;;;47551;PIVIJAY
+Colombia;COL;47;Magdalena;;;;47555;PLATO
+Colombia;COL;47;Magdalena;;;;47570;PUEBLOVIEJO
+Colombia;COL;47;Magdalena;;;;47605;REMOLINO
+Colombia;COL;47;Magdalena;;;;47660;SAN ÁNGEL
+Colombia;COL;47;Magdalena;;;;47675;SALAMINA
+Colombia;COL;47;Magdalena;;;;47692;SAN SEBASTIÁN DE BUENAVISTA
+Colombia;COL;47;Magdalena;;;;47703;SAN ZENÓN
+Colombia;COL;47;Magdalena;;;;47707;SANTA ANA
+Colombia;COL;47;Magdalena;;;;47745;SITIONUEVO
+Colombia;COL;47;Magdalena;;;;47798;TENERIFE
+Colombia;COL;47;Magdalena;;;;47960;ZAPAYÁN (PUNTA DE PIEDRAS)
+Colombia;COL;47;Magdalena;;;;47980;ZONA BANANERA (PRADO-SEVILLA)
+Colombia;COL;50;Meta;;;;50001;VILLAVICENCIO
+Colombia;COL;50;Meta;;;;50006;ACACIAS
+Colombia;COL;50;Meta;;;;50110;BARRANCA DE UPÍA
+Colombia;COL;50;Meta;;;;50124;CABUYARO
+Colombia;COL;50;Meta;;;;50150;CASTILLA LA NUEVA
+Colombia;COL;50;Meta;;;;50223;CUBARRAL
+Colombia;COL;50;Meta;;;;50226;CUMARAL
+Colombia;COL;50;Meta;;;;50245;EL CALVARIO
+Colombia;COL;50;Meta;;;;50251;EL CASTILLO
+Colombia;COL;50;Meta;;;;50270;EL DORADO
+Colombia;COL;50;Meta;;;;50287;FUENTE DE ORO
+Colombia;COL;50;Meta;;;;50313;GRANADA
+Colombia;COL;50;Meta;;;;50318;GUAMAL
+Colombia;COL;50;Meta;;;;50325;MAPIRIPÁN
+Colombia;COL;50;Meta;;;;50330;MESETAS
+Colombia;COL;50;Meta;;;;50350;LA MACARENA
+Colombia;COL;50;Meta;;;;50370;URIBE
+Colombia;COL;50;Meta;;;;50400;LEJANÍAS
+Colombia;COL;50;Meta;;;;50450;PUERTO CONCORDIA
+Colombia;COL;50;Meta;;;;50568;PUERTO GAITÁN
+Colombia;COL;50;Meta;;;;50573;PUERTO LÓPEZ
+Colombia;COL;50;Meta;;;;50577;PUERTO LLERAS
+Colombia;COL;50;Meta;;;;50590;PUERTO RICO
+Colombia;COL;50;Meta;;;;50606;RESTREPO
+Colombia;COL;50;Meta;;;;50680;SAN CARLOS DE GUAROA
+Colombia;COL;50;Meta;;;;50683;SAN JUAN DE ARAMA
+Colombia;COL;50;Meta;;;;50686;SAN JUANITO
+Colombia;COL;50;Meta;;;;50689;SAN MARTÍN
+Colombia;COL;50;Meta;;;;50711;VISTA HERMOSA
+Colombia;COL;52;Nariño;;;;52001;PASTO
+Colombia;COL;52;Nariño;;;;52019;ALBÁN (SAN JOSÉ)
+Colombia;COL;52;Nariño;;;;52022;ALDAÑA
+Colombia;COL;52;Nariño;;;;52036;ANCUYA
+Colombia;COL;52;Nariño;;;;52051;ARBOLEDA (BERRUECAS)
+Colombia;COL;52;Nariño;;;;52079;BARBACOAS
+Colombia;COL;52;Nariño;;;;52083;BELÉN
+Colombia;COL;52;Nariño;;;;52110;BUESACO
+Colombia;COL;52;Nariño;;;;52203;COLÓN (GÉNOVA)
+Colombia;COL;52;Nariño;;;;52207;CONSACA
+Colombia;COL;52;Nariño;;;;52210;CONTADERO
+Colombia;COL;52;Nariño;;;;52215;CÓRDOBA
+Colombia;COL;52;Nariño;;;;52224;CUASPUD (CARLOSAMA)
+Colombia;COL;52;Nariño;;;;52227;CUMBAL
+Colombia;COL;52;Nariño;;;;52233;CUMBITARA
+Colombia;COL;52;Nariño;;;;52240;CHACHAGÜÍ
+Colombia;COL;52;Nariño;;;;52250;EL CHARCO
+Colombia;COL;52;Nariño;;;;52254;EL PEÑOL
+Colombia;COL;52;Nariño;;;;52256;EL ROSARIO
+Colombia;COL;52;Nariño;;;;52258;EL TABLÓN
+Colombia;COL;52;Nariño;;;;52260;EL TAMBO
+Colombia;COL;52;Nariño;;;;52287;FUNES
+Colombia;COL;52;Nariño;;;;52317;GUACHUCAL
+Colombia;COL;52;Nariño;;;;52320;GUAITARILLA
+Colombia;COL;52;Nariño;;;;52323;GUALMATÁN
+Colombia;COL;52;Nariño;;;;52352;ILES
+Colombia;COL;52;Nariño;;;;52354;IMUÉS
+Colombia;COL;52;Nariño;;;;52356;IPIALES
+Colombia;COL;52;Nariño;;;;52378;LA CRUZ
+Colombia;COL;52;Nariño;;;;52381;LA FLORIDA
+Colombia;COL;52;Nariño;;;;52385;LA LLANADA
+Colombia;COL;52;Nariño;;;;52390;LA TOLA
+Colombia;COL;52;Nariño;;;;52399;LA UNIÓN
+Colombia;COL;52;Nariño;;;;52405;LEIVA
+Colombia;COL;52;Nariño;;;;52411;LINARES
+Colombia;COL;52;Nariño;;;;52418;LOS ANDES (SOTOMAYOR)
+Colombia;COL;52;Nariño;;;;52427;MAGÜÍ (PAYAN)
+Colombia;COL;52;Nariño;;;;52435;MALLAMA (PIEDRANCHA)
+Colombia;COL;52;Nariño;;;;52473;MOSQUERA
+Colombia;COL;52;Nariño;;;;52480;NARIÑO
+Colombia;COL;52;Nariño;;;;52490;OLAYA HERRERA (BOCAS DE SATINGA)
+Colombia;COL;52;Nariño;;;;52506;OSPINA
+Colombia;COL;52;Nariño;;;;52520;FRANCISCO PIZARRO (SALAHONDA)
+Colombia;COL;52;Nariño;;;;52540;POLICARPA
+Colombia;COL;52;Nariño;;;;52560;POTOSI
+Colombia;COL;52;Nariño;;;;52565;PROVIDENCIA
+Colombia;COL;52;Nariño;;;;52573;PUERRES
+Colombia;COL;52;Nariño;;;;52585;PUPIALES
+Colombia;COL;52;Nariño;;;;52612;RICAURTE
+Colombia;COL;52;Nariño;;;;52621;ROBERTO PAYÁN (SAN JOSE)
+Colombia;COL;52;Nariño;;;;52678;SAMANIEGO
+Colombia;COL;52;Nariño;;;;52683;SANDONA
+Colombia;COL;52;Nariño;;;;52685;SAN BERNARDO
+Colombia;COL;52;Nariño;;;;52687;SAN LORENZO
+Colombia;COL;52;Nariño;;;;52693;SAN PABLO
+Colombia;COL;52;Nariño;;;;52694;SAN PEDRO DE CARTAGO
+Colombia;COL;52;Nariño;;;;52696;SANTA BÁRBARA (ISCUANDE)
+Colombia;COL;52;Nariño;;;;52699;SANTACRUZ (GAUCHÁVEZ)
+Colombia;COL;52;Nariño;;;;52720;SAPUYES
+Colombia;COL;52;Nariño;;;;52786;TAMINANGO
+Colombia;COL;52;Nariño;;;;52788;TANGUA
+Colombia;COL;52;Nariño;;;;52835;TUMACO
+Colombia;COL;52;Nariño;;;;52838;TÚQUERRES
+Colombia;COL;52;Nariño;;;;52885;YACUANQUER
+Colombia;COL;54;Norte De Santander;;;;54001;CÚCUTA
+Colombia;COL;54;Norte De Santander;;;;54003;ABREGO
+Colombia;COL;54;Norte De Santander;;;;54051;ARBOLEDAS
+Colombia;COL;54;Norte De Santander;;;;54099;BOCHALEMA
+Colombia;COL;54;Norte De Santander;;;;54109;BUCARASICA
+Colombia;COL;54;Norte De Santander;;;;54125;CÁCOTA
+Colombia;COL;54;Norte De Santander;;;;54128;CÁCHIRA
+Colombia;COL;54;Norte De Santander;;;;54172;CHINACOTA
+Colombia;COL;54;Norte De Santander;;;;54174;CHITAGÁ
+Colombia;COL;54;Norte De Santander;;;;54206;CONVENCIÓN
+Colombia;COL;54;Norte De Santander;;;;54223;CUCUTILLA
+Colombia;COL;54;Norte De Santander;;;;54239;DURANIA
+Colombia;COL;54;Norte De Santander;;;;54245;EL CARMEN
+Colombia;COL;54;Norte De Santander;;;;54250;EL TARRA
+Colombia;COL;54;Norte De Santander;;;;54261;EL ZULIA
+Colombia;COL;54;Norte De Santander;;;;54313;GRAMALOTE
+Colombia;COL;54;Norte De Santander;;;;54344;HACARÍ
+Colombia;COL;54;Norte De Santander;;;;54347;HERRÁN
+Colombia;COL;54;Norte De Santander;;;;54377;LABATECA
+Colombia;COL;54;Norte De Santander;;;;54385;LA ESPERANZA
+Colombia;COL;54;Norte De Santander;;;;54398;LA PLAYA
+Colombia;COL;54;Norte De Santander;;;;54405;LOS PATIOS
+Colombia;COL;54;Norte De Santander;;;;54418;LOURDES
+Colombia;COL;54;Norte De Santander;;;;54480;MUTISCUA
+Colombia;COL;54;Norte De Santander;;;;54498;OCAÑA
+Colombia;COL;54;Norte De Santander;;;;54518;PAMPLONA
+Colombia;COL;54;Norte De Santander;;;;54520;PAMPLONITA
+Colombia;COL;54;Norte De Santander;;;;54553;PUERTO SANTANDER
+Colombia;COL;54;Norte De Santander;;;;54599;RAGONVALÍA
+Colombia;COL;54;Norte De Santander;;;;54660;SALÁZAR
+Colombia;COL;54;Norte De Santander;;;;54670;SAN CALIXTO
+Colombia;COL;54;Norte De Santander;;;;54673;SAN CAYETANO
+Colombia;COL;54;Norte De Santander;;;;54680;SANTIAGO
+Colombia;COL;54;Norte De Santander;;;;54720;SARDINATA
+Colombia;COL;54;Norte De Santander;;;;54743;SILOS
+Colombia;COL;54;Norte De Santander;;;;54800;TEORAMA
+Colombia;COL;54;Norte De Santander;;;;54810;TIBÚ
+Colombia;COL;54;Norte De Santander;;;;54820;TOLEDO
+Colombia;COL;54;Norte De Santander;;;;54871;VILLA CARO
+Colombia;COL;54;Norte De Santander;;;;54874;VILLA DEL ROSARIO
+Colombia;COL;63;Quindio;;;;63001;ARMENIA
+Colombia;COL;63;Quindio;;;;63111;BUENAVISTA
+Colombia;COL;63;Quindio;;;;63130;CALARCÁ
+Colombia;COL;63;Quindio;;;;63190;CIRCASIA
+Colombia;COL;63;Quindio;;;;63212;CÓRDOBA
+Colombia;COL;63;Quindio;;;;63272;FILANDIA
+Colombia;COL;63;Quindio;;;;63302;GÉNOVA
+Colombia;COL;63;Quindio;;;;63401;LA TEBAIDA
+Colombia;COL;63;Quindio;;;;63470;MONTENEGRO
+Colombia;COL;63;Quindio;;;;63548;PIJAO
+Colombia;COL;63;Quindio;;;;63594;QUIMBAYA
+Colombia;COL;63;Quindio;;;;63690;SALENTO
+Colombia;COL;66;Risaralda;;;;66001;PEREIRA
+Colombia;COL;66;Risaralda;;;;66045;APÍA
+Colombia;COL;66;Risaralda;;;;66075;BALBOA
+Colombia;COL;66;Risaralda;;;;66088;BELÉN DE UMBRÍA
+Colombia;COL;66;Risaralda;;;;66170;DOSQUEBRADAS
+Colombia;COL;66;Risaralda;;;;66318;GUÁTICA
+Colombia;COL;66;Risaralda;;;;66383;LA CELIA
+Colombia;COL;66;Risaralda;;;;66400;LA VIRGINIA
+Colombia;COL;66;Risaralda;;;;66440;MARSELLA
+Colombia;COL;66;Risaralda;;;;66456;MISTRATÓ
+Colombia;COL;66;Risaralda;;;;66572;PUEBLO RICO
+Colombia;COL;66;Risaralda;;;;66594;QUINCHÍA
+Colombia;COL;66;Risaralda;;;;66682;SANTA ROSA DE CABAL
+Colombia;COL;66;Risaralda;;;;66687;SANTUARÍO
+Colombia;COL;68;Santander;;;;68001;BUCARAMANGA
+Colombia;COL;68;Santander;;;;68013;AGUADA
+Colombia;COL;68;Santander;;;;68020;ALBANIA
+Colombia;COL;68;Santander;;;;68051;ARATOCA
+Colombia;COL;68;Santander;;;;68077;BARBOSA
+Colombia;COL;68;Santander;;;;68079;BARICHARA
+Colombia;COL;68;Santander;;;;68081;BARRANCABERMEJA
+Colombia;COL;68;Santander;;;;68092;BETULIA
+Colombia;COL;68;Santander;;;;68101;BOLÍVAR
+Colombia;COL;68;Santander;;;;68121;CABRERA
+Colombia;COL;68;Santander;;;;68132;CALIFORNIA
+Colombia;COL;68;Santander;;;;68147;CAPITANEJO
+Colombia;COL;68;Santander;;;;68152;CARCASÍ
+Colombia;COL;68;Santander;;;;68160;CEPITA
+Colombia;COL;68;Santander;;;;68162;CERRITO
+Colombia;COL;68;Santander;;;;68167;CHARÁLA
+Colombia;COL;68;Santander;;;;68169;CHARTA
+Colombia;COL;68;Santander;;;;68176;CHIMA
+Colombia;COL;68;Santander;;;;68179;CHIPATÁ
+Colombia;COL;68;Santander;;;;68190;CIMITARRA
+Colombia;COL;68;Santander;;;;68207;CONCEPCIÓN
+Colombia;COL;68;Santander;;;;68209;CONFINES
+Colombia;COL;68;Santander;;;;68211;CONTRATACIÓN
+Colombia;COL;68;Santander;;;;68217;COROMORO
+Colombia;COL;68;Santander;;;;68229;CURITÍ
+Colombia;COL;68;Santander;;;;68235;EL CARMEN DE CHUCURI
+Colombia;COL;68;Santander;;;;68245;GUACAMAYO
+Colombia;COL;68;Santander;;;;68250;EL PEÑÓN
+Colombia;COL;68;Santander;;;;68255;EL PLAYÓN
+Colombia;COL;68;Santander;;;;68264;ENCINO
+Colombia;COL;68;Santander;;;;68266;ENCISO
+Colombia;COL;68;Santander;;;;68271;FLORIÁN
+Colombia;COL;68;Santander;;;;68276;FLORIDABLANCA
+Colombia;COL;68;Santander;;;;68296;GALÁN
+Colombia;COL;68;Santander;;;;68298;GAMBITA
+Colombia;COL;68;Santander;;;;68307;GIRÓN
+Colombia;COL;68;Santander;;;;68318;GUACA
+Colombia;COL;68;Santander;;;;68320;GUADALUPE
+Colombia;COL;68;Santander;;;;68322;GUAPOTA
+Colombia;COL;68;Santander;;;;68324;GUAVATA
+Colombia;COL;68;Santander;;;;68327;GUEPSA
+Colombia;COL;68;Santander;;;;68344;HATO
+Colombia;COL;68;Santander;;;;68368;JESUS MARÍA
+Colombia;COL;68;Santander;;;;68370;JORDAN
+Colombia;COL;68;Santander;;;;68377;LA BELLEZA
+Colombia;COL;68;Santander;;;;68385;LANDÁZURI
+Colombia;COL;68;Santander;;;;68397;LA PAZ
+Colombia;COL;68;Santander;;;;68406;LEBRIJA
+Colombia;COL;68;Santander;;;;68418;LOS SANTOS
+Colombia;COL;68;Santander;;;;68425;MACARAVITA
+Colombia;COL;68;Santander;;;;68432;MÁLAGA
+Colombia;COL;68;Santander;;;;68444;MATANZA
+Colombia;COL;68;Santander;;;;68464;MOGOTES
+Colombia;COL;68;Santander;;;;68468;MOLAGAVITA
+Colombia;COL;68;Santander;;;;68498;OCAMONTE
+Colombia;COL;68;Santander;;;;68500;OIBA
+Colombia;COL;68;Santander;;;;68502;ONZAGA
+Colombia;COL;68;Santander;;;;68522;PALMAR
+Colombia;COL;68;Santander;;;;68524;PALMAS DEL SOCORRO
+Colombia;COL;68;Santander;;;;68533;PÁRAMO
+Colombia;COL;68;Santander;;;;68547;PIEDECUESTA
+Colombia;COL;68;Santander;;;;68549;PINCHOTE
+Colombia;COL;68;Santander;;;;68572;PUENTE NACIONAL
+Colombia;COL;68;Santander;;;;68573;PUERTO PARRA
+Colombia;COL;68;Santander;;;;68575;PUERTO WILCHES
+Colombia;COL;68;Santander;;;;68615;RIONEGRO
+Colombia;COL;68;Santander;;;;68655;SABANA DE TERRES
+Colombia;COL;68;Santander;;;;68669;SAN ANDRÉS
+Colombia;COL;68;Santander;;;;68673;SAN BENITO
+Colombia;COL;68;Santander;;;;68679;SAN GIL
+Colombia;COL;68;Santander;;;;68682;SAN JOAQUÍN
+Colombia;COL;68;Santander;;;;68684;SAN JOSÉ DE MIRANDA
+Colombia;COL;68;Santander;;;;68686;SAN MIGUEL
+Colombia;COL;68;Santander;;;;68689;SAN VICENTE DE CHUCURI
+Colombia;COL;68;Santander;;;;68705;SANTA BÁRBARA
+Colombia;COL;68;Santander;;;;68720;SANTA ELENA DEL OPÓN
+Colombia;COL;68;Santander;;;;68745;SIMACOTA
+Colombia;COL;68;Santander;;;;68755;SOCORRO
+Colombia;COL;68;Santander;;;;68770;SUAITA
+Colombia;COL;68;Santander;;;;68773;SUCRE
+Colombia;COL;68;Santander;;;;68780;SURATA
+Colombia;COL;68;Santander;;;;68820;TONA
+Colombia;COL;68;Santander;;;;68855;VALLE DE SAN JOSE
+Colombia;COL;68;Santander;;;;68861;VÉLEZ
+Colombia;COL;68;Santander;;;;68867;VETAS
+Colombia;COL;68;Santander;;;;68872;VILLANUEVA
+Colombia;COL;68;Santander;;;;68895;ZAPATOCA
+Colombia;COL;70;Sucre;;;;70001;SINCELEJO
+Colombia;COL;70;Sucre;;;;70110;BUENAVISTA
+Colombia;COL;70;Sucre;;;;70124;CAIMITO
+Colombia;COL;70;Sucre;;;;70204;COLOSO
+Colombia;COL;70;Sucre;;;;70215;COROZAL
+Colombia;COL;70;Sucre;;;;70221;COVEÑAS
+Colombia;COL;70;Sucre;;;;70230;CHALAN
+Colombia;COL;70;Sucre;;;;70233;EL ROBLE
+Colombia;COL;70;Sucre;;;;70235;GALERAS
+Colombia;COL;70;Sucre;;;;70265;GUARANDA
+Colombia;COL;70;Sucre;;;;70400;LA UNIÓN
+Colombia;COL;70;Sucre;;;;70418;LOS PALMITOS
+Colombia;COL;70;Sucre;;;;70429;MAJAGUAL
+Colombia;COL;70;Sucre;;;;70473;MORROA
+Colombia;COL;70;Sucre;;;;70508;OVEJAS
+Colombia;COL;70;Sucre;;;;70523;PALMITO
+Colombia;COL;70;Sucre;;;;70670;SAMPUÉS
+Colombia;COL;70;Sucre;;;;70678;SAN BENITO ABAD
+Colombia;COL;70;Sucre;;;;70702;SAN JUAN DE BETULIA
+Colombia;COL;70;Sucre;;;;70708;SAN MARCOS
+Colombia;COL;70;Sucre;;;;70713;SAN ONOFRE
+Colombia;COL;70;Sucre;;;;70717;SAN PEDRO
+Colombia;COL;70;Sucre;;;;70742;SAN LUIS DE SINCE
+Colombia;COL;70;Sucre;;;;70771;SUCRE
+Colombia;COL;70;Sucre;;;;70820;TOLÚ
+Colombia;COL;70;Sucre;;;;70823;TOLUVIEJO
+Colombia;COL;73;Tolima;;;;73001;IBAGUÉ
+Colombia;COL;73;Tolima;;;;73024;ALPUJARRA
+Colombia;COL;73;Tolima;;;;73026;ALVARADO
+Colombia;COL;73;Tolima;;;;73030;AMBALEMA
+Colombia;COL;73;Tolima;;;;73043;ANZOÁTEGUI
+Colombia;COL;73;Tolima;;;;73055;GUAYABAL (ARMERO)
+Colombia;COL;73;Tolima;;;;73067;ATACO
+Colombia;COL;73;Tolima;;;;73124;CAJAMARCA
+Colombia;COL;73;Tolima;;;;73148;CARMEN DE APICALÁ
+Colombia;COL;73;Tolima;;;;73152;CASABIANCA
+Colombia;COL;73;Tolima;;;;73168;CHAPARRAL
+Colombia;COL;73;Tolima;;;;73200;COELLO
+Colombia;COL;73;Tolima;;;;73217;COYAIMA
+Colombia;COL;73;Tolima;;;;73226;CUNDAY
+Colombia;COL;73;Tolima;;;;73236;DOLORES
+Colombia;COL;73;Tolima;;;;73268;ESPINAL
+Colombia;COL;73;Tolima;;;;73270;FALÁN
+Colombia;COL;73;Tolima;;;;73275;FLANDES
+Colombia;COL;73;Tolima;;;;73283;FRESNO
+Colombia;COL;73;Tolima;;;;73319;GUAMO
+Colombia;COL;73;Tolima;;;;73347;HERVEO
+Colombia;COL;73;Tolima;;;;73349;HONDA
+Colombia;COL;73;Tolima;;;;73352;ICONONZO
+Colombia;COL;73;Tolima;;;;73408;LÉRIDA
+Colombia;COL;73;Tolima;;;;73411;LÍBANO
+Colombia;COL;73;Tolima;;;;73443;MARIQUITA
+Colombia;COL;73;Tolima;;;;73449;MELGAR
+Colombia;COL;73;Tolima;;;;73461;MURILLO
+Colombia;COL;73;Tolima;;;;73483;NATAGAIMA
+Colombia;COL;73;Tolima;;;;73504;ORTEGA
+Colombia;COL;73;Tolima;;;;73547;PIEDRAS
+Colombia;COL;73;Tolima;;;;73555;PLANADAS
+Colombia;COL;73;Tolima;;;;73563;PRADO
+Colombia;COL;73;Tolima;;;;73585;PURIFICACIÓN
+Colombia;COL;73;Tolima;;;;73616;RÍOBLANCO
+Colombia;COL;73;Tolima;;;;73622;RONCESVALLES
+Colombia;COL;73;Tolima;;;;73624;ROVIRA
+Colombia;COL;73;Tolima;;;;73671;SALDAÑA
+Colombia;COL;73;Tolima;;;;73675;SAN ANTONIO
+Colombia;COL;73;Tolima;;;;73678;SAN LUIS
+Colombia;COL;73;Tolima;;;;73686;SANTA ISABEL
+Colombia;COL;73;Tolima;;;;73770;SUÁREZ
+Colombia;COL;73;Tolima;;;;73854;VALLE DE  SAN JUAN
+Colombia;COL;73;Tolima;;;;73861;VENADILLO
+Colombia;COL;73;Tolima;;;;73870;VILLAHERMOSA
+Colombia;COL;73;Tolima;;;;73873;VILLARRICA
+Colombia;COL;76;Valle Del Cauca;;;;76001;CALI
+Colombia;COL;76;Valle Del Cauca;;;;76020;ALCALÁ
+Colombia;COL;76;Valle Del Cauca;;;;76036;ANDALUCÍA
+Colombia;COL;76;Valle Del Cauca;;;;76041;ANSERMANUEVO
+Colombia;COL;76;Valle Del Cauca;;;;76054;ARGELIA
+Colombia;COL;76;Valle Del Cauca;;;;76100;BOLÍVAR
+Colombia;COL;76;Valle Del Cauca;;;;76109;BUENAVENTURA
+Colombia;COL;76;Valle Del Cauca;;;;76111;BUGA
+Colombia;COL;76;Valle Del Cauca;;;;76113;BUGALAGRANDE
+Colombia;COL;76;Valle Del Cauca;;;;76122;CAICEDONIA
+Colombia;COL;76;Valle Del Cauca;;;;76126;EL DARIÉN (CALIMA)
+Colombia;COL;76;Valle Del Cauca;;;;76130;CANDELARIA
+Colombia;COL;76;Valle Del Cauca;;;;76147;CARTAGO
+Colombia;COL;76;Valle Del Cauca;;;;76233;DAGUA
+Colombia;COL;76;Valle Del Cauca;;;;76243;EL ÁGUILA
+Colombia;COL;76;Valle Del Cauca;;;;76246;EL CAIRO
+Colombia;COL;76;Valle Del Cauca;;;;76248;EL CERRITO
+Colombia;COL;76;Valle Del Cauca;;;;76250;EL DOVIO
+Colombia;COL;76;Valle Del Cauca;;;;76275;FLORIDA
+Colombia;COL;76;Valle Del Cauca;;;;76306;GINEBRA
+Colombia;COL;76;Valle Del Cauca;;;;76318;GUACARÍ
+Colombia;COL;76;Valle Del Cauca;;;;76364;JAMUNDÍ
+Colombia;COL;76;Valle Del Cauca;;;;76377;LA CUMBRE
+Colombia;COL;76;Valle Del Cauca;;;;76400;LA UNIÓN
+Colombia;COL;76;Valle Del Cauca;;;;76403;LA VICTORIA
+Colombia;COL;76;Valle Del Cauca;;;;76497;OBANDO
+Colombia;COL;76;Valle Del Cauca;;;;76520;PALMIRA
+Colombia;COL;76;Valle Del Cauca;;;;76563;PRADERA
+Colombia;COL;76;Valle Del Cauca;;;;76606;RESTREPO
+Colombia;COL;76;Valle Del Cauca;;;;76616;RIOFRÍO
+Colombia;COL;76;Valle Del Cauca;;;;76622;ROLDANILLO
+Colombia;COL;76;Valle Del Cauca;;;;76670;SAN PEDRO
+Colombia;COL;76;Valle Del Cauca;;;;76736;SEVILLA
+Colombia;COL;76;Valle Del Cauca;;;;76823;TORO
+Colombia;COL;76;Valle Del Cauca;;;;76828;TRUJILLO
+Colombia;COL;76;Valle Del Cauca;;;;76834;TULUÁ
+Colombia;COL;76;Valle Del Cauca;;;;76845;ULLOA
+Colombia;COL;76;Valle Del Cauca;;;;76863;VERSALLES
+Colombia;COL;76;Valle Del Cauca;;;;76869;VIJES
+Colombia;COL;76;Valle Del Cauca;;;;76890;YOTOCO
+Colombia;COL;76;Valle Del Cauca;;;;76892;YUMBO
+Colombia;COL;76;Valle Del Cauca;;;;76895;ZARZAL
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;1;CHACHAPOYAS
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;2;ASUNCION
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;3;BALSAS
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;4;CHETO
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;5;CHILIQUIN
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;6;CHUQUIBAMBA
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;7;GRANADA
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;8;HUANCAS
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;9;LA JALCA
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;10;LEIMEBAMBA
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;11;LEVANTO
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;12;MAGDALENA
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;13;MARISCAL CASTILLA
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;14;MOLINOPAMPA
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;15;MONTEVIDEO
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;16;OLLEROS
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;17;QUINJALCA
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;18;SAN FRANCISCO DE DAGUAS
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;19;SAN ISIDRO DE MAINO
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;20;SOLOCO
+Peru;PER;1;AMAZONAS;;1;CHACHAPOYAS;21;SONCHE
+Peru;PER;1;AMAZONAS;;2;BAGUA;1;BAGUA
+Peru;PER;1;AMAZONAS;;2;BAGUA;2;ARAMANGO
+Peru;PER;1;AMAZONAS;;2;BAGUA;3;COPALLIN
+Peru;PER;1;AMAZONAS;;2;BAGUA;4;EL PARCO
+Peru;PER;1;AMAZONAS;;2;BAGUA;5;IMAZA
+Peru;PER;1;AMAZONAS;;3;BONGARA;1;JUMBILLA
+Peru;PER;1;AMAZONAS;;3;BONGARA;2;CHISQUILLA
+Peru;PER;1;AMAZONAS;;3;BONGARA;3;CHURUJA
+Peru;PER;1;AMAZONAS;;3;BONGARA;4;COROSHA
+Peru;PER;1;AMAZONAS;;3;BONGARA;5;CUISPES
+Peru;PER;1;AMAZONAS;;3;BONGARA;6;FLORIDA
+Peru;PER;1;AMAZONAS;;3;BONGARA;7;JAZAN
+Peru;PER;1;AMAZONAS;;3;BONGARA;8;RECTA
+Peru;PER;1;AMAZONAS;;3;BONGARA;9;SAN CARLOS
+Peru;PER;1;AMAZONAS;;3;BONGARA;10;SHIPASBAMBA
+Peru;PER;1;AMAZONAS;;3;BONGARA;11;VALERA
+Peru;PER;1;AMAZONAS;;3;BONGARA;12;YAMBRASBAMBA
+Peru;PER;1;AMAZONAS;;4;CONDORCANQUI;1;NIEVA
+Peru;PER;1;AMAZONAS;;4;CONDORCANQUI;2;EL CENEPA
+Peru;PER;1;AMAZONAS;;4;CONDORCANQUI;3;RIO SANTIAGO
+Peru;PER;1;AMAZONAS;;5;LUYA;1;LAMUD
+Peru;PER;1;AMAZONAS;;5;LUYA;2;CAMPORREDONDO
+Peru;PER;1;AMAZONAS;;5;LUYA;3;COCABAMBA
+Peru;PER;1;AMAZONAS;;5;LUYA;4;COLCAMAR
+Peru;PER;1;AMAZONAS;;5;LUYA;5;CONILA
+Peru;PER;1;AMAZONAS;;5;LUYA;6;INGUILPATA
+Peru;PER;1;AMAZONAS;;5;LUYA;7;LONGUITA
+Peru;PER;1;AMAZONAS;;5;LUYA;8;LONYA CHICO
+Peru;PER;1;AMAZONAS;;5;LUYA;9;LUYA
+Peru;PER;1;AMAZONAS;;5;LUYA;10;LUYA VIEJO
+Peru;PER;1;AMAZONAS;;5;LUYA;11;MARIA
+Peru;PER;1;AMAZONAS;;5;LUYA;12;OCALLI
+Peru;PER;1;AMAZONAS;;5;LUYA;13;OCUMAL
+Peru;PER;1;AMAZONAS;;5;LUYA;14;PISUQUIA
+Peru;PER;1;AMAZONAS;;5;LUYA;15;PROVIDENCIA
+Peru;PER;1;AMAZONAS;;5;LUYA;16;SAN CRISTOBAL
+Peru;PER;1;AMAZONAS;;5;LUYA;17;SAN FRANCISCO DEL YESO
+Peru;PER;1;AMAZONAS;;5;LUYA;18;SAN JERONIMO
+Peru;PER;1;AMAZONAS;;5;LUYA;19;SAN JUAN DE LOPECANCHA
+Peru;PER;1;AMAZONAS;;5;LUYA;20;SANTA CATALINA
+Peru;PER;1;AMAZONAS;;5;LUYA;21;SANTO TOMAS
+Peru;PER;1;AMAZONAS;;5;LUYA;22;TINGO
+Peru;PER;1;AMAZONAS;;5;LUYA;23;TRITA
+Peru;PER;1;AMAZONAS;;6;RODRIGUEZ DE MENDOZA;1;SAN NICOLAS
+Peru;PER;1;AMAZONAS;;6;RODRIGUEZ DE MENDOZA;2;CHIRIMOTO
+Peru;PER;1;AMAZONAS;;6;RODRIGUEZ DE MENDOZA;3;COCHAMAL
+Peru;PER;1;AMAZONAS;;6;RODRIGUEZ DE MENDOZA;4;HUAMBO
+Peru;PER;1;AMAZONAS;;6;RODRIGUEZ DE MENDOZA;5;LIMABAMBA
+Peru;PER;1;AMAZONAS;;6;RODRIGUEZ DE MENDOZA;6;LONGAR
+Peru;PER;1;AMAZONAS;;6;RODRIGUEZ DE MENDOZA;7;MARISCAL BENAVIDES
+Peru;PER;1;AMAZONAS;;6;RODRIGUEZ DE MENDOZA;8;MILPUC
+Peru;PER;1;AMAZONAS;;6;RODRIGUEZ DE MENDOZA;9;OMIA
+Peru;PER;1;AMAZONAS;;6;RODRIGUEZ DE MENDOZA;10;SANTA ROSA
+Peru;PER;1;AMAZONAS;;6;RODRIGUEZ DE MENDOZA;11;TOTORA
+Peru;PER;1;AMAZONAS;;6;RODRIGUEZ DE MENDOZA;12;VISTA ALEGRE
+Peru;PER;1;AMAZONAS;;7;UTCUBAMBA;1;BAGUA GRANDE
+Peru;PER;1;AMAZONAS;;7;UTCUBAMBA;2;CAJARURO
+Peru;PER;1;AMAZONAS;;7;UTCUBAMBA;3;CUMBA
+Peru;PER;1;AMAZONAS;;7;UTCUBAMBA;4;EL MILAGRO
+Peru;PER;1;AMAZONAS;;7;UTCUBAMBA;5;JAMALCA
+Peru;PER;1;AMAZONAS;;7;UTCUBAMBA;6;LONYA GRANDE
+Peru;PER;1;AMAZONAS;;7;UTCUBAMBA;7;YAMON
+Peru;PER;2;ANCASH;;1;HUARAZ;1;HUARAZ
+Peru;PER;2;ANCASH;;1;HUARAZ;2;COCHABAMBA
+Peru;PER;2;ANCASH;;1;HUARAZ;3;COLCABAMBA
+Peru;PER;2;ANCASH;;1;HUARAZ;4;HUANCHAY
+Peru;PER;2;ANCASH;;1;HUARAZ;5;INDEPENDENCIA
+Peru;PER;2;ANCASH;;1;HUARAZ;6;JANGAS
+Peru;PER;2;ANCASH;;1;HUARAZ;7;LA LIBERTAD
+Peru;PER;2;ANCASH;;1;HUARAZ;8;OLLEROS
+Peru;PER;2;ANCASH;;1;HUARAZ;9;PAMPAS
+Peru;PER;2;ANCASH;;1;HUARAZ;10;PARIACOTO
+Peru;PER;2;ANCASH;;1;HUARAZ;11;PIRA
+Peru;PER;2;ANCASH;;1;HUARAZ;12;TARICA
+Peru;PER;2;ANCASH;;2;AIJA;1;AIJA
+Peru;PER;2;ANCASH;;2;AIJA;2;CORIS
+Peru;PER;2;ANCASH;;2;AIJA;3;HUACLLAN
+Peru;PER;2;ANCASH;;2;AIJA;4;LA MERCED
+Peru;PER;2;ANCASH;;2;AIJA;5;SUCCHA
+Peru;PER;2;ANCASH;;3;ANTONIO RAYMONDI;1;LLAMELLIN
+Peru;PER;2;ANCASH;;3;ANTONIO RAYMONDI;2;ACZO
+Peru;PER;2;ANCASH;;3;ANTONIO RAYMONDI;3;CHACCHO
+Peru;PER;2;ANCASH;;3;ANTONIO RAYMONDI;4;CHINGAS
+Peru;PER;2;ANCASH;;3;ANTONIO RAYMONDI;5;MIRGAS
+Peru;PER;2;ANCASH;;3;ANTONIO RAYMONDI;6;SAN JUAN DE RONTOY
+Peru;PER;2;ANCASH;;4;ASUNCION;1;CHACAS
+Peru;PER;2;ANCASH;;4;ASUNCION;2;ACOCHACA
+Peru;PER;2;ANCASH;;5;BOLOGNESI;1;CHIQUIAN
+Peru;PER;2;ANCASH;;5;BOLOGNESI;2;ABELARDO PARDO LEZAMETA
+Peru;PER;2;ANCASH;;5;BOLOGNESI;3;ANTONIO RAYMONDI
+Peru;PER;2;ANCASH;;5;BOLOGNESI;4;AQUIA
+Peru;PER;2;ANCASH;;5;BOLOGNESI;5;CAJACAY
+Peru;PER;2;ANCASH;;5;BOLOGNESI;6;CANIS
+Peru;PER;2;ANCASH;;5;BOLOGNESI;7;COLQUIOC
+Peru;PER;2;ANCASH;;5;BOLOGNESI;8;HUALLANCA
+Peru;PER;2;ANCASH;;5;BOLOGNESI;9;HUASTA
+Peru;PER;2;ANCASH;;5;BOLOGNESI;10;HUAYLLACAYAN
+Peru;PER;2;ANCASH;;5;BOLOGNESI;11;LA PRIMAVERA
+Peru;PER;2;ANCASH;;5;BOLOGNESI;12;MANGAS
+Peru;PER;2;ANCASH;;5;BOLOGNESI;13;PACLLON
+Peru;PER;2;ANCASH;;5;BOLOGNESI;14;SAN MIGUEL DE CORPANQUI
+Peru;PER;2;ANCASH;;5;BOLOGNESI;15;TICLLOS
+Peru;PER;2;ANCASH;;6;CARHUAZ;1;CARHUAZ
+Peru;PER;2;ANCASH;;6;CARHUAZ;2;ACOPAMPA
+Peru;PER;2;ANCASH;;6;CARHUAZ;3;AMASHCA
+Peru;PER;2;ANCASH;;6;CARHUAZ;4;ANTA
+Peru;PER;2;ANCASH;;6;CARHUAZ;5;ATAQUERO
+Peru;PER;2;ANCASH;;6;CARHUAZ;6;MARCARA
+Peru;PER;2;ANCASH;;6;CARHUAZ;7;PARIAHUANCA
+Peru;PER;2;ANCASH;;6;CARHUAZ;8;SAN MIGUEL DE ACO
+Peru;PER;2;ANCASH;;6;CARHUAZ;9;SHILLA
+Peru;PER;2;ANCASH;;6;CARHUAZ;10;TINCO
+Peru;PER;2;ANCASH;;6;CARHUAZ;11;YUNGAR
+Peru;PER;2;ANCASH;;7;CARLOS FERMIN FITZCARRALD;1;SAN LUIS
+Peru;PER;2;ANCASH;;7;CARLOS FERMIN FITZCARRALD;2;SAN NICOLAS
+Peru;PER;2;ANCASH;;7;CARLOS FERMIN FITZCARRALD;3;YAUYA
+Peru;PER;2;ANCASH;;8;CASMA;1;CASMA
+Peru;PER;2;ANCASH;;8;CASMA;2;BUENA VISTA ALTA
+Peru;PER;2;ANCASH;;8;CASMA;3;COMANDANTE NOEL
+Peru;PER;2;ANCASH;;8;CASMA;4;YAUTAN
+Peru;PER;2;ANCASH;;9;CORONGO;1;CORONGO
+Peru;PER;2;ANCASH;;9;CORONGO;2;ACO
+Peru;PER;2;ANCASH;;9;CORONGO;3;BAMBAS
+Peru;PER;2;ANCASH;;9;CORONGO;4;CUSCA
+Peru;PER;2;ANCASH;;9;CORONGO;5;LA PAMPA
+Peru;PER;2;ANCASH;;9;CORONGO;6;YANAC
+Peru;PER;2;ANCASH;;9;CORONGO;7;YUPAN
+Peru;PER;2;ANCASH;;10;HUARI;1;HUARI
+Peru;PER;2;ANCASH;;10;HUARI;2;ANRA
+Peru;PER;2;ANCASH;;10;HUARI;3;CAJAY
+Peru;PER;2;ANCASH;;10;HUARI;4;CHAVIN DE HUANTAR
+Peru;PER;2;ANCASH;;10;HUARI;5;HUACACHI
+Peru;PER;2;ANCASH;;10;HUARI;6;HUACCHIS
+Peru;PER;2;ANCASH;;10;HUARI;7;HUACHIS
+Peru;PER;2;ANCASH;;10;HUARI;8;HUANTAR
+Peru;PER;2;ANCASH;;10;HUARI;9;MASIN
+Peru;PER;2;ANCASH;;10;HUARI;10;PAUCAS
+Peru;PER;2;ANCASH;;10;HUARI;11;PONTO
+Peru;PER;2;ANCASH;;10;HUARI;12;RAHUAPAMPA
+Peru;PER;2;ANCASH;;10;HUARI;13;RAPAYAN
+Peru;PER;2;ANCASH;;10;HUARI;14;SAN MARCOS
+Peru;PER;2;ANCASH;;10;HUARI;15;SAN PEDRO DE CHANA
+Peru;PER;2;ANCASH;;10;HUARI;16;UCO
+Peru;PER;2;ANCASH;;11;HUARMEY;1;HUARMEY
+Peru;PER;2;ANCASH;;11;HUARMEY;2;COCHAPETI
+Peru;PER;2;ANCASH;;11;HUARMEY;3;CULEBRAS
+Peru;PER;2;ANCASH;;11;HUARMEY;4;HUAYAN
+Peru;PER;2;ANCASH;;11;HUARMEY;5;MALVAS
+Peru;PER;2;ANCASH;;12;HUAYLAS;1;CARAZ
+Peru;PER;2;ANCASH;;12;HUAYLAS;2;HUALLANCA
+Peru;PER;2;ANCASH;;12;HUAYLAS;3;HUATA
+Peru;PER;2;ANCASH;;12;HUAYLAS;4;HUAYLAS
+Peru;PER;2;ANCASH;;12;HUAYLAS;5;MATO
+Peru;PER;2;ANCASH;;12;HUAYLAS;6;PAMPAROMAS
+Peru;PER;2;ANCASH;;12;HUAYLAS;7;PUEBLO LIBRE
+Peru;PER;2;ANCASH;;12;HUAYLAS;8;SANTA CRUZ
+Peru;PER;2;ANCASH;;12;HUAYLAS;9;SANTO TORIBIO
+Peru;PER;2;ANCASH;;12;HUAYLAS;10;YURACMARCA
+Peru;PER;2;ANCASH;;13;MARISCAL LUZURIAGA;1;PISCOBAMBA
+Peru;PER;2;ANCASH;;13;MARISCAL LUZURIAGA;2;CASCA
+Peru;PER;2;ANCASH;;13;MARISCAL LUZURIAGA;3;ELEAZAR GUZMAN BARRON
+Peru;PER;2;ANCASH;;13;MARISCAL LUZURIAGA;4;FIDEL OLIVAS ESCUDERO
+Peru;PER;2;ANCASH;;13;MARISCAL LUZURIAGA;5;LLAMA
+Peru;PER;2;ANCASH;;13;MARISCAL LUZURIAGA;6;LLUMPA
+Peru;PER;2;ANCASH;;13;MARISCAL LUZURIAGA;7;LUCMA
+Peru;PER;2;ANCASH;;13;MARISCAL LUZURIAGA;8;MUSGA
+Peru;PER;2;ANCASH;;14;OCROS;1;OCROS
+Peru;PER;2;ANCASH;;14;OCROS;2;ACAS
+Peru;PER;2;ANCASH;;14;OCROS;3;CAJAMARQUILLA
+Peru;PER;2;ANCASH;;14;OCROS;4;CARHUAPAMPA
+Peru;PER;2;ANCASH;;14;OCROS;5;COCHAS
+Peru;PER;2;ANCASH;;14;OCROS;6;CONGAS
+Peru;PER;2;ANCASH;;14;OCROS;7;LLIPA
+Peru;PER;2;ANCASH;;14;OCROS;8;SAN CRISTOBAL DE RAJAN
+Peru;PER;2;ANCASH;;14;OCROS;9;SAN PEDRO
+Peru;PER;2;ANCASH;;14;OCROS;10;SANTIAGO DE CHILCAS
+Peru;PER;2;ANCASH;;15;PALLASCA;1;CABANA
+Peru;PER;2;ANCASH;;15;PALLASCA;2;BOLOGNESI
+Peru;PER;2;ANCASH;;15;PALLASCA;3;CONCHUCOS
+Peru;PER;2;ANCASH;;15;PALLASCA;4;HUACASCHUQUE
+Peru;PER;2;ANCASH;;15;PALLASCA;5;HUANDOVAL
+Peru;PER;2;ANCASH;;15;PALLASCA;6;LACABAMBA
+Peru;PER;2;ANCASH;;15;PALLASCA;7;LLAPO
+Peru;PER;2;ANCASH;;15;PALLASCA;8;PALLASCA
+Peru;PER;2;ANCASH;;15;PALLASCA;9;PAMPAS
+Peru;PER;2;ANCASH;;15;PALLASCA;10;SANTA ROSA
+Peru;PER;2;ANCASH;;15;PALLASCA;11;TAUCA
+Peru;PER;2;ANCASH;;16;POMABAMBA;1;POMABAMBA
+Peru;PER;2;ANCASH;;16;POMABAMBA;2;HUAYLLAN
+Peru;PER;2;ANCASH;;16;POMABAMBA;3;PAROBAMBA
+Peru;PER;2;ANCASH;;16;POMABAMBA;4;QUINUABAMBA
+Peru;PER;2;ANCASH;;17;RECUAY;1;RECUAY
+Peru;PER;2;ANCASH;;17;RECUAY;2;CATAC
+Peru;PER;2;ANCASH;;17;RECUAY;3;COTAPARACO
+Peru;PER;2;ANCASH;;17;RECUAY;4;HUAYLLAPAMPA
+Peru;PER;2;ANCASH;;17;RECUAY;5;LLACLLIN
+Peru;PER;2;ANCASH;;17;RECUAY;6;MARCA
+Peru;PER;2;ANCASH;;17;RECUAY;7;PAMPAS CHICO
+Peru;PER;2;ANCASH;;17;RECUAY;8;PARARIN
+Peru;PER;2;ANCASH;;17;RECUAY;9;TAPACOCHA
+Peru;PER;2;ANCASH;;17;RECUAY;10;TICAPAMPA
+Peru;PER;2;ANCASH;;18;SANTA;1;CHIMBOTE
+Peru;PER;2;ANCASH;;18;SANTA;2;CACERES DEL PERU
+Peru;PER;2;ANCASH;;18;SANTA;3;COISHCO
+Peru;PER;2;ANCASH;;18;SANTA;4;MACATE
+Peru;PER;2;ANCASH;;18;SANTA;5;MORO
+Peru;PER;2;ANCASH;;18;SANTA;6;NEPEÑA
+Peru;PER;2;ANCASH;;18;SANTA;7;SAMANCO
+Peru;PER;2;ANCASH;;18;SANTA;8;SANTA
+Peru;PER;2;ANCASH;;18;SANTA;9;NUEVO CHIMBOTE
+Peru;PER;2;ANCASH;;19;SIHUAS;1;SIHUAS
+Peru;PER;2;ANCASH;;19;SIHUAS;2;ACOBAMBA
+Peru;PER;2;ANCASH;;19;SIHUAS;3;ALFONSO UGARTE
+Peru;PER;2;ANCASH;;19;SIHUAS;4;CASHAPAMPA
+Peru;PER;2;ANCASH;;19;SIHUAS;5;CHINGALPO
+Peru;PER;2;ANCASH;;19;SIHUAS;6;HUAYLLABAMBA
+Peru;PER;2;ANCASH;;19;SIHUAS;7;QUICHES
+Peru;PER;2;ANCASH;;19;SIHUAS;8;RAGASH
+Peru;PER;2;ANCASH;;19;SIHUAS;9;SAN JUAN
+Peru;PER;2;ANCASH;;19;SIHUAS;10;SICSIBAMBA
+Peru;PER;2;ANCASH;;20;YUNGAY;1;YUNGAY
+Peru;PER;2;ANCASH;;20;YUNGAY;2;CASCAPARA
+Peru;PER;2;ANCASH;;20;YUNGAY;3;MANCOS
+Peru;PER;2;ANCASH;;20;YUNGAY;4;MATACOTO
+Peru;PER;2;ANCASH;;20;YUNGAY;5;QUILLO
+Peru;PER;2;ANCASH;;20;YUNGAY;6;RANRAHIRCA
+Peru;PER;2;ANCASH;;20;YUNGAY;7;SHUPLUY
+Peru;PER;2;ANCASH;;20;YUNGAY;8;YANAMA
+Peru;PER;3;APURIMAC;;1;ABANCAY;1;ABANCAY
+Peru;PER;3;APURIMAC;;1;ABANCAY;2;CHACOCHE
+Peru;PER;3;APURIMAC;;1;ABANCAY;3;CIRCA
+Peru;PER;3;APURIMAC;;1;ABANCAY;4;CURAHUASI
+Peru;PER;3;APURIMAC;;1;ABANCAY;5;HUANIPACA
+Peru;PER;3;APURIMAC;;1;ABANCAY;6;LAMBRAMA
+Peru;PER;3;APURIMAC;;1;ABANCAY;7;PICHIRHUA
+Peru;PER;3;APURIMAC;;1;ABANCAY;8;SAN PEDRO DE CACHORA
+Peru;PER;3;APURIMAC;;1;ABANCAY;9;TAMBURCO
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;1;ANDAHUAYLAS
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;2;ANDARAPA
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;3;CHIARA
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;4;HUANCARAMA
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;5;HUANCARAY
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;6;HUAYANA
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;7;KISHUARA
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;8;PACOBAMBA
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;9;PACUCHA
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;10;PAMPACHIRI
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;11;POMACOCHA
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;12;SAN ANTONIO DE CACHI
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;13;SAN JERONIMO
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;14;SAN MIGUEL DE CHACCRAMPA
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;15;SANTA MARIA DE CHICMO
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;16;TALAVERA
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;17;TUMAY HUARACA
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;18;TURPO
+Peru;PER;3;APURIMAC;;2;ANDAHUAYLAS;19;KAQUIABAMBA
+Peru;PER;3;APURIMAC;;3;ANTABAMBA;1;ANTABAMBA
+Peru;PER;3;APURIMAC;;3;ANTABAMBA;2;EL ORO
+Peru;PER;3;APURIMAC;;3;ANTABAMBA;3;HUAQUIRCA
+Peru;PER;3;APURIMAC;;3;ANTABAMBA;4;JUAN ESPINOZA MEDRANO
+Peru;PER;3;APURIMAC;;3;ANTABAMBA;5;OROPESA
+Peru;PER;3;APURIMAC;;3;ANTABAMBA;6;PACHACONAS
+Peru;PER;3;APURIMAC;;3;ANTABAMBA;7;SABAINO
+Peru;PER;3;APURIMAC;;4;AYMARAES;1;CHALHUANCA
+Peru;PER;3;APURIMAC;;4;AYMARAES;2;CAPAYA
+Peru;PER;3;APURIMAC;;4;AYMARAES;3;CARAYBAMBA
+Peru;PER;3;APURIMAC;;4;AYMARAES;4;CHAPIMARCA
+Peru;PER;3;APURIMAC;;4;AYMARAES;5;COLCABAMBA
+Peru;PER;3;APURIMAC;;4;AYMARAES;6;COTARUSE
+Peru;PER;3;APURIMAC;;4;AYMARAES;7;HUAYLLO
+Peru;PER;3;APURIMAC;;4;AYMARAES;8;JUSTO APU SAHUARAURA
+Peru;PER;3;APURIMAC;;4;AYMARAES;9;LUCRE
+Peru;PER;3;APURIMAC;;4;AYMARAES;10;POCOHUANCA
+Peru;PER;3;APURIMAC;;4;AYMARAES;11;SAN JUAN DE CHACÑA
+Peru;PER;3;APURIMAC;;4;AYMARAES;12;SAÑAYCA
+Peru;PER;3;APURIMAC;;4;AYMARAES;13;SORAYA
+Peru;PER;3;APURIMAC;;4;AYMARAES;14;TAPAIRIHUA
+Peru;PER;3;APURIMAC;;4;AYMARAES;15;TINTAY
+Peru;PER;3;APURIMAC;;4;AYMARAES;16;TORAYA
+Peru;PER;3;APURIMAC;;4;AYMARAES;17;YANACA
+Peru;PER;3;APURIMAC;;5;COTABAMBAS;1;TAMBOBAMBA
+Peru;PER;3;APURIMAC;;5;COTABAMBAS;2;COTABAMBAS
+Peru;PER;3;APURIMAC;;5;COTABAMBAS;3;COYLLURQUI
+Peru;PER;3;APURIMAC;;5;COTABAMBAS;4;HAQUIRA
+Peru;PER;3;APURIMAC;;5;COTABAMBAS;5;MARA
+Peru;PER;3;APURIMAC;;5;COTABAMBAS;6;CHALLHUAHUACHO
+Peru;PER;3;APURIMAC;;6;CHINCHEROS;1;CHINCHEROS
+Peru;PER;3;APURIMAC;;6;CHINCHEROS;2;ANCO_HUALLO
+Peru;PER;3;APURIMAC;;6;CHINCHEROS;3;COCHARCAS
+Peru;PER;3;APURIMAC;;6;CHINCHEROS;4;HUACCANA
+Peru;PER;3;APURIMAC;;6;CHINCHEROS;5;OCOBAMBA
+Peru;PER;3;APURIMAC;;6;CHINCHEROS;6;ONGOY
+Peru;PER;3;APURIMAC;;6;CHINCHEROS;7;URANMARCA
+Peru;PER;3;APURIMAC;;6;CHINCHEROS;8;RANRACANCHA
+Peru;PER;3;APURIMAC;;7;GRAU;1;CHUQUIBAMBILLA
+Peru;PER;3;APURIMAC;;7;GRAU;2;CURPAHUASI
+Peru;PER;3;APURIMAC;;7;GRAU;3;GAMARRA
+Peru;PER;3;APURIMAC;;7;GRAU;4;HUAYLLATI
+Peru;PER;3;APURIMAC;;7;GRAU;5;MAMARA
+Peru;PER;3;APURIMAC;;7;GRAU;6;MICAELA BASTIDAS
+Peru;PER;3;APURIMAC;;7;GRAU;7;PATAYPAMPA
+Peru;PER;3;APURIMAC;;7;GRAU;8;PROGRESO
+Peru;PER;3;APURIMAC;;7;GRAU;9;SAN ANTONIO
+Peru;PER;3;APURIMAC;;7;GRAU;10;SANTA ROSA
+Peru;PER;3;APURIMAC;;7;GRAU;11;TURPAY
+Peru;PER;3;APURIMAC;;7;GRAU;12;VILCABAMBA
+Peru;PER;3;APURIMAC;;7;GRAU;13;VIRUNDO
+Peru;PER;3;APURIMAC;;7;GRAU;14;CURASCO
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;1;AREQUIPA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;2;ALTO SELVA ALEGRE
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;3;CAYMA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;4;CERRO COLORADO
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;5;CHARACATO
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;6;CHIGUATA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;7;JACOBO HUNTER
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;8;LA JOYA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;9;MARIANO MELGAR
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;10;MIRAFLORES
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;11;MOLLEBAYA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;12;PAUCARPATA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;13;POCSI
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;14;POLOBAYA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;15;QUEQUEÑA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;16;SABANDIA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;17;SACHACA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;18;SAN JUAN DE SIGUAS
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;19;SAN JUAN DE TARUCANI
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;20;SANTA ISABEL DE SIGUAS
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;21;SANTA RITA DE SIGUAS
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;22;SOCABAYA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;23;TIABAYA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;24;UCHUMAYO
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;25;VITOR
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;26;YANAHUARA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;27;YARABAMBA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;28;YURA
+Peru;PER;4;AREQUIPA;;1;AREQUIPA;29;JOSE LUIS BUSTAMANTE Y RIVERO
+Peru;PER;4;AREQUIPA;;2;CAMANA;1;CAMANA
+Peru;PER;4;AREQUIPA;;2;CAMANA;2;JOSE MARIA QUIMPER
+Peru;PER;4;AREQUIPA;;2;CAMANA;3;MARIANO NICOLAS VALCARCEL
+Peru;PER;4;AREQUIPA;;2;CAMANA;4;MARISCAL CACERES
+Peru;PER;4;AREQUIPA;;2;CAMANA;5;NICOLAS DE PIEROLA
+Peru;PER;4;AREQUIPA;;2;CAMANA;6;OCOÑA
+Peru;PER;4;AREQUIPA;;2;CAMANA;7;QUILCA
+Peru;PER;4;AREQUIPA;;2;CAMANA;8;SAMUEL PASTOR
+Peru;PER;4;AREQUIPA;;3;CARAVELI;1;CARAVELI
+Peru;PER;4;AREQUIPA;;3;CARAVELI;2;ACARI
+Peru;PER;4;AREQUIPA;;3;CARAVELI;3;ATICO
+Peru;PER;4;AREQUIPA;;3;CARAVELI;4;ATIQUIPA
+Peru;PER;4;AREQUIPA;;3;CARAVELI;5;BELLA UNION
+Peru;PER;4;AREQUIPA;;3;CARAVELI;6;CAHUACHO
+Peru;PER;4;AREQUIPA;;3;CARAVELI;7;CHALA
+Peru;PER;4;AREQUIPA;;3;CARAVELI;8;CHAPARRA
+Peru;PER;4;AREQUIPA;;3;CARAVELI;9;HUANUHUANU
+Peru;PER;4;AREQUIPA;;3;CARAVELI;10;JAQUI
+Peru;PER;4;AREQUIPA;;3;CARAVELI;11;LOMAS
+Peru;PER;4;AREQUIPA;;3;CARAVELI;12;QUICACHA
+Peru;PER;4;AREQUIPA;;3;CARAVELI;13;YAUCA
+Peru;PER;4;AREQUIPA;;4;CASTILLA;1;APLAO
+Peru;PER;4;AREQUIPA;;4;CASTILLA;2;ANDAGUA
+Peru;PER;4;AREQUIPA;;4;CASTILLA;3;AYO
+Peru;PER;4;AREQUIPA;;4;CASTILLA;4;CHACHAS
+Peru;PER;4;AREQUIPA;;4;CASTILLA;5;CHILCAYMARCA
+Peru;PER;4;AREQUIPA;;4;CASTILLA;6;CHOCO
+Peru;PER;4;AREQUIPA;;4;CASTILLA;7;HUANCARQUI
+Peru;PER;4;AREQUIPA;;4;CASTILLA;8;MACHAGUAY
+Peru;PER;4;AREQUIPA;;4;CASTILLA;9;ORCOPAMPA
+Peru;PER;4;AREQUIPA;;4;CASTILLA;10;PAMPACOLCA
+Peru;PER;4;AREQUIPA;;4;CASTILLA;11;TIPAN
+Peru;PER;4;AREQUIPA;;4;CASTILLA;12;UÑON
+Peru;PER;4;AREQUIPA;;4;CASTILLA;13;URACA
+Peru;PER;4;AREQUIPA;;4;CASTILLA;14;VIRACO
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;1;CHIVAY
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;2;ACHOMA
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;3;CABANACONDE
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;4;CALLALLI
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;5;CAYLLOMA
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;6;COPORAQUE
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;7;HUAMBO
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;8;HUANCA
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;9;ICHUPAMPA
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;10;LARI
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;11;LLUTA
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;12;MACA
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;13;MADRIGAL
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;14;SAN ANTONIO DE CHUCA
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;15;SIBAYO
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;16;TAPAY
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;17;TISCO
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;18;TUTI
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;19;YANQUE
+Peru;PER;4;AREQUIPA;;5;CAYLLOMA;20;MAJES
+Peru;PER;4;AREQUIPA;;6;CONDESUYOS;1;CHUQUIBAMBA
+Peru;PER;4;AREQUIPA;;6;CONDESUYOS;2;ANDARAY
+Peru;PER;4;AREQUIPA;;6;CONDESUYOS;3;CAYARANI
+Peru;PER;4;AREQUIPA;;6;CONDESUYOS;4;CHICHAS
+Peru;PER;4;AREQUIPA;;6;CONDESUYOS;5;IRAY
+Peru;PER;4;AREQUIPA;;6;CONDESUYOS;6;RIO GRANDE
+Peru;PER;4;AREQUIPA;;6;CONDESUYOS;7;SALAMANCA
+Peru;PER;4;AREQUIPA;;6;CONDESUYOS;8;YANAQUIHUA
+Peru;PER;4;AREQUIPA;;7;ISLAY;1;MOLLENDO
+Peru;PER;4;AREQUIPA;;7;ISLAY;2;COCACHACRA
+Peru;PER;4;AREQUIPA;;7;ISLAY;3;DEAN VALDIVIA
+Peru;PER;4;AREQUIPA;;7;ISLAY;4;ISLAY
+Peru;PER;4;AREQUIPA;;7;ISLAY;5;MEJIA
+Peru;PER;4;AREQUIPA;;7;ISLAY;6;PUNTA DE BOMBON
+Peru;PER;4;AREQUIPA;;8;LA UNION;1;COTAHUASI
+Peru;PER;4;AREQUIPA;;8;LA UNION;2;ALCA
+Peru;PER;4;AREQUIPA;;8;LA UNION;3;CHARCANA
+Peru;PER;4;AREQUIPA;;8;LA UNION;4;HUAYNACOTAS
+Peru;PER;4;AREQUIPA;;8;LA UNION;5;PAMPAMARCA
+Peru;PER;4;AREQUIPA;;8;LA UNION;6;PUYCA
+Peru;PER;4;AREQUIPA;;8;LA UNION;7;QUECHUALLA
+Peru;PER;4;AREQUIPA;;8;LA UNION;8;SAYLA
+Peru;PER;4;AREQUIPA;;8;LA UNION;9;TAURIA
+Peru;PER;4;AREQUIPA;;8;LA UNION;10;TOMEPAMPA
+Peru;PER;4;AREQUIPA;;8;LA UNION;11;TORO
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;1;AYACUCHO
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;2;ACOCRO
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;3;ACOS VINCHOS
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;4;CARMEN ALTO
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;5;CHIARA
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;6;OCROS
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;7;PACAYCASA
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;8;QUINUA
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;9;SAN JOSE DE TICLLAS
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;10;SAN JUAN BAUTISTA
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;11;SANTIAGO DE PISCHA
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;12;SOCOS
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;13;TAMBILLO
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;14;VINCHOS
+Peru;PER;5;AYACUCHO;;1;HUAMANGA;15;JESUS NAZARENO
+Peru;PER;5;AYACUCHO;;2;CANGALLO;1;CANGALLO
+Peru;PER;5;AYACUCHO;;2;CANGALLO;2;CHUSCHI
+Peru;PER;5;AYACUCHO;;2;CANGALLO;3;LOS MOROCHUCOS
+Peru;PER;5;AYACUCHO;;2;CANGALLO;4;MARIA PARADO DE BELLIDO
+Peru;PER;5;AYACUCHO;;2;CANGALLO;5;PARAS
+Peru;PER;5;AYACUCHO;;2;CANGALLO;6;TOTOS
+Peru;PER;5;AYACUCHO;;3;HUANCA SANCOS;1;SANCOS
+Peru;PER;5;AYACUCHO;;3;HUANCA SANCOS;2;CARAPO
+Peru;PER;5;AYACUCHO;;3;HUANCA SANCOS;3;SACSAMARCA
+Peru;PER;5;AYACUCHO;;3;HUANCA SANCOS;4;SANTIAGO DE LUCANAMARCA
+Peru;PER;5;AYACUCHO;;4;HUANTA;1;HUANTA
+Peru;PER;5;AYACUCHO;;4;HUANTA;2;AYAHUANCO
+Peru;PER;5;AYACUCHO;;4;HUANTA;3;HUAMANGUILLA
+Peru;PER;5;AYACUCHO;;4;HUANTA;4;IGUAIN
+Peru;PER;5;AYACUCHO;;4;HUANTA;5;LURICOCHA
+Peru;PER;5;AYACUCHO;;4;HUANTA;6;SANTILLANA
+Peru;PER;5;AYACUCHO;;4;HUANTA;7;SIVIA
+Peru;PER;5;AYACUCHO;;4;HUANTA;8;LLOCHEGUA
+Peru;PER;5;AYACUCHO;;5;LA MAR;1;SAN MIGUEL
+Peru;PER;5;AYACUCHO;;5;LA MAR;2;ANCO
+Peru;PER;5;AYACUCHO;;5;LA MAR;3;AYNA
+Peru;PER;5;AYACUCHO;;5;LA MAR;4;CHILCAS
+Peru;PER;5;AYACUCHO;;5;LA MAR;5;CHUNGUI
+Peru;PER;5;AYACUCHO;;5;LA MAR;6;LUIS CARRANZA
+Peru;PER;5;AYACUCHO;;5;LA MAR;7;SANTA ROSA
+Peru;PER;5;AYACUCHO;;5;LA MAR;8;TAMBO
+Peru;PER;5;AYACUCHO;;6;LUCANAS;1;PUQUIO
+Peru;PER;5;AYACUCHO;;6;LUCANAS;2;AUCARA
+Peru;PER;5;AYACUCHO;;6;LUCANAS;3;CABANA
+Peru;PER;5;AYACUCHO;;6;LUCANAS;4;CARMEN SALCEDO
+Peru;PER;5;AYACUCHO;;6;LUCANAS;5;CHAVIÑA
+Peru;PER;5;AYACUCHO;;6;LUCANAS;6;CHIPAO
+Peru;PER;5;AYACUCHO;;6;LUCANAS;7;HUAC-HUAS
+Peru;PER;5;AYACUCHO;;6;LUCANAS;8;LARAMATE
+Peru;PER;5;AYACUCHO;;6;LUCANAS;9;LEONCIO PRADO
+Peru;PER;5;AYACUCHO;;6;LUCANAS;10;LLAUTA
+Peru;PER;5;AYACUCHO;;6;LUCANAS;11;LUCANAS
+Peru;PER;5;AYACUCHO;;6;LUCANAS;12;OCAÑA
+Peru;PER;5;AYACUCHO;;6;LUCANAS;13;OTOCA
+Peru;PER;5;AYACUCHO;;6;LUCANAS;14;SAISA
+Peru;PER;5;AYACUCHO;;6;LUCANAS;15;SAN CRISTOBAL
+Peru;PER;5;AYACUCHO;;6;LUCANAS;16;SAN JUAN
+Peru;PER;5;AYACUCHO;;6;LUCANAS;17;SAN PEDRO
+Peru;PER;5;AYACUCHO;;6;LUCANAS;18;SAN PEDRO DE PALCO
+Peru;PER;5;AYACUCHO;;6;LUCANAS;19;SANCOS
+Peru;PER;5;AYACUCHO;;6;LUCANAS;20;SANTA ANA DE HUAYCAHUACHO
+Peru;PER;5;AYACUCHO;;6;LUCANAS;21;SANTA LUCIA
+Peru;PER;5;AYACUCHO;;7;PARINACOCHAS;1;CORACORA
+Peru;PER;5;AYACUCHO;;7;PARINACOCHAS;2;CHUMPI
+Peru;PER;5;AYACUCHO;;7;PARINACOCHAS;3;CORONEL CASTAÑEDA
+Peru;PER;5;AYACUCHO;;7;PARINACOCHAS;4;PACAPAUSA
+Peru;PER;5;AYACUCHO;;7;PARINACOCHAS;5;PULLO
+Peru;PER;5;AYACUCHO;;7;PARINACOCHAS;6;PUYUSCA
+Peru;PER;5;AYACUCHO;;7;PARINACOCHAS;7;SAN FRANCISCO DE RAVACAYCO
+Peru;PER;5;AYACUCHO;;7;PARINACOCHAS;8;UPAHUACHO
+Peru;PER;5;AYACUCHO;;8;PAUCAR DEL SARA SARA;1;PAUSA
+Peru;PER;5;AYACUCHO;;8;PAUCAR DEL SARA SARA;2;COLTA
+Peru;PER;5;AYACUCHO;;8;PAUCAR DEL SARA SARA;3;CORCULLA
+Peru;PER;5;AYACUCHO;;8;PAUCAR DEL SARA SARA;4;LAMPA
+Peru;PER;5;AYACUCHO;;8;PAUCAR DEL SARA SARA;5;MARCABAMBA
+Peru;PER;5;AYACUCHO;;8;PAUCAR DEL SARA SARA;6;OYOLO
+Peru;PER;5;AYACUCHO;;8;PAUCAR DEL SARA SARA;7;PARARCA
+Peru;PER;5;AYACUCHO;;8;PAUCAR DEL SARA SARA;8;SAN JAVIER DE ALPABAMBA
+Peru;PER;5;AYACUCHO;;8;PAUCAR DEL SARA SARA;9;SAN JOSE DE USHUA
+Peru;PER;5;AYACUCHO;;8;PAUCAR DEL SARA SARA;10;SARA SARA
+Peru;PER;5;AYACUCHO;;9;SUCRE;1;QUEROBAMBA
+Peru;PER;5;AYACUCHO;;9;SUCRE;2;BELEN
+Peru;PER;5;AYACUCHO;;9;SUCRE;3;CHALCOS
+Peru;PER;5;AYACUCHO;;9;SUCRE;4;CHILCAYOC
+Peru;PER;5;AYACUCHO;;9;SUCRE;5;HUACAÑA
+Peru;PER;5;AYACUCHO;;9;SUCRE;6;MORCOLLA
+Peru;PER;5;AYACUCHO;;9;SUCRE;7;PAICO
+Peru;PER;5;AYACUCHO;;9;SUCRE;8;SAN PEDRO DE LARCAY
+Peru;PER;5;AYACUCHO;;9;SUCRE;9;SAN SALVADOR DE QUIJE
+Peru;PER;5;AYACUCHO;;9;SUCRE;10;SANTIAGO DE PAUCARAY
+Peru;PER;5;AYACUCHO;;9;SUCRE;11;SORAS
+Peru;PER;5;AYACUCHO;;10;VICTOR FAJARDO;1;HUANCAPI
+Peru;PER;5;AYACUCHO;;10;VICTOR FAJARDO;2;ALCAMENCA
+Peru;PER;5;AYACUCHO;;10;VICTOR FAJARDO;3;APONGO
+Peru;PER;5;AYACUCHO;;10;VICTOR FAJARDO;4;ASQUIPATA
+Peru;PER;5;AYACUCHO;;10;VICTOR FAFARDO;5;CANARIA
+Peru;PER;5;AYACUCHO;;10;VICTOR FAJARDO;6;CAYARA
+Peru;PER;5;AYACUCHO;;10;VICTOR FAJARDO;7;COLCA
+Peru;PER;5;AYACUCHO;;10;VICTOR FAJARDO;8;HUAMANQUIQUIA
+Peru;PER;5;AYACUCHO;;10;VICTOR FAJARDO;9;HUANCARAYLLA
+Peru;PER;5;AYACUCHO;;10;VICTOR FAJARDO;10;HUAYA
+Peru;PER;5;AYACUCHO;;10;VICTOR FAJARDO;11;SARHUA
+Peru;PER;5;AYACUCHO;;10;VICTOR FAJARDO;12;VILCANCHOS
+Peru;PER;5;AYACUCHO;;11;VILCAS HUAMAN;1;VILCAS HUAMAN
+Peru;PER;5;AYACUCHO;;11;VILCAS HUAMAN;2;ACCOMARCA
+Peru;PER;5;AYACUCHO;;11;VILCAS HUAMAN;3;CARHUANCA
+Peru;PER;5;AYACUCHO;;11;VILCAS HUAMAN;4;CONCEPCION
+Peru;PER;5;AYACUCHO;;11;VILCAS HUAMAN;5;HUAMBALPA
+Peru;PER;5;AYACUCHO;;11;VILCAS HUAMAN;6;INDEPENDENCIA
+Peru;PER;5;AYACUCHO;;11;VILCAS HUAMAN;7;SAURAMA
+Peru;PER;5;AYACUCHO;;11;VILCAS HUAMAN;8;VISCHONGO
+Peru;PER;6;CAJAMARCA;;1;CAJAMARCA;1;CAJAMARCA
+Peru;PER;6;CAJAMARCA;;1;CAJAMARCA;2;ASUNCION
+Peru;PER;6;CAJAMARCA;;1;CAJAMARCA;3;CHETILLA
+Peru;PER;6;CAJAMARCA;;1;CAJAMARCA;4;COSPAN
+Peru;PER;6;CAJAMARCA;;1;CAJAMARCA;5;ENCAÑADA
+Peru;PER;6;CAJAMARCA;;1;CAJAMARCA;6;JESUS
+Peru;PER;6;CAJAMARCA;;1;CAJAMARCA;7;LLACANORA
+Peru;PER;6;CAJAMARCA;;1;CAJAMARCA;8;LOS BAÑOS DEL INCA
+Peru;PER;6;CAJAMARCA;;1;CAJAMARCA;9;MAGDALENA
+Peru;PER;6;CAJAMARCA;;1;CAJAMARCA;10;MATARA
+Peru;PER;6;CAJAMARCA;;1;CAJAMARCA;11;NAMORA
+Peru;PER;6;CAJAMARCA;;1;CAJAMARCA;12;SAN JUAN
+Peru;PER;6;CAJAMARCA;;2;CAJABAMBA;1;CAJABAMBA
+Peru;PER;6;CAJAMARCA;;2;CAJABAMBA;2;CACHACHI
+Peru;PER;6;CAJAMARCA;;2;CAJABAMBA;3;CONDEBAMBA
+Peru;PER;6;CAJAMARCA;;2;CAJABAMBA;4;SITACOCHA
+Peru;PER;6;CAJAMARCA;;3;CELENDIN;1;CELENDIN
+Peru;PER;6;CAJAMARCA;;3;CELENDIN;2;CHUMUCH
+Peru;PER;6;CAJAMARCA;;3;CELENDIN;3;CORTEGANA
+Peru;PER;6;CAJAMARCA;;3;CELENDIN;4;HUASMIN
+Peru;PER;6;CAJAMARCA;;3;CELENDIN;5;JORGE CHAVEZ
+Peru;PER;6;CAJAMARCA;;3;CELENDIN;6;JOSE GALVEZ
+Peru;PER;6;CAJAMARCA;;3;CELENDIN;7;MIGUEL IGLESIAS
+Peru;PER;6;CAJAMARCA;;3;CELENDIN;8;OXAMARCA
+Peru;PER;6;CAJAMARCA;;3;CELENDIN;9;SOROCHUCO
+Peru;PER;6;CAJAMARCA;;3;CELENDIN;10;SUCRE
+Peru;PER;6;CAJAMARCA;;3;CELENDIN;11;UTCO
+Peru;PER;6;CAJAMARCA;;3;CELENDIN;12;LA LIBERTAD DE PALLAN
+Peru;PER;6;CAJAMARCA;;4;CHOTA;1;CHOTA
+Peru;PER;6;CAJAMARCA;;4;CHOTA;2;ANGUIA
+Peru;PER;6;CAJAMARCA;;4;CHOTA;3;CHADIN
+Peru;PER;6;CAJAMARCA;;4;CHOTA;4;CHIGUIRIP
+Peru;PER;6;CAJAMARCA;;4;CHOTA;5;CHIMBAN
+Peru;PER;6;CAJAMARCA;;4;CHOTA;6;CHOROPAMPA
+Peru;PER;6;CAJAMARCA;;4;CHOTA;7;COCHABAMBA
+Peru;PER;6;CAJAMARCA;;4;CHOTA;8;CONCHAN
+Peru;PER;6;CAJAMARCA;;4;CHOTA;9;HUAMBOS
+Peru;PER;6;CAJAMARCA;;4;CHOTA;10;LAJAS
+Peru;PER;6;CAJAMARCA;;4;CHOTA;11;LLAMA
+Peru;PER;6;CAJAMARCA;;4;CHOTA;12;MIRACOSTA
+Peru;PER;6;CAJAMARCA;;4;CHOTA;13;PACCHA
+Peru;PER;6;CAJAMARCA;;4;CHOTA;14;PION
+Peru;PER;6;CAJAMARCA;;4;CHOTA;15;QUEROCOTO
+Peru;PER;6;CAJAMARCA;;4;CHOTA;16;SAN JUAN DE LICUPIS
+Peru;PER;6;CAJAMARCA;;4;CHOTA;17;TACABAMBA
+Peru;PER;6;CAJAMARCA;;4;CHOTA;18;TOCMOCHE
+Peru;PER;6;CAJAMARCA;;4;CHOTA;19;CHALAMARCA
+Peru;PER;6;CAJAMARCA;;5;CONTUMAZA;1;CONTUMAZA
+Peru;PER;6;CAJAMARCA;;5;CONTUMAZA;2;CHILETE
+Peru;PER;6;CAJAMARCA;;5;CONTUMAZA;3;CUPISNIQUE
+Peru;PER;6;CAJAMARCA;;5;CONTUMAZA;4;GUZMANGO
+Peru;PER;6;CAJAMARCA;;5;CONTUMAZA;5;SAN BENITO
+Peru;PER;6;CAJAMARCA;;5;CONTUMAZA;6;SANTA CRUZ DE TOLED
+Peru;PER;6;CAJAMARCA;;5;CONTUMAZA;7;TANTARICA
+Peru;PER;6;CAJAMARCA;;5;CONTUMAZA;8;YONAN
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;1;CUTERVO
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;2;CALLAYUC
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;3;CHOROS
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;4;CUJILLO
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;5;LA RAMADA
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;6;PIMPINGOS
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;7;QUEROCOTILLO
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;8;SAN ANDRES DE CUTERVO
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;9;SAN JUAN DE CUTERVO
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;10;SAN LUIS DE LUCMA
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;11;SANTA CRUZ
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;12;SANTO DOMINGO DE LA CAPILLA
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;13;SANTO TOMAS
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;14;SOCOTA
+Peru;PER;6;CAJAMARCA;;6;CUTERVO;15;TORIBIO CASANOVA
+Peru;PER;6;CAJAMARCA;;7;HUALGAYOC;1;BAMBAMARCA
+Peru;PER;6;CAJAMARCA;;7;HUALGAYOC;2;CHUGUR
+Peru;PER;6;CAJAMARCA;;7;HUALGAYOC;3;HUALGAYOC
+Peru;PER;6;CAJAMARCA;;8;JAEN;1;JAEN
+Peru;PER;6;CAJAMARCA;;8;JAEN;2;BELLAVISTA
+Peru;PER;6;CAJAMARCA;;8;JAEN;3;CHONTALI
+Peru;PER;6;CAJAMARCA;;8;JAEN;4;COLASAY
+Peru;PER;6;CAJAMARCA;;8;JAEN;5;HUABAL
+Peru;PER;6;CAJAMARCA;;8;JAEN;6;LAS PIRIAS
+Peru;PER;6;CAJAMARCA;;8;JAEN;7;POMAHUACA
+Peru;PER;6;CAJAMARCA;;8;JAEN;8;PUCARA
+Peru;PER;6;CAJAMARCA;;8;JAEN;9;SALLIQUE
+Peru;PER;6;CAJAMARCA;;8;JAEN;10;SAN FELIPE
+Peru;PER;6;CAJAMARCA;;8;JAEN;11;SAN JOSE DEL ALTO
+Peru;PER;6;CAJAMARCA;;8;JAEN;12;SANTA ROSA
+Peru;PER;6;CAJAMARCA;;9;SAN IGNACIO;1;SAN IGNACIO
+Peru;PER;6;CAJAMARCA;;9;SAN IGNACIO;2;CHIRINOS
+Peru;PER;6;CAJAMARCA;;9;SAN IGNACIO;3;HUARANGO
+Peru;PER;6;CAJAMARCA;;9;SAN IGNACIO;4;LA COIPA
+Peru;PER;6;CAJAMARCA;;9;SAN IGNACIO;5;NAMBALLE
+Peru;PER;6;CAJAMARCA;;9;SAN IGNACIO;6;SAN JOSE DE LOURDES
+Peru;PER;6;CAJAMARCA;;9;SAN IGNACIO;7;TABACONAS
+Peru;PER;6;CAJAMARCA;;10;SAN MARCOS;1;PEDRO GALVEZ
+Peru;PER;6;CAJAMARCA;;10;SAN MARCOS;2;CHANCAY
+Peru;PER;6;CAJAMARCA;;10;SAN MARCOS;3;EDUARDO VILLANUEVA
+Peru;PER;6;CAJAMARCA;;10;SAN MARCOS;4;GREGORIO PITA
+Peru;PER;6;CAJAMARCA;;10;SAN MARCOS;5;ICHOCAN
+Peru;PER;6;CAJAMARCA;;10;SAN MARCOS;6;JOSE MANUEL QUIROZ
+Peru;PER;6;CAJAMARCA;;10;SAN MARCOS;7;JOSE SABOGAL
+Peru;PER;6;CAJAMARCA;;11;SAN MIGUEL;1;SAN MIGUEL
+Peru;PER;6;CAJAMARCA;;11;SAN MIGUEL;2;BOLIVAR
+Peru;PER;6;CAJAMARCA;;11;SAN MIGUEL;3;CALQUIS
+Peru;PER;6;CAJAMARCA;;11;SAN MIGUEL;4;CATILLUC
+Peru;PER;6;CAJAMARCA;;11;SAN MIGUEL;5;EL PRADO
+Peru;PER;6;CAJAMARCA;;11;SAN MIGUEL;6;LA FLORIDA
+Peru;PER;6;CAJAMARCA;;11;SAN MIGUEL;7;LLAPA
+Peru;PER;6;CAJAMARCA;;11;SAN MIGUEL;8;NANCHOC
+Peru;PER;6;CAJAMARCA;;11;SAN MIGUEL;9;NIEPOS
+Peru;PER;6;CAJAMARCA;;11;SAN MIGUEL;10;SAN GREGORIO
+Peru;PER;6;CAJAMARCA;;11;SAN MIGUEL;11;SAN SILVESTRE DE COCHAN
+Peru;PER;6;CAJAMARCA;;11;SAN MIGUEL;12;TONGOD
+Peru;PER;6;CAJAMARCA;;11;SAN MIGUEL;13;UNION AGUA BLANCA
+Peru;PER;6;CAJAMARCA;;12;SAN PABLO;1;SAN PABLO
+Peru;PER;6;CAJAMARCA;;12;SAN PABLO;2;SAN BERNARDINO
+Peru;PER;6;CAJAMARCA;;12;SAN PABLO;3;SAN LUIS
+Peru;PER;6;CAJAMARCA;;12;SAN PABLO;4;TUMBADEN
+Peru;PER;6;CAJAMARCA;;13;SANTA CRUZ;1;SANTA CRUZ
+Peru;PER;6;CAJAMARCA;;13;SANTA CRUZ;2;ANDABAMBA
+Peru;PER;6;CAJAMARCA;;13;SANTA CRUZ;3;CATACHE
+Peru;PER;6;CAJAMARCA;;13;SANTA CRUZ;4;CHANCAYBAÑOS
+Peru;PER;6;CAJAMARCA;;13;SANTA CRUZ;5;LA ESPERANZA
+Peru;PER;6;CAJAMARCA;;13;SANTA CRUZ;6;NINABAMBA
+Peru;PER;6;CAJAMARCA;;13;SANTA CRUZ;7;PULAN
+Peru;PER;6;CAJAMARCA;;13;SANTA CRUZ;8;SAUCEPAMPA
+Peru;PER;6;CAJAMARCA;;13;SANTA CRUZ;9;SEXI
+Peru;PER;6;CAJAMARCA;;13;SANTA CRUZ;10;UTICYACU
+Peru;PER;6;CAJAMARCA;;13;SANTA CRUZ;11;YAUYUCAN
+Peru;PER;7;CALLAO;;1;CALLAO;1;CALLAO
+Peru;PER;7;CALLAO;;1;CALLAO;2;BELLAVISTA
+Peru;PER;7;CALLAO;;1;CALLAO;3;CARMEN DE LA LEGUA REYNOSO
+Peru;PER;7;CALLAO;;1;CALLAO;4;LA PERLA
+Peru;PER;7;CALLAO;;1;CALLAO;5;LA PUNTA
+Peru;PER;7;CALLAO;;1;CALLAO;6;VENTANILLA
+Peru;PER;8;CUSCO;;1;CUSCO;1;CUSCO
+Peru;PER;8;CUSCO;;1;CUSCO;2;CCORCA
+Peru;PER;8;CUSCO;;1;CUSCO;3;POROY
+Peru;PER;8;CUSCO;;1;CUSCO;4;SAN JERONIMO
+Peru;PER;8;CUSCO;;1;CUSCO;5;SAN SEBASTIAN
+Peru;PER;8;CUSCO;;1;CUSCO;6;SANTIAGO
+Peru;PER;8;CUSCO;;1;CUSCO;7;SAYLLA
+Peru;PER;8;CUSCO;;1;CUSCO;8;WANCHAQ
+Peru;PER;8;CUSCO;;2;ACOMAYO;1;ACOMAYO
+Peru;PER;8;CUSCO;;2;ACOMAYO;2;ACOPIA
+Peru;PER;8;CUSCO;;2;ACOMAYO;3;ACOS
+Peru;PER;8;CUSCO;;2;ACOMAYO;4;MOSOC LLACTA
+Peru;PER;8;CUSCO;;2;ACOMAYO;5;POMACANCHI
+Peru;PER;8;CUSCO;;2;ACOMAYO;6;RONDOCAN
+Peru;PER;8;CUSCO;;2;ACOMAYO;7;SANGARARA
+Peru;PER;8;CUSCO;;3;ANTA;1;ANTA
+Peru;PER;8;CUSCO;;3;ANTA;2;ANCAHUASI
+Peru;PER;8;CUSCO;;3;ANTA;3;CACHIMAYO
+Peru;PER;8;CUSCO;;3;ANTA;4;CHINCHAYPUJIO
+Peru;PER;8;CUSCO;;3;ANTA;5;HUAROCONDO
+Peru;PER;8;CUSCO;;3;ANTA;6;LIMATAMBO
+Peru;PER;8;CUSCO;;3;ANTA;7;MOLLEPATA
+Peru;PER;8;CUSCO;;3;ANTA;8;PUCYURA
+Peru;PER;8;CUSCO;;3;ANTA;9;ZURITE
+Peru;PER;8;CUSCO;;4;CALCA;1;CALCA
+Peru;PER;8;CUSCO;;4;CALCA;2;COYA
+Peru;PER;8;CUSCO;;4;CALCA;3;LAMAY
+Peru;PER;8;CUSCO;;4;CALCA;4;LARES
+Peru;PER;8;CUSCO;;4;CALCA;5;PISAC
+Peru;PER;8;CUSCO;;4;CALCA;6;SAN SALVADOR
+Peru;PER;8;CUSCO;;4;CALCA;7;TARAY
+Peru;PER;8;CUSCO;;4;CALCA;8;YANATILE
+Peru;PER;8;CUSCO;;5;CANAS;1;YANAOCA
+Peru;PER;8;CUSCO;;5;CANAS;2;CHECCA
+Peru;PER;8;CUSCO;;5;CANAS;3;KUNTURKANKI
+Peru;PER;8;CUSCO;;5;CANAS;4;LANGUI
+Peru;PER;8;CUSCO;;5;CANAS;5;LAYO
+Peru;PER;8;CUSCO;;5;CANAS;6;PAMPAMARCA
+Peru;PER;8;CUSCO;;5;CANAS;7;QUEHUE
+Peru;PER;8;CUSCO;;5;CANAS;8;TUPAC AMARU
+Peru;PER;8;CUSCO;;6;CANCHIS;1;SICUANI
+Peru;PER;8;CUSCO;;6;CANCHIS;2;CHECACUPE
+Peru;PER;8;CUSCO;;6;CANCHIS;3;COMBAPATA
+Peru;PER;8;CUSCO;;6;CANCHIS;4;MARANGANI
+Peru;PER;8;CUSCO;;6;CANCHIS;5;PITUMARCA
+Peru;PER;8;CUSCO;;6;CANCHIS;6;SAN PABLO
+Peru;PER;8;CUSCO;;6;CANCHIS;7;SAN PEDRO
+Peru;PER;8;CUSCO;;6;CANCHIS;8;TINTA
+Peru;PER;8;CUSCO;;7;CHUMBIVILCAS;1;SANTO TOMAS
+Peru;PER;8;CUSCO;;7;CHUMBIVILCAS;2;CAPACMARCA
+Peru;PER;8;CUSCO;;7;CHUMBIVILCAS;3;CHAMACA
+Peru;PER;8;CUSCO;;7;CHUMBIVILCAS;4;COLQUEMARCA
+Peru;PER;8;CUSCO;;7;CHUMBIVILCAS;5;LIVITACA
+Peru;PER;8;CUSCO;;7;CHUMBIVILCAS;6;LLUSCO
+Peru;PER;8;CUSCO;;7;CHUMBIVILCAS;7;QUIÑOTA
+Peru;PER;8;CUSCO;;7;CHUMBIVILCAS;8;VELILLE
+Peru;PER;8;CUSCO;;8;ESPINAR;1;ESPINAR
+Peru;PER;8;CUSCO;;8;ESPINAR;2;CONDOROMA
+Peru;PER;8;CUSCO;;8;ESPINAR;3;COPORAQUE
+Peru;PER;8;CUSCO;;8;ESPINAR;4;OCORURO
+Peru;PER;8;CUSCO;;8;ESPINAR;5;PALLPATA
+Peru;PER;8;CUSCO;;8;ESPINAR;6;PICHIGUA
+Peru;PER;8;CUSCO;;8;ESPINAR;7;SUYCKUTAMBO
+Peru;PER;8;CUSCO;;8;ESPINAR;8;ALTO PICHIGUA
+Peru;PER;8;CUSCO;;9;LA CONVENCION;1;SANTA ANA
+Peru;PER;8;CUSCO;;9;LA CONVENCION;2;ECHARATE
+Peru;PER;8;CUSCO;;9;LA CONVENCION;3;HUAYOPATA
+Peru;PER;8;CUSCO;;9;LA CONVENCION;4;MARANURA
+Peru;PER;8;CUSCO;;9;LA CONVENCION;5;OCOBAMBA
+Peru;PER;8;CUSCO;;9;LA CONVENCION;6;QUELLOUNO
+Peru;PER;8;CUSCO;;9;LA CONVENCION;7;KIMBIRI
+Peru;PER;8;CUSCO;;9;LA CONVENCION;8;SANTA TERESA
+Peru;PER;8;CUSCO;;9;LA CONVENCION;9;VILCABAMBA
+Peru;PER;8;CUSCO;;9;LA CONVENCION;10;PICHARI
+Peru;PER;8;CUSCO;;10;PARURO;1;PARURO
+Peru;PER;8;CUSCO;;10;PARURO;2;ACCHA
+Peru;PER;8;CUSCO;;10;PARURO;3;CCAPI
+Peru;PER;8;CUSCO;;10;PARURO;4;COLCHA
+Peru;PER;8;CUSCO;;10;PARURO;5;HUANOQUITE
+Peru;PER;8;CUSCO;;10;PARURO;6;OMACHA
+Peru;PER;8;CUSCO;;10;PARURO;7;PACCARITAMBO
+Peru;PER;8;CUSCO;;10;PARURO;8;PILLPINTO
+Peru;PER;8;CUSCO;;10;PARURO;9;YAURISQUE
+Peru;PER;8;CUSCO;;11;PAUCARTAMBO;1;PAUCARTAMBO
+Peru;PER;8;CUSCO;;11;PAUCARTAMBO;2;CAICAY
+Peru;PER;8;CUSCO;;11;PAUCARTAMBO;3;CHALLABAMBA
+Peru;PER;8;CUSCO;;11;PAUCARTAMBO;4;COLQUEPATA
+Peru;PER;8;CUSCO;;11;PAUCARTAMBO;5;HUANCARANI
+Peru;PER;8;CUSCO;;11;PAUCARTAMBO;6;KOSÑIPATA
+Peru;PER;8;CUSCO;;12;QUISPICANCHI;1;URCOS
+Peru;PER;8;CUSCO;;12;QUISPICANCHI;2;ANDAHUAYLILLAS
+Peru;PER;8;CUSCO;;12;QUISPICANCHI;3;CAMANTI
+Peru;PER;8;CUSCO;;12;QUISPICANCHI;4;CCARHUAYO
+Peru;PER;8;CUSCO;;12;QUISPICANCHI;5;CCATCA
+Peru;PER;8;CUSCO;;12;QUISPICANCHI;6;CUSIPATA
+Peru;PER;8;CUSCO;;12;QUISPICANCHI;7;HUARO
+Peru;PER;8;CUSCO;;12;QUISPICANCHI;8;LUCRE
+Peru;PER;8;CUSCO;;12;QUISPICANCHI;9;MARCAPATA
+Peru;PER;8;CUSCO;;12;QUISPICANCHI;10;OCONGATE
+Peru;PER;8;CUSCO;;12;QUISPICANCHI;11;OROPESA
+Peru;PER;8;CUSCO;;12;QUISPICANCHI;12;QUIQUIJANA
+Peru;PER;8;CUSCO;;13;URUBAMBA;1;URUBAMBA
+Peru;PER;8;CUSCO;;13;URUBAMBA;2;CHINCHERO
+Peru;PER;8;CUSCO;;13;URUBAMBA;3;HUAYLLABAMBA
+Peru;PER;8;CUSCO;;13;URUBAMBA;4;MACHUPICCHU
+Peru;PER;8;CUSCO;;13;URUBAMBA;5;MARAS
+Peru;PER;8;CUSCO;;13;URUBAMBA;6;OLLANTAYTAMBO
+Peru;PER;8;CUSCO;;13;URUBAMBA;7;YUCAY
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;1;HUANCAVELICA
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;2;ACOBAMBILLA
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;3;ACORIA
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;4;CONAYCA
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;5;CUENCA
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;6;HUACHOCOLPA
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;7;HUAYLLAHUARA
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;8;IZCUCHACA
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;9;LARIA
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;10;MANTA
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;11;MARISCAL CACERES
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;12;MOYA
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;13;NUEVO OCCORO
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;14;PALCA
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;15;PILCHACA
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;16;VILCA
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;17;YAULI
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;18;ASCENSION
+Peru;PER;9;HUANCAVELICA;;1;HUANCAVELICA;19;HUANDO
+Peru;PER;9;HUANCAVELICA;;2;ACOBAMBA;1;ACOBAMBA
+Peru;PER;9;HUANCAVELICA;;2;ACOBAMBA;2;ANDABAMBA
+Peru;PER;9;HUANCAVELICA;;2;ACOBAMBA;3;ANTA
+Peru;PER;9;HUANCAVELICA;;2;ACOBAMBA;4;CAJA
+Peru;PER;9;HUANCAVELICA;;2;ACOBAMBA;5;MARCAS
+Peru;PER;9;HUANCAVELICA;;2;ACOBAMBA;6;PAUCARA
+Peru;PER;9;HUANCAVELICA;;2;ACOBAMBA;7;POMACOCHA
+Peru;PER;9;HUANCAVELICA;;2;ACOBAMBA;8;ROSARIO
+Peru;PER;9;HUANCAVELICA;;3;ANGARAES;1;LIRCAY
+Peru;PER;9;HUANCAVELICA;;3;ANGARAES;2;ANCHONGA
+Peru;PER;9;HUANCAVELICA;;3;ANGARAES;3;CALLANMARCA
+Peru;PER;9;HUANCAVELICA;;3;ANGARAES;4;CCOCHACCASA
+Peru;PER;9;HUANCAVELICA;;3;ANGARAES;5;CHINCHO
+Peru;PER;9;HUANCAVELICA;;3;ANGARAES;6;CONGALLA
+Peru;PER;9;HUANCAVELICA;;3;ANGARAES;7;HUANCA-HUANCA
+Peru;PER;9;HUANCAVELICA;;3;ANGARAES;8;HUAYLLAY GRANDE
+Peru;PER;9;HUANCAVELICA;;3;ANGARAES;9;JULCAMARCA
+Peru;PER;9;HUANCAVELICA;;3;ANGARAES;10;SAN ANTONIO DE ANTAPARCO
+Peru;PER;9;HUANCAVELICA;;3;ANGARAES;11;SANTO TOMAS DE PATA
+Peru;PER;9;HUANCAVELICA;;3;ANGARAES;12;SECCLLA
+Peru;PER;9;HUANCAVELICA;;4;CASTROVIRREYNA;1;CASTROVIRREYNA
+Peru;PER;9;HUANCAVELICA;;4;CASTROVIRREYNA;2;ARMA
+Peru;PER;9;HUANCAVELICA;;4;CASTROVIRREYNA;3;AURAHUA
+Peru;PER;9;HUANCAVELICA;;4;CASTROVIRREYNA;4;CAPILLAS
+Peru;PER;9;HUANCAVELICA;;4;CASTROVIRREYNA;5;CHUPAMARCA
+Peru;PER;9;HUANCAVELICA;;4;CASTROVIRREYNA;6;COCAS
+Peru;PER;9;HUANCAVELICA;;4;CASTROVIRREYNA;7;HUACHOS
+Peru;PER;9;HUANCAVELICA;;4;CASTROVIRREYNA;8;HUAMATAMBO
+Peru;PER;9;HUANCAVELICA;;4;CASTROVIRREYNA;9;MOLLEPAMPA
+Peru;PER;9;HUANCAVELICA;;4;CASTROVIRREYNA;10;SAN JUAN
+Peru;PER;9;HUANCAVELICA;;4;CASTROVIRREYNA;11;SANTA ANA
+Peru;PER;9;HUANCAVELICA;;4;CASTROVIRREYNA;12;TANTARA
+Peru;PER;9;HUANCAVELICA;;4;CASTROVIRREYNA;13;TICRAPO
+Peru;PER;9;HUANCAVELICA;;5;CHURCAMPA;1;CHURCAMPA
+Peru;PER;9;HUANCAVELICA;;5;CHURCAMPA;2;ANCO
+Peru;PER;9;HUANCAVELICA;;5;CHURCAMPA;3;CHINCHIHUASI
+Peru;PER;9;HUANCAVELICA;;5;CHURCAMPA;4;EL CARMEN
+Peru;PER;9;HUANCAVELICA;;5;CHURCAMPA;5;LA MERCED
+Peru;PER;9;HUANCAVELICA;;5;CHURCAMPA;6;LOCROJA
+Peru;PER;9;HUANCAVELICA;;5;CHURCAMPA;7;PAUCARBAMBA
+Peru;PER;9;HUANCAVELICA;;5;CHURCAMPA;8;SAN MIGUEL DE MAYOCC
+Peru;PER;9;HUANCAVELICA;;5;CHURCAMPA;9;SAN PEDRO DE CORIS
+Peru;PER;9;HUANCAVELICA;;5;CHURCAMPA;10;PACHAMARCA
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;1;HUAYTARA
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;2;AYAVI
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;3;CORDOVA
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;4;HUAYACUNDO ARMA
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;5;LARAMARCA
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;6;OCOYO
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;7;PILPICHACA
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;8;QUERCO
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;9;QUITO-ARMA
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;10;SAN ANTONIO DE CUSICANCHA
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;11;SAN FRANCISCO DE SANGAYAICO
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;12;SAN ISIDRO
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;13;SANTIAGO DE CHOCORVOS
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;14;SANTIAGO DE QUIRAHUARA
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;15;SANTO DOMINGO DE CAPILLAS
+Peru;PER;9;HUANCAVELICA;;6;HUAYTARA;16;TAMBO
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;1;PAMPAS
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;2;ACOSTAMBO
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;3;ACRAQUIA
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;4;AHUAYCHA
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;5;COLCABAMBA
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;6;DANIEL HERNANDEZ
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;7;HUACHOCOLPA
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;8;HUANDO
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;9;HUARIBAMBA
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;10;ÑAHUIMPUQUIO
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;11;PAZOS
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;12;PACHAMARCA
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;13;QUISHUAR
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;14;SALCABAMBA
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;15;SALCAHUASI
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;16;SAN MARCOS DE ROCCHAC
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;17;SURCUBAMBA
+Peru;PER;9;HUANCAVELICA;;7;TAYACAJA;18;TINTAY PUNCU
+Peru;PER;10;HUANUCO;;1;HUANUCO;1;HUANUCO
+Peru;PER;10;HUANUCO;;1;HUANUCO;2;AMARILIS
+Peru;PER;10;HUANUCO;;1;HUANUCO;3;CHINCHAO
+Peru;PER;10;HUANUCO;;1;HUANUCO;4;CHURUBAMBA
+Peru;PER;10;HUANUCO;;1;HUANUCO;5;MARGOS
+Peru;PER;10;HUANUCO;;1;HUANUCO;6;QUISQUI (KICHKI)
+Peru;PER;10;HUANUCO;;1;HUANUCO;7;SAN FRANCISCO DE CAYRAN
+Peru;PER;10;HUANUCO;;1;HUANUCO;8;SAN PEDRO DE CHAULAN
+Peru;PER;10;HUANUCO;;1;HUANUCO;9;SANTA MARIA DEL VALLE
+Peru;PER;10;HUANUCO;;1;HUANUCO;10;YARUMAYO
+Peru;PER;10;HUANUCO;;1;HUANUCO;11;PILLCO MARCA
+Peru;PER;10;HUANUCO;;2;AMBO;1;AMBO
+Peru;PER;10;HUANUCO;;2;AMBO;2;CAYNA
+Peru;PER;10;HUANUCO;;2;AMBO;3;COLPAS
+Peru;PER;10;HUANUCO;;2;AMBO;4;CONCHAMARCA
+Peru;PER;10;HUANUCO;;2;AMBO;5;HUACAR
+Peru;PER;10;HUANUCO;;2;AMBO;6;SAN FRANCISCO
+Peru;PER;10;HUANUCO;;2;AMBO;7;SAN RAFAEL
+Peru;PER;10;HUANUCO;;2;AMBO;8;TOMAY KICHWA
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;1;LA UNION
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;2;CHUPAN
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;3;BAÑOS
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;4;CAHUAC
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;5;CHACABAMBA
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;6;CHAVINILLO
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;7;CHUQUIS
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;8;JACAS CHICO
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;9;JESUS
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;10;JIVIA
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;11;MARIAS
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;12;OBAS
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;13;PACHAS
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;14;PAMPAMARCA
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;15;QUEROPALCA
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;16;QUIVILLA
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;17;RIPAN
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;18;RONDOS
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;19;SAN FRANCISCO DE ASIS
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;20;SAN MIGUEL DE CAURI
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;21;SHUNQUI
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;22;SILLAPATA
+Peru;PER;10;HUANUCO;;3;DOS DE MAYO;23;YANAS
+Peru;PER;10;HUANUCO;;4;HUACAYBAMBA;1;HUACAYBAMBA
+Peru;PER;10;HUANUCO;;4;HUACAYBAMBA;2;CANCHABAMBA
+Peru;PER;10;HUANUCO;;4;HUACAYBAMBA;3;COCHABAMBA
+Peru;PER;10;HUANUCO;;4;HUACAYBAMBA;4;PINRA
+Peru;PER;10;HUANUCO;;5;HUAMALIES;1;LLATA
+Peru;PER;10;HUANUCO;;5;HUAMALIES;2;ARANCAY
+Peru;PER;10;HUANUCO;;5;HUAMALIES;3;CHAVIN DE PARIARCA
+Peru;PER;10;HUANUCO;;5;HUAMALIES;4;JACAS GRANDE
+Peru;PER;10;HUANUCO;;5;HUAMALIES;5;JIRCAN
+Peru;PER;10;HUANUCO;;5;HUAMALIES;6;MIRAFLORES
+Peru;PER;10;HUANUCO;;5;HUAMALIES;7;MONZON
+Peru;PER;10;HUANUCO;;5;HUAMALIES;8;PUNCHAO
+Peru;PER;10;HUANUCO;;5;HUAMALIES;9;PUÑOS
+Peru;PER;10;HUANUCO;;5;HUAMALIES;10;SINGA
+Peru;PER;10;HUANUCO;;5;HUAMALIES;11;TANTAMAYO
+Peru;PER;10;HUANUCO;;6;LEONCIO PRADO;1;RUPA-RUPA
+Peru;PER;10;HUANUCO;;6;LEONCIO PRADO;2;DANIEL ALOMIA ROBLES
+Peru;PER;10;HUANUCO;;6;LEONCIO PRADO;3;HERMILIO VALDIZAN
+Peru;PER;10;HUANUCO;;6;LEONCIO PRADO;4;JOSE CRESPO Y CASTILLO
+Peru;PER;10;HUANUCO;;6;LEONCIO PRADO;5;LUYANDO
+Peru;PER;10;HUANUCO;;6;LEONCIO PRADO;6;MARIANO DAMASO BERAUN
+Peru;PER;10;HUANUCO;;7;MARAÑON;1;HUACRACHUCO
+Peru;PER;10;HUANUCO;;7;MARAÑON;2;CHOLON
+Peru;PER;10;HUANUCO;;7;MARAÑON;3;SAN BUENAVENTURA
+Peru;PER;10;HUANUCO;;8;PACHITEA;1;PANAO
+Peru;PER;10;HUANUCO;;8;PACHITEA;2;CHAGLLA
+Peru;PER;10;HUANUCO;;8;PACHITEA;3;MOLINO
+Peru;PER;10;HUANUCO;;8;PACHITEA;4;UMARI
+Peru;PER;10;HUANUCO;;9;PUERTO INCA;1;PUERTO INCA
+Peru;PER;10;HUANUCO;;9;PUERTO INCA;2;CODO DEL POZUZO
+Peru;PER;10;HUANUCO;;9;PUERTO INCA;3;HONORIA
+Peru;PER;10;HUANUCO;;9;PUERTO INCA;4;TOURNAVISTA
+Peru;PER;10;HUANUCO;;9;PUERTO INCA;5;YUYAPICHIS
+Peru;PER;10;HUANUCO;;10;LAURICOCHA;1;JESUS
+Peru;PER;10;HUANUCO;;10;LAURICOCHA;2;BAÑOS
+Peru;PER;10;HUANUCO;;10;LAURICOCHA;3;JIVIA
+Peru;PER;10;HUANUCO;;10;LAURICOCHA;4;QUEROPALCA
+Peru;PER;10;HUANUCO;;10;LAURICOCHA;5;RONDOS
+Peru;PER;10;HUANUCO;;10;LAURICOCHA;6;SAN FRANCISCO DE ASIS
+Peru;PER;10;HUANUCO;;10;LAURICOCHA;7;SAN MIGUEL DE CAURI
+Peru;PER;10;HUANUCO;;11;YAROWILCA;1;CHAVINILLO
+Peru;PER;10;HUANUCO;;11;YAROWILCA;2;CAHUAC
+Peru;PER;10;HUANUCO;;11;YAROWILCA;3;CHACABAMBA
+Peru;PER;10;HUANUCO;;11;YAROWILCA;4;APARICIO POMARES
+Peru;PER;10;HUANUCO;;11;YAROWILCA;5;JACAS CHICO
+Peru;PER;10;HUANUCO;;11;YAROWILCA;6;OBAS
+Peru;PER;10;HUANUCO;;11;YAROWILCA;7;PAMPAMARCA
+Peru;PER;10;HUANUCO;;11;YAROWILCA;8;CHORAS
+Peru;PER;11;ICA;;1;ICA;1;ICA
+Peru;PER;11;ICA;;1;ICA;2;LA TINGUIÑA
+Peru;PER;11;ICA;;1;ICA;3;LOS AQUIJES
+Peru;PER;11;ICA;;1;ICA;4;OCUCAJE
+Peru;PER;11;ICA;;1;ICA;5;PACHACUTEC
+Peru;PER;11;ICA;;1;ICA;6;PARCONA
+Peru;PER;11;ICA;;1;ICA;7;PUEBLO NUEVO
+Peru;PER;11;ICA;;1;ICA;8;SALAS
+Peru;PER;11;ICA;;1;ICA;9;SAN JOSE DE LOS MOLINOS
+Peru;PER;11;ICA;;1;ICA;10;SAN JUAN BAUTISTA
+Peru;PER;11;ICA;;1;ICA;11;SANTIAGO
+Peru;PER;11;ICA;;1;ICA;12;SUBTANJALLA
+Peru;PER;11;ICA;;1;ICA;13;TATE
+Peru;PER;11;ICA;;1;ICA;14;YAUCA DEL ROSARIO
+Peru;PER;11;ICA;;2;CHINCHA;1;CHINCHA ALTA
+Peru;PER;11;ICA;;2;CHINCHA;2;ALTO LARAN
+Peru;PER;11;ICA;;2;CHINCHA;3;CHAVIN
+Peru;PER;11;ICA;;2;CHINCHA;4;CHINCHA BAJA
+Peru;PER;11;ICA;;2;CHINCHA;5;EL CARMEN
+Peru;PER;11;ICA;;2;CHINCHA;6;GROCIO PRADO
+Peru;PER;11;ICA;;2;CHINCHA;7;PUEBLO NUEVO
+Peru;PER;11;ICA;;2;CHINCHA;8;SAN JUAN DE YANAC
+Peru;PER;11;ICA;;2;CHINCHA;9;SAN PEDRO DE HUACARPANA
+Peru;PER;11;ICA;;2;CHINCHA;10;SUNAMPE
+Peru;PER;11;ICA;;2;CHINCHA;11;TAMBO DE MORA
+Peru;PER;11;ICA;;3;NAZCA;1;NAZCA
+Peru;PER;11;ICA;;3;NAZCA;2;CHANGUILLO
+Peru;PER;11;ICA;;3;NAZCA;3;EL INGENIO
+Peru;PER;11;ICA;;3;NAZCA;4;MARCONA
+Peru;PER;11;ICA;;3;NAZCA;5;VISTA ALEGRE
+Peru;PER;11;ICA;;4;PALPA;1;PALPA
+Peru;PER;11;ICA;;4;PALPA;2;LLIPATA
+Peru;PER;11;ICA;;4;PALPA;3;RIO GRANDE
+Peru;PER;11;ICA;;4;PALPA;4;SANTA CRUZ
+Peru;PER;11;ICA;;4;PALPA;5;TIBILLO
+Peru;PER;11;ICA;;5;PISCO;1;PISCO
+Peru;PER;11;ICA;;5;PISCO;2;HUANCANO
+Peru;PER;11;ICA;;5;PISCO;3;HUMAY
+Peru;PER;11;ICA;;5;PISCO;4;INDEPENDENCIA
+Peru;PER;11;ICA;;5;PISCO;5;PARACAS
+Peru;PER;11;ICA;;5;PISCO;6;SAN ANDRES
+Peru;PER;11;ICA;;5;PISCO;7;SAN CLEMENTE
+Peru;PER;11;ICA;;5;PISCO;8;TUPAC AMARU INCA
+Peru;PER;12;JUNIN;;1;HUANCAYO;1;HUANCAYO
+Peru;PER;12;JUNIN;;1;HUANCAYO;2;3 DE DICIEMBRE
+Peru;PER;12;JUNIN;;1;HUANCAYO;3;AHUAC
+Peru;PER;12;JUNIN;;1;HUANCAYO;4;CARHUACALLANGA
+Peru;PER;12;JUNIN;;1;HUANCAYO;5;CHACAPAMPA
+Peru;PER;12;JUNIN;;1;HUANCAYO;6;CHICCHE
+Peru;PER;12;JUNIN;;1;HUANCAYO;7;CHILCA
+Peru;PER;12;JUNIN;;1;HUANCAYO;8;CHONGOS ALTO
+Peru;PER;12;JUNIN;;1;HUANCAYO;9;CHONGOS BAJO
+Peru;PER;12;JUNIN;;1;HUANCAYO;10;CHUPACA
+Peru;PER;12;JUNIN;;1;HUANCAYO;11;CHUPURO
+Peru;PER;12;JUNIN;;1;HUANCAYO;12;COLCA
+Peru;PER;12;JUNIN;;1;HUANCAYO;13;CULLHUAS
+Peru;PER;12;JUNIN;;1;HUANCAYO;14;EL TAMBO
+Peru;PER;12;JUNIN;;1;HUANCAYO;15;HUACHAC
+Peru;PER;12;JUNIN;;1;HUANCAYO;16;HUACRAPUQUIO
+Peru;PER;12;JUNIN;;1;HUANCAYO;17;HUALHUAS
+Peru;PER;12;JUNIN;;1;HUANCAYO;18;HUAMANCACA CHICO
+Peru;PER;12;JUNIN;;1;HUANCAYO;19;HUANCAN
+Peru;PER;12;JUNIN;;1;HUANCAYO;20;HUASICANCHA
+Peru;PER;12;JUNIN;;1;HUANCAYO;21;HUAYUCACHI
+Peru;PER;12;JUNIN;;1;HUANCAYO;22;INGENIO
+Peru;PER;12;JUNIN;;1;HUANCAYO;23;SAN JUAN DE JARPA
+Peru;PER;12;JUNIN;;1;HUANCAYO;24;PARIAHUANCA
+Peru;PER;12;JUNIN;;1;HUANCAYO;25;PILCOMAYO
+Peru;PER;12;JUNIN;;1;HUANCAYO;26;PUCARA
+Peru;PER;12;JUNIN;;1;HUANCAYO;27;QUICHUAY
+Peru;PER;12;JUNIN;;1;HUANCAYO;28;QUILCAS
+Peru;PER;12;JUNIN;;1;HUANCAYO;29;SAN AGUSTIN
+Peru;PER;12;JUNIN;;1;HUANCAYO;30;SAN JERONIMO DE TUNAN
+Peru;PER;12;JUNIN;;1;HUANCAYO;31;SAN JUAN DE ISCOS
+Peru;PER;12;JUNIN;;1;HUANCAYO;32;SAÑO
+Peru;PER;12;JUNIN;;1;HUANCAYO;33;SAPALLANGA
+Peru;PER;12;JUNIN;;1;HUANCAYO;34;SICAYA
+Peru;PER;12;JUNIN;;1;HUANCAYO;35;SANTO DOMINGO DE ACOBAMBA
+Peru;PER;12;JUNIN;;1;HUANCAYO;36;VIQUES
+Peru;PER;12;JUNIN;;1;HUANCAYO;37;YANACANCHA
+Peru;PER;12;JUNIN;;2;CONCEPCION;1;CONCEPCION
+Peru;PER;12;JUNIN;;2;CONCEPCION;2;ACO
+Peru;PER;12;JUNIN;;2;CONCEPCION;3;ANDAMARCA
+Peru;PER;12;JUNIN;;2;CONCEPCION;4;CHAMBARA
+Peru;PER;12;JUNIN;;2;CONCEPCION;5;COCHAS
+Peru;PER;12;JUNIN;;2;CONCEPCION;6;COMAS
+Peru;PER;12;JUNIN;;2;CONCEPCION;7;HEROINAS TOLEDO
+Peru;PER;12;JUNIN;;2;CONCEPCION;8;MANZANARES
+Peru;PER;12;JUNIN;;2;CONCEPCION;9;MARISCAL CASTILLA
+Peru;PER;12;JUNIN;;2;CONCEPCION;10;MATAHUASI
+Peru;PER;12;JUNIN;;2;CONCEPCION;11;MITO
+Peru;PER;12;JUNIN;;2;CONCEPCION;12;NUEVE DE JULIO
+Peru;PER;12;JUNIN;;2;CONCEPCION;13;ORCOTUNA
+Peru;PER;12;JUNIN;;2;CONCEPCION;14;SAN JOSE DE QUERO
+Peru;PER;12;JUNIN;;2;CONCEPCION;15;SANTA ROSA DE OCOPA
+Peru;PER;12;JUNIN;;3;CHANCHAMAYO;1;CHANCHAMAYO
+Peru;PER;12;JUNIN;;3;CHANCHAMAYO;2;PERENE
+Peru;PER;12;JUNIN;;3;CHANCHAMAYO;3;PICHANAQUI
+Peru;PER;12;JUNIN;;3;CHANCHAMAYO;4;SAN LUIS DE SHUARO
+Peru;PER;12;JUNIN;;3;CHANCHAMAYO;5;SAN RAMON
+Peru;PER;12;JUNIN;;3;CHANCHAMAYO;6;VITOC
+Peru;PER;12;JUNIN;;4;JAUJA;1;JAUJA
+Peru;PER;12;JUNIN;;4;JAUJA;2;ACOLLA
+Peru;PER;12;JUNIN;;4;JAUJA;3;APATA
+Peru;PER;12;JUNIN;;4;JAUJA;4;ATAURA
+Peru;PER;12;JUNIN;;4;JAUJA;5;CANCHAYLLO
+Peru;PER;12;JUNIN;;4;JAUJA;6;CURICACA
+Peru;PER;12;JUNIN;;4;JAUJA;7;EL MANTARO
+Peru;PER;12;JUNIN;;4;JAUJA;8;HUAMALI
+Peru;PER;12;JUNIN;;4;JAUJA;9;HUARIPAMPA
+Peru;PER;12;JUNIN;;4;JAUJA;10;HUERTAS
+Peru;PER;12;JUNIN;;4;JAUJA;11;JANJAILLO
+Peru;PER;12;JUNIN;;4;JAUJA;12;JULCAN
+Peru;PER;12;JUNIN;;4;JAUJA;13;LEONOR ORDOÑEZ
+Peru;PER;12;JUNIN;;4;JAUJA;14;LLOCLLAPAMPA
+Peru;PER;12;JUNIN;;4;JAUJA;15;MARCO
+Peru;PER;12;JUNIN;;4;JAUJA;16;MASMA
+Peru;PER;12;JUNIN;;4;JAUJA;17;MASMA CHICCHE
+Peru;PER;12;JUNIN;;4;JAUJA;18;MOLINOS
+Peru;PER;12;JUNIN;;4;JAUJA;19;MONOBAMBA
+Peru;PER;12;JUNIN;;4;JAUJA;20;MUQUI
+Peru;PER;12;JUNIN;;4;JAUJA;21;MUQUIYAUYO
+Peru;PER;12;JUNIN;;4;JAUJA;22;PACA
+Peru;PER;12;JUNIN;;4;JAUJA;23;PACCHA
+Peru;PER;12;JUNIN;;4;JAUJA;24;PANCAN
+Peru;PER;12;JUNIN;;4;JAUJA;25;PARCO
+Peru;PER;12;JUNIN;;4;JAUJA;26;POMACANCHA
+Peru;PER;12;JUNIN;;4;JAUJA;27;RICRAN
+Peru;PER;12;JUNIN;;4;JAUJA;28;SAN LORENZO
+Peru;PER;12;JUNIN;;4;JAUJA;29;SAN PEDRO DE CHUNAN
+Peru;PER;12;JUNIN;;4;JAUJA;30;SAUSA
+Peru;PER;12;JUNIN;;4;JAUJA;31;SINCOS
+Peru;PER;12;JUNIN;;4;JAUJA;32;TUNAN MARCA
+Peru;PER;12;JUNIN;;4;JAUJA;33;YAULI
+Peru;PER;12;JUNIN;;4;JAUJA;34;YAUYOS
+Peru;PER;12;JUNIN;;5;JUNIN;1;JUNIN
+Peru;PER;12;JUNIN;;5;JUNIN;2;CARHUAMAYO
+Peru;PER;12;JUNIN;;5;JUNIN;3;ONDORES
+Peru;PER;12;JUNIN;;5;JUNIN;4;ULCUMAYO
+Peru;PER;12;JUNIN;;6;SATIPO;1;SATIPO
+Peru;PER;12;JUNIN;;6;SATIPO;2;COVIRIALI
+Peru;PER;12;JUNIN;;6;SATIPO;3;LLAYLLA
+Peru;PER;12;JUNIN;;6;SATIPO;4;MAZAMARI
+Peru;PER;12;JUNIN;;6;SATIPO;5;PAMPA HERMOSA
+Peru;PER;12;JUNIN;;6;SATIPO;6;PANGOA
+Peru;PER;12;JUNIN;;6;SATIPO;7;RIO NEGRO
+Peru;PER;12;JUNIN;;6;SATIPO;8;RIO TAMBO
+Peru;PER;12;JUNIN;;7;TARMA;1;TARMA
+Peru;PER;12;JUNIN;;7;TARMA;2;ACOBAMBA
+Peru;PER;12;JUNIN;;7;TARMA;3;HUARICOLCA
+Peru;PER;12;JUNIN;;7;TARMA;4;HUASAHUASI
+Peru;PER;12;JUNIN;;7;TARMA;5;LA UNION
+Peru;PER;12;JUNIN;;7;TARMA;6;PALCA
+Peru;PER;12;JUNIN;;7;TARMA;7;PALCAMAYO
+Peru;PER;12;JUNIN;;7;TARMA;8;SAN PEDRO DE CAJAS
+Peru;PER;12;JUNIN;;7;TARMA;9;TAPO
+Peru;PER;12;JUNIN;;8;YAULI;1;LA OROYA
+Peru;PER;12;JUNIN;;8;YAULI;2;CHACAPALPA
+Peru;PER;12;JUNIN;;8;YAULI;3;HUAY-HUAY
+Peru;PER;12;JUNIN;;8;YAULI;4;MARCAPOMACOCHA
+Peru;PER;12;JUNIN;;8;YAULI;5;MOROCOCHA
+Peru;PER;12;JUNIN;;8;YAULI;6;PACCHA
+Peru;PER;12;JUNIN;;8;YAULI;7;SANTA BARBARA DE CARHUACAYAN
+Peru;PER;12;JUNIN;;8;YAULI;8;SANTA ROSA DE SACCO
+Peru;PER;12;JUNIN;;8;YAULI;9;SUITUCANCHA
+Peru;PER;12;JUNIN;;8;YAULI;10;YAULI
+Peru;PER;12;JUNIN;;9;CHUPACA;1;CHUPACA
+Peru;PER;12;JUNIN;;9;CHUPACA;2;AHUAC
+Peru;PER;12;JUNIN;;9;CHUPACA;3;CHONGOS BAJO
+Peru;PER;12;JUNIN;;9;CHUPACA;4;HUACHAC
+Peru;PER;12;JUNIN;;9;CHUPACA;5;HUAMANCACA CHICO
+Peru;PER;12;JUNIN;;9;CHUPACA;6;SAN JUAN DE ISCOS
+Peru;PER;12;JUNIN;;9;CHUPACA;7;SAN JUAN DE JARPA
+Peru;PER;12;JUNIN;;9;CHUPACA;8;TRES DE DICIEMBRE
+Peru;PER;12;JUNIN;;9;CHUPACA;9;YANACANCHA
+Peru;PER;13;LA LIBERTAD;;1;TRUJILLO;1;TRUJILLO
+Peru;PER;13;LA LIBERTAD;;1;TRUJILLO;2;EL PORVENIR
+Peru;PER;13;LA LIBERTAD;;1;TRUJILLO;3;FLORENCIA DE MORA
+Peru;PER;13;LA LIBERTAD;;1;TRUJILLO;4;HUANCHACO
+Peru;PER;13;LA LIBERTAD;;1;TRUJILLO;5;LA ESPERANZA
+Peru;PER;13;LA LIBERTAD;;1;TRUJILLO;6;LAREDO
+Peru;PER;13;LA LIBERTAD;;1;TRUJILLO;7;MOCHE
+Peru;PER;13;LA LIBERTAD;;1;TRUJILLO;8;POROTO
+Peru;PER;13;LA LIBERTAD;;1;TRUJILLO;9;SALAVERRY
+Peru;PER;13;LA LIBERTAD;;1;TRUJILLO;10;SIMBAL
+Peru;PER;13;LA LIBERTAD;;1;TRUJILLO;11;VICTOR LARCO HERRERA
+Peru;PER;13;LA LIBERTAD;;1;TRUJILLO;12;VIRU
+Peru;PER;13;LA LIBERTAD;;2;ASCOPE;1;ASCOPE
+Peru;PER;13;LA LIBERTAD;;2;ASCOPE;2;CHICAMA
+Peru;PER;13;LA LIBERTAD;;2;ASCOPE;3;CHOCOPE
+Peru;PER;13;LA LIBERTAD;;2;ASCOPE;4;MAGDALENA DE CAO
+Peru;PER;13;LA LIBERTAD;;2;ASCOPE;5;PAIJAN
+Peru;PER;13;LA LIBERTAD;;2;ASCOPE;6;RAZURI
+Peru;PER;13;LA LIBERTAD;;2;ASCOPE;7;SANTIAGO DE CAO
+Peru;PER;13;LA LIBERTAD;;2;ASCOPE;8;CASA GRANDE
+Peru;PER;13;LA LIBERTAD;;3;BOLIVAR;1;BOLIVAR
+Peru;PER;13;LA LIBERTAD;;3;BOLIVAR;2;BAMBAMARCA
+Peru;PER;13;LA LIBERTAD;;3;BOLIVAR;3;CONDORMARCA
+Peru;PER;13;LA LIBERTAD;;3;BOLIVAR;4;LONGOTEA
+Peru;PER;13;LA LIBERTAD;;3;BOLIVAR;5;UCHUMARCA
+Peru;PER;13;LA LIBERTAD;;3;BOLIVAR;6;UCUNCHA
+Peru;PER;13;LA LIBERTAD;;4;CHEPEN;1;CHEPEN
+Peru;PER;13;LA LIBERTAD;;4;CHEPEN;2;PACANGA
+Peru;PER;13;LA LIBERTAD;;4;CHEPEN;3;PUEBLO NUEVO
+Peru;PER;13;LA LIBERTAD;;5;JULCAN;1;JULCAN
+Peru;PER;13;LA LIBERTAD;;5;JULCAN;2;CALAMARCA
+Peru;PER;13;LA LIBERTAD;;5;JULCAN;3;CARABAMBA
+Peru;PER;13;LA LIBERTAD;;5;JULCAN;4;HUASO
+Peru;PER;13;LA LIBERTAD;;6;OTUZCO;1;OTUZCO
+Peru;PER;13;LA LIBERTAD;;6;OTUZCO;2;AGALLPAMPA
+Peru;PER;13;LA LIBERTAD;;6;OTUZCO;3;CASCAS
+Peru;PER;13;LA LIBERTAD;;6;OTUZCO;4;CHARAT
+Peru;PER;13;LA LIBERTAD;;6;OTUZCO;5;HUARANCHAL
+Peru;PER;13;LA LIBERTAD;;6;OTUZCO;6;LA CUESTA
+Peru;PER;13;LA LIBERTAD;;6;OTUZCO;7;LUCMA
+Peru;PER;13;LA LIBERTAD;;6;OTUZCO;8;MACHE
+Peru;PER;13;LA LIBERTAD;;6;OTUZCO;9;MARMOT
+Peru;PER;13;LA LIBERTAD;;6;OTUZCO;10;PARANDAY
+Peru;PER;13;LA LIBERTAD;;6;OTUZCO;11;SALPO
+Peru;PER;13;LA LIBERTAD;;6;OTUZCO;12;SAYAPULLO
+Peru;PER;13;LA LIBERTAD;;6;OTUZCO;13;SINSICAP
+Peru;PER;13;LA LIBERTAD;;6;OTUZCO;14;USQUIL
+Peru;PER;13;LA LIBERTAD;;7;PACASMAYO;1;SAN PEDRO DE LLOC
+Peru;PER;13;LA LIBERTAD;;7;PACASMAYO;2;GUADALUPE
+Peru;PER;13;LA LIBERTAD;;7;PACASMAYO;3;JEQUETEPEQUE
+Peru;PER;13;LA LIBERTAD;;7;PACASMAYO;4;PACASMAYO
+Peru;PER;13;LA LIBERTAD;;7;PACASMAYO;5;SAN JOSE
+Peru;PER;13;LA LIBERTAD;;8;PATAZ;1;TAYABAMBA
+Peru;PER;13;LA LIBERTAD;;8;PATAZ;2;BULDIBUYO
+Peru;PER;13;LA LIBERTAD;;8;PATAZ;3;CHILLIA
+Peru;PER;13;LA LIBERTAD;;8;PATAZ;4;HUANCASPATA
+Peru;PER;13;LA LIBERTAD;;8;PATAZ;5;HUAYLILLAS
+Peru;PER;13;LA LIBERTAD;;8;PATAZ;6;HUAYO
+Peru;PER;13;LA LIBERTAD;;8;PATAZ;7;ONGON
+Peru;PER;13;LA LIBERTAD;;8;PATAZ;8;PARCOY
+Peru;PER;13;LA LIBERTAD;;8;PATAZ;9;PATAZ
+Peru;PER;13;LA LIBERTAD;;8;PATAZ;10;PIAS
+Peru;PER;13;LA LIBERTAD;;8;PATAZ;11;SANTIAGO DE CHALLAS
+Peru;PER;13;LA LIBERTAD;;8;PATAZ;12;TAURIJA
+Peru;PER;13;LA LIBERTAD;;8;PATAZ;13;URPAY
+Peru;PER;13;LA LIBERTAD;;9;SANCHEZ CARRION;1;HUAMACHUCO
+Peru;PER;13;LA LIBERTAD;;9;SANCHEZ CARRION;2;CHUGAY
+Peru;PER;13;LA LIBERTAD;;9;SANCHEZ CARRION;3;COCHORCO
+Peru;PER;13;LA LIBERTAD;;9;SANCHEZ CARRION;4;CURGOS
+Peru;PER;13;LA LIBERTAD;;9;SANCHEZ CARRION;5;MARCABAL
+Peru;PER;13;LA LIBERTAD;;9;SANCHEZ CARRION;6;SANAGORAN
+Peru;PER;13;LA LIBERTAD;;9;SANCHEZ CARRION;7;SARIN
+Peru;PER;13;LA LIBERTAD;;9;SANCHEZ CARRION;8;SARTIMBAMBA
+Peru;PER;13;LA LIBERTAD;;10;SANTIAGO DE CHUCO;1;SANTIAGO DE CHUCO
+Peru;PER;13;LA LIBERTAD;;10;SANTIAGO DE CHUCO;2;ANGASMARCA
+Peru;PER;13;LA LIBERTAD;;10;SANTIAGO DE CHUCO;3;CACHICADAN
+Peru;PER;13;LA LIBERTAD;;10;SANTIAGO DE CHUCO;4;MOLLEBAMBA
+Peru;PER;13;LA LIBERTAD;;10;SANTIAGO DE CHUCO;5;MOLLEPATA
+Peru;PER;13;LA LIBERTAD;;10;SANTIAGO DE CHUCO;6;QUIRUVILCA
+Peru;PER;13;LA LIBERTAD;;10;SANTIAGO DE CHUCO;7;SANTA CRUZ DE CHUCA
+Peru;PER;13;LA LIBERTAD;;10;SANTIAGO DE CHUCO;8;SITABAMBA
+Peru;PER;13;LA LIBERTAD;;11;GRAN CHIMU;1;CASCAS
+Peru;PER;13;LA LIBERTAD;;11;GRAN CHIMU;2;LUCMA
+Peru;PER;13;LA LIBERTAD;;11;GRAN CHIMU;3;MARMOT
+Peru;PER;13;LA LIBERTAD;;11;GRAN CHIMU;4;SAYAPULLO
+Peru;PER;13;LA LIBERTAD;;12;VIRU;1;VIRU
+Peru;PER;13;LA LIBERTAD;;12;VIRU;2;CHAO
+Peru;PER;13;LA LIBERTAD;;12;VIRU;3;GUADALUPITO
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;1;CHICLAYO
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;2;CHONGOYAPE
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;3;ETEN
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;4;ETEN PUERTO
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;5;JOSE LEONARDO ORTIZ
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;6;LA VICTORIA
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;7;LAGUNAS
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;8;MONSEFU
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;9;NUEVA ARICA
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;10;OYOTUN
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;11;PICSI
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;12;PIMENTEL
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;13;REQUE
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;14;SANTA ROSA
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;15;SAÑA
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;16;CAYALTI
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;17;PATAPO
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;18;POMALCA
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;19;PUCALA
+Peru;PER;14;LAMBAYEQUE;;1;CHICLAYO;20;TUMAN
+Peru;PER;14;LAMBAYEQUE;;2;FERREÑAFE;1;FERREÑAFE
+Peru;PER;14;LAMBAYEQUE;;2;FERREÑAFE;2;CAÑARIS
+Peru;PER;14;LAMBAYEQUE;;2;FERREÑAFE;3;INCAHUASI
+Peru;PER;14;LAMBAYEQUE;;2;FERREÑAFE;4;MANUEL ANTONIO MESONES MURO
+Peru;PER;14;LAMBAYEQUE;;2;FERREÑAFE;5;PITIPO
+Peru;PER;14;LAMBAYEQUE;;2;FERREÑAFE;6;PUEBLO NUEVO
+Peru;PER;14;LAMBAYEQUE;;3;LAMBAYEQUE;1;LAMBAYEQUE
+Peru;PER;14;LAMBAYEQUE;;3;LAMBAYEQUE;2;CHOCHOPE
+Peru;PER;14;LAMBAYEQUE;;3;LAMBAYEQUE;3;ILLIMO
+Peru;PER;14;LAMBAYEQUE;;3;LAMBAYEQUE;4;JAYANCA
+Peru;PER;14;LAMBAYEQUE;;3;LAMBAYEQUE;5;MOCHUMI
+Peru;PER;14;LAMBAYEQUE;;3;LAMBAYEQUE;6;MORROPE
+Peru;PER;14;LAMBAYEQUE;;3;LAMBAYEQUE;7;MOTUPE
+Peru;PER;14;LAMBAYEQUE;;3;LAMBAYEQUE;8;OLMOS
+Peru;PER;14;LAMBAYEQUE;;3;LAMBAYEQUE;9;PACORA
+Peru;PER;14;LAMBAYEQUE;;3;LAMBAYEQUE;10;SALAS
+Peru;PER;14;LAMBAYEQUE;;3;LAMBAYEQUE;11;SAN JOSE
+Peru;PER;14;LAMBAYEQUE;;3;LAMBAYEQUE;12;TUCUME
+Peru;PER;15;LIMA;;1;LIMA;1;LIMA
+Peru;PER;15;LIMA;;1;LIMA;2;ANCON
+Peru;PER;15;LIMA;;1;LIMA;3;ATE
+Peru;PER;15;LIMA;;1;LIMA;4;BARRANCO
+Peru;PER;15;LIMA;;1;LIMA;5;BREÑA
+Peru;PER;15;LIMA;;1;LIMA;6;CARABAYLLO
+Peru;PER;15;LIMA;;1;LIMA;7;CHACLACAYO
+Peru;PER;15;LIMA;;1;LIMA;8;CHORRILLOS
+Peru;PER;15;LIMA;;1;LIMA;9;CIENEGUILLA
+Peru;PER;15;LIMA;;1;LIMA;10;COMAS
+Peru;PER;15;LIMA;;1;LIMA;11;EL AGUSTINO
+Peru;PER;15;LIMA;;1;LIMA;12;INDEPENDENCIA
+Peru;PER;15;LIMA;;1;LIMA;13;JESUS MARIA
+Peru;PER;15;LIMA;;1;LIMA;14;LA MOLINA
+Peru;PER;15;LIMA;;1;LIMA;15;LA VICTORIA
+Peru;PER;15;LIMA;;1;LIMA;16;LINCE
+Peru;PER;15;LIMA;;1;LIMA;17;LOS OLIVOS
+Peru;PER;15;LIMA;;1;LIMA;18;LURIGANCHO
+Peru;PER;15;LIMA;;1;LIMA;19;LURIN
+Peru;PER;15;LIMA;;1;LIMA;20;MAGDALENA DEL MAR
+Peru;PER;15;LIMA;;1;LIMA;21;PUEBLO LIBRE
+Peru;PER;15;LIMA;;1;LIMA;22;MIRAFLORES
+Peru;PER;15;LIMA;;1;LIMA;23;PACHACAMAC
+Peru;PER;15;LIMA;;1;LIMA;24;PUCUSANA
+Peru;PER;15;LIMA;;1;LIMA;25;PUENTE PIEDRA
+Peru;PER;15;LIMA;;1;LIMA;26;PUNTA HERMOSA
+Peru;PER;15;LIMA;;1;LIMA;27;PUNTA NEGRA
+Peru;PER;15;LIMA;;1;LIMA;28;RIMAC
+Peru;PER;15;LIMA;;1;LIMA;29;SAN BARTOLO
+Peru;PER;15;LIMA;;1;LIMA;30;SAN BORJA
+Peru;PER;15;LIMA;;1;LIMA;31;SAN ISIDRO
+Peru;PER;15;LIMA;;1;LIMA;32;SAN JUAN DE LURIGANCHO
+Peru;PER;15;LIMA;;1;LIMA;33;SAN JUAN DE MIRAFLORES
+Peru;PER;15;LIMA;;1;LIMA;34;SAN LUIS
+Peru;PER;15;LIMA;;1;LIMA;35;SAN MARTIN DE PORRES
+Peru;PER;15;LIMA;;1;LIMA;36;SAN MIGUEL
+Peru;PER;15;LIMA;;1;LIMA;37;SANTA ANITA
+Peru;PER;15;LIMA;;1;LIMA;38;SANTA MARIA DEL MAR
+Peru;PER;15;LIMA;;1;LIMA;39;SANTA ROSA
+Peru;PER;15;LIMA;;1;LIMA;40;SANTIAGO DE SURCO
+Peru;PER;15;LIMA;;1;LIMA;41;SURQUILLO
+Peru;PER;15;LIMA;;1;LIMA;42;VILLA EL SALVADOR
+Peru;PER;15;LIMA;;1;LIMA;43;VILLA MARIA DEL TRIUNFO
+Peru;PER;15;LIMA;;2;BARRANCA;1;BARRANCA
+Peru;PER;15;LIMA;;2;BARRANCA;2;PARAMONGA
+Peru;PER;15;LIMA;;2;BARRANCA;3;PATIVILCA
+Peru;PER;15;LIMA;;2;BARRANCA;4;SUPE
+Peru;PER;15;LIMA;;2;BARRANCA;5;SUPE PUERTO
+Peru;PER;15;LIMA;;3;CAJATAMBO;1;CAJATAMBO
+Peru;PER;15;LIMA;;3;CAJATAMBO;2;COPA
+Peru;PER;15;LIMA;;3;CAJATAMBO;3;GORGOR
+Peru;PER;15;LIMA;;3;CAJATAMBO;4;HUANCAPON
+Peru;PER;15;LIMA;;3;CAJATAMBO;5;MANAS
+Peru;PER;15;LIMA;;4;CANTA;1;CANTA
+Peru;PER;15;LIMA;;4;CANTA;2;ARAHUAY
+Peru;PER;15;LIMA;;4;CANTA;3;HUAMANTANGA
+Peru;PER;15;LIMA;;4;CANTA;4;HUAROS
+Peru;PER;15;LIMA;;4;CANTA;5;LACHAQUI
+Peru;PER;15;LIMA;;4;CANTA;6;SAN BUENAVENTURA
+Peru;PER;15;LIMA;;4;CANTA;7;SANTA ROSA DE QUIVES
+Peru;PER;15;LIMA;;5;CAÑETE;1;SAN VICENTE DE CAÑETE
+Peru;PER;15;LIMA;;5;CAÑETE;2;ASIA
+Peru;PER;15;LIMA;;5;CAÑETE;3;CALANGO
+Peru;PER;15;LIMA;;5;CAÑETE;4;CERRO AZUL
+Peru;PER;15;LIMA;;5;CAÑETE;5;CHILCA
+Peru;PER;15;LIMA;;5;CAÑETE;6;COAYLLO
+Peru;PER;15;LIMA;;5;CAÑETE;7;IMPERIAL
+Peru;PER;15;LIMA;;5;CAÑETE;8;LUNAHUANA
+Peru;PER;15;LIMA;;5;CAÑETE;9;MALA
+Peru;PER;15;LIMA;;5;CAÑETE;10;NUEVO IMPERIAL
+Peru;PER;15;LIMA;;5;CAÑETE;11;PACARAN
+Peru;PER;15;LIMA;;5;CAÑETE;12;QUILMANA
+Peru;PER;15;LIMA;;5;CAÑETE;13;SAN ANTONIO
+Peru;PER;15;LIMA;;5;CAÑETE;14;SAN LUIS
+Peru;PER;15;LIMA;;5;CAÑETE;15;SANTA CRUZ DE FLORES
+Peru;PER;15;LIMA;;5;CAÑETE;16;ZUÑIGA
+Peru;PER;15;LIMA;;6;HUARAL;1;HUARAL
+Peru;PER;15;LIMA;;6;HUARAL;2;ATAVILLOS ALTO
+Peru;PER;15;LIMA;;6;HUARAL;3;ATAVILLOS BAJO
+Peru;PER;15;LIMA;;6;HUARAL;4;AUCALLAMA
+Peru;PER;15;LIMA;;6;HUARAL;5;CHANCAY
+Peru;PER;15;LIMA;;6;HUARAL;6;IHUARI
+Peru;PER;15;LIMA;;6;HUARAL;7;LAMPIAN
+Peru;PER;15;LIMA;;6;HUARAL;8;PACARAOS
+Peru;PER;15;LIMA;;6;HUARAL;9;SAN MIGUEL DE ACOS
+Peru;PER;15;LIMA;;6;HUARAL;10;SANTA CRUZ DE ANDAMARCA
+Peru;PER;15;LIMA;;6;HUARAL;11;SUMBILCA
+Peru;PER;15;LIMA;;6;HUARAL;12;VEINTISIETE DE NOVIEMBRE
+Peru;PER;15;LIMA;;7;HUAROCHIRI;1;MATUCANA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;2;ANTIOQUIA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;3;CALLAHUANCA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;4;CARAMPOMA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;5;CHICLA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;6;CUENCA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;7;HUACHUPAMPA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;8;HUANZA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;9;HUAROCHIRI
+Peru;PER;15;LIMA;;7;HUAROCHIRI;10;LAHUAYTAMBO
+Peru;PER;15;LIMA;;7;HUAROCHIRI;11;LANGA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;12;LARAOS
+Peru;PER;15;LIMA;;7;HUAROCHIRI;13;MARIATANA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;14;RICARDO PALMA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;15;SAN ANDRES DE TUPICOCHA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;16;SAN ANTONIO
+Peru;PER;15;LIMA;;7;HUAROCHIRI;17;SAN BARTOLOME
+Peru;PER;15;LIMA;;7;HUAROCHIRI;18;SAN DAMIAN
+Peru;PER;15;LIMA;;7;HUAROCHIRI;19;SAN JUAN DE IRIS
+Peru;PER;15;LIMA;;7;HUAROCHIRI;20;SAN JUAN DE TANTARANCHE
+Peru;PER;15;LIMA;;7;HUAROCHIRI;21;SAN LORENZO DE QUINTI
+Peru;PER;15;LIMA;;7;HUAROCHIRI;22;SAN MATEO
+Peru;PER;15;LIMA;;7;HUAROCHIRI;23;SAN MATEO DE OTAO
+Peru;PER;15;LIMA;;7;HUAROCHIRI;24;SAN PEDRO DE CASTA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;25;SAN PEDRO DE HUANCAYRE
+Peru;PER;15;LIMA;;7;HUAROCHIRI;26;SANGALLAYA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;27;SANTA CRUZ DE COCACHACRA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;28;SANTA EULALIA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;29;SANTIAGO DE ANCHUCAYA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;30;SANTIAGO DE TUNA
+Peru;PER;15;LIMA;;7;HUAROCHIRI;31;SANTO DOMINGO DE LOS OLLEROS
+Peru;PER;15;LIMA;;7;HUAROCHIRI;32;SURCO
+Peru;PER;15;LIMA;;8;HUAURA;1;HUACHO
+Peru;PER;15;LIMA;;8;HUAURA;2;AMBAR
+Peru;PER;15;LIMA;;8;HUAURA;3;CALETA DE CARQUIN
+Peru;PER;15;LIMA;;8;HUAURA;4;CHECRAS
+Peru;PER;15;LIMA;;8;HUAURA;5;HUALMAY
+Peru;PER;15;LIMA;;8;HUAURA;6;HUAURA
+Peru;PER;15;LIMA;;8;HUAURA;7;LEONCIO PRADO
+Peru;PER;15;LIMA;;8;HUAURA;8;PACCHO
+Peru;PER;15;LIMA;;8;HUAURA;9;SANTA LEONOR
+Peru;PER;15;LIMA;;8;HUAURA;10;SANTA MARIA
+Peru;PER;15;LIMA;;8;HUAURA;11;SAYAN
+Peru;PER;15;LIMA;;8;HUAURA;12;VEGUETA
+Peru;PER;15;LIMA;;9;OYON;1;OYON
+Peru;PER;15;LIMA;;9;OYON;2;ANDAJES
+Peru;PER;15;LIMA;;9;OYON;3;CAUJUL
+Peru;PER;15;LIMA;;9;OYON;4;COCHAMARCA
+Peru;PER;15;LIMA;;9;OYON;5;NAVAN
+Peru;PER;15;LIMA;;9;OYON;6;PACHANGARA
+Peru;PER;15;LIMA;;10;YAUYOS;1;YAUYOS
+Peru;PER;15;LIMA;;10;YAUYOS;2;ALIS
+Peru;PER;15;LIMA;;10;YAUYOS;3;ALLAUCA
+Peru;PER;15;LIMA;;10;YAUYOS;4;AYAVIRI
+Peru;PER;15;LIMA;;10;YAUYOS;5;AZANGARO
+Peru;PER;15;LIMA;;10;YAUYOS;6;CACRA
+Peru;PER;15;LIMA;;10;YAUYOS;7;CARANIA
+Peru;PER;15;LIMA;;10;YAUYOS;8;CATAHUASI
+Peru;PER;15;LIMA;;10;YAUYOS;9;CHOCOS
+Peru;PER;15;LIMA;;10;YAUYOS;10;COCHAS
+Peru;PER;15;LIMA;;10;YAUYOS;11;COLONIA
+Peru;PER;15;LIMA;;10;YAUYOS;12;HONGOS
+Peru;PER;15;LIMA;;10;YAUYOS;13;HUAMPARA
+Peru;PER;15;LIMA;;10;YAUYOS;14;HUANCAYA
+Peru;PER;15;LIMA;;10;YAUYOS;15;HUANGASCAR
+Peru;PER;15;LIMA;;10;YAUYOS;16;HUANTAN
+Peru;PER;15;LIMA;;10;YAUYOS;17;HUAÑEC
+Peru;PER;15;LIMA;;10;YAUYOS;18;LARAOS
+Peru;PER;15;LIMA;;10;YAUYOS;19;LINCHA
+Peru;PER;15;LIMA;;10;YAUYOS;20;MADEAN
+Peru;PER;15;LIMA;;10;YAUYOS;21;MIRAFLORES
+Peru;PER;15;LIMA;;10;YAUYOS;22;OMAS
+Peru;PER;15;LIMA;;10;YAUYOS;23;PUTINZA
+Peru;PER;15;LIMA;;10;YAUYOS;24;QUINCHES
+Peru;PER;15;LIMA;;10;YAUYOS;25;QUINOCAY
+Peru;PER;15;LIMA;;10;YAUYOS;26;SAN JOAQUIN
+Peru;PER;15;LIMA;;10;YAUYOS;27;SAN PEDRO DE PILAS
+Peru;PER;15;LIMA;;10;YAUYOS;28;TANTA
+Peru;PER;15;LIMA;;10;YAUYOS;29;TAURIPAMPA
+Peru;PER;15;LIMA;;10;YAUYOS;30;TOMAS
+Peru;PER;15;LIMA;;10;YAUYOS;31;TUPE
+Peru;PER;15;LIMA;;10;YAUYOS;32;VIÑAC
+Peru;PER;15;LIMA;;10;YAUYOS;33;VITIS
+Peru;PER;16;LORETO;;1;MAYNAS;1;IQUITOS
+Peru;PER;16;LORETO;;1;MAYNAS;2;ALTO NANAY
+Peru;PER;16;LORETO;;1;MAYNAS;3;FERNANDO LORES
+Peru;PER;16;LORETO;;1;MAYNAS;4;INDIANA
+Peru;PER;16;LORETO;;1;MAYNAS;5;LAS AMAZONAS
+Peru;PER;16;LORETO;;1;MAYNAS;6;MAZAN
+Peru;PER;16;LORETO;;1;MAYNAS;7;NAPO
+Peru;PER;16;LORETO;;1;MAYNAS;8;PUNCHANA
+Peru;PER;16;LORETO;;1;MAYNAS;9;PUTUMAYO
+Peru;PER;16;LORETO;;1;MAYNAS;10;TORRES CAUSANA
+Peru;PER;16;LORETO;;1;MAYNAS;11;YAQUERANA
+Peru;PER;16;LORETO;;1;MAYNAS;12;BELEN
+Peru;PER;16;LORETO;;1;MAYNAS;13;SAN JUAN BAUTISTA
+Peru;PER;16;LORETO;;1;MAYNAS;14;TENIENTE MANUEL CLAVERO
+Peru;PER;16;LORETO;;2;ALTO AMAZONAS;1;YURIMAGUAS
+Peru;PER;16;LORETO;;2;ALTO AMAZONAS;2;BALSAPUERTO
+Peru;PER;16;LORETO;;2;ALTO AMAZONAS;3;BARRANCA
+Peru;PER;16;LORETO;;2;ALTO AMAZONAS;4;CAHUAPANAS
+Peru;PER;16;LORETO;;2;ALTO AMAZONAS;5;JEBEROS
+Peru;PER;16;LORETO;;2;ALTO AMAZONAS;6;LAGUNAS
+Peru;PER;16;LORETO;;2;ALTO AMAZONAS;7;MANSERICHE
+Peru;PER;16;LORETO;;2;ALTO AMAZONAS;8;MORONA
+Peru;PER;16;LORETO;;2;ALTO AMAZONAS;9;PASTAZA
+Peru;PER;16;LORETO;;2;ALTO AMAZONAS;10;SANTA CRUZ
+Peru;PER;16;LORETO;;2;ALTO AMAZONAS;11;TENIENTE CESAR LOPEZ ROJAS
+Peru;PER;16;LORETO;;3;LORETO;1;NAUTA
+Peru;PER;16;LORETO;;3;LORETO;2;PARINARI
+Peru;PER;16;LORETO;;3;LORETO;3;TIGRE
+Peru;PER;16;LORETO;;3;LORETO;4;TROMPETEROS
+Peru;PER;16;LORETO;;3;LORETO;5;URARINAS
+Peru;PER;16;LORETO;;4;MARISCAL RAMON CASTILLA;1;RAMON CASTILLA
+Peru;PER;16;LORETO;;4;MARISCAL RAMON CASTILLA;2;PEBAS
+Peru;PER;16;LORETO;;4;MARISCAL RAMON CASTILLA;3;YAVARI
+Peru;PER;16;LORETO;;4;MARISCAL RAMON CASTILLA;4;SAN PABLO
+Peru;PER;16;LORETO;;5;REQUENA;1;REQUENA
+Peru;PER;16;LORETO;;5;REQUENA;2;ALTO TAPICHE
+Peru;PER;16;LORETO;;5;REQUENA;3;CAPELO
+Peru;PER;16;LORETO;;5;REQUENA;4;EMILIO SAN MARTIN
+Peru;PER;16;LORETO;;5;REQUENA;5;MAQUIA
+Peru;PER;16;LORETO;;5;REQUENA;6;PUINAHUA
+Peru;PER;16;LORETO;;5;REQUENA;7;SAQUENA
+Peru;PER;16;LORETO;;5;REQUENA;8;SOPLIN
+Peru;PER;16;LORETO;;5;REQUENA;9;TAPICHE
+Peru;PER;16;LORETO;;5;REQUENA;10;JENARO HERRERA
+Peru;PER;16;LORETO;;5;REQUENA;11;YAQUERANA
+Peru;PER;16;LORETO;;6;UCAYALI;1;CONTAMANA
+Peru;PER;16;LORETO;;6;UCAYALI;2;INAHUAYA
+Peru;PER;16;LORETO;;6;UCAYALI;3;PADRE MARQUEZ
+Peru;PER;16;LORETO;;6;UCAYALI;4;PAMPA HERMOSA
+Peru;PER;16;LORETO;;6;UCAYALI;5;SARAYACU
+Peru;PER;16;LORETO;;6;UCAYALI;6;VARGAS GUERRA
+Peru;PER;16;LORETO;;7;DATEM DEL MARAÑON;1;BARRANCA
+Peru;PER;16;LORETO;;7;DATEM DEL MARAÑON;2;CAHUAPANAS
+Peru;PER;16;LORETO;;7;DATEM DEL MARAÑON;3;MANSERICHE
+Peru;PER;16;LORETO;;7;DATEM DEL MARAÑON;4;MORONA
+Peru;PER;16;LORETO;;7;DATEM DEL MARAÑON;5;PASTAZA
+Peru;PER;16;LORETO;;7;DATEM DEL MARAÑON;6;ANDOAS
+Peru;PER;17;MADRE DE DIOS;;1;TAMBOPATA;1;TAMBOPATA
+Peru;PER;17;MADRE DE DIOS;;1;TAMBOPATA;2;INAMBARI
+Peru;PER;17;MADRE DE DIOS;;1;TAMBOPATA;3;LAS PIEDRAS
+Peru;PER;17;MADRE DE DIOS;;1;TAMBOPATA;4;LABERINTO
+Peru;PER;17;MADRE DE DIOS;;2;MANU;1;MANU
+Peru;PER;17;MADRE DE DIOS;;2;MANU;2;FITZCARRALD
+Peru;PER;17;MADRE DE DIOS;;2;MANU;3;MADRE DE DIOS
+Peru;PER;17;MADRE DE DIOS;;2;MANU;4;HUEPETUHE
+Peru;PER;17;MADRE DE DIOS;;3;TAHUAMANU;1;IÑAPARI
+Peru;PER;17;MADRE DE DIOS;;3;TAHUAMANU;2;IBERIA
+Peru;PER;17;MADRE DE DIOS;;3;TAHUAMANU;3;TAHUAMANU
+Peru;PER;18;MOQUEGUA;;1;MARISCAL NIETO;1;MOQUEGUA
+Peru;PER;18;MOQUEGUA;;1;MARISCAL NIETO;2;CARUMAS
+Peru;PER;18;MOQUEGUA;;1;MARISCAL NIETO;3;CUCHUMBAYA
+Peru;PER;18;MOQUEGUA;;1;MARISCAL NIETO;4;SAMEGUA
+Peru;PER;18;MOQUEGUA;;1;MARISCAL NIETO;5;SAN CRISTOBAL
+Peru;PER;18;MOQUEGUA;;1;MARISCAL NIETO;6;TORATA
+Peru;PER;18;MOQUEGUA;;2;GENERAL SANCHEZ CERRO;1;OMATE
+Peru;PER;18;MOQUEGUA;;2;GENERAL SANCHEZ CERRO;2;CHOJATA
+Peru;PER;18;MOQUEGUA;;2;GENERAL SANCHEZ CERRO;3;COALAQUE
+Peru;PER;18;MOQUEGUA;;2;GENERAL SANCHEZ CERRO;4;ICHUÑA
+Peru;PER;18;MOQUEGUA;;2;GENERAL SANCHEZ CERRO;5;LA CAPILLA
+Peru;PER;18;MOQUEGUA;;2;GENERAL SANCHEZ CERRO;6;LLOQUE
+Peru;PER;18;MOQUEGUA;;2;GENERAL SANCHEZ CERRO;7;MATALAQUE
+Peru;PER;18;MOQUEGUA;;2;GENERAL SANCHEZ CERRO;8;PUQUINA
+Peru;PER;18;MOQUEGUA;;2;GENERAL SANCHEZ CERRO;9;QUINISTAQUILLAS
+Peru;PER;18;MOQUEGUA;;2;GENERAL SANCHEZ CERRO;10;UBINAS
+Peru;PER;18;MOQUEGUA;;2;GENERAL SANCHEZ CERRO;11;YUNGA
+Peru;PER;18;MOQUEGUA;;3;ILO;1;ILO
+Peru;PER;18;MOQUEGUA;;3;ILO;2;EL ALGARROBAL
+Peru;PER;18;MOQUEGUA;;3;ILO;3;PACOCHA
+Peru;PER;19;PASCO;;1;PASCO;1;CHAUPIMARCA
+Peru;PER;19;PASCO;;1;PASCO;2;HUACHON
+Peru;PER;19;PASCO;;1;PASCO;3;HUARIACA
+Peru;PER;19;PASCO;;1;PASCO;4;HUAYLLAY
+Peru;PER;19;PASCO;;1;PASCO;5;NINACACA
+Peru;PER;19;PASCO;;1;PASCO;6;PALLANCHACRA
+Peru;PER;19;PASCO;;1;PASCO;7;PAUCARTAMBO
+Peru;PER;19;PASCO;;1;PASCO;8;SAN FRANCISCO DE ASIS DE YARUSYACAN
+Peru;PER;19;PASCO;;1;PASCO;9;SIMON BOLIVAR
+Peru;PER;19;PASCO;;1;PASCO;10;TICLACAYAN
+Peru;PER;19;PASCO;;1;PASCO;11;TINYAHUARCO
+Peru;PER;19;PASCO;;1;PASCO;12;VICCO
+Peru;PER;19;PASCO;;1;PASCO;13;YANACANCHA
+Peru;PER;19;PASCO;;2;DANIEL ALCIDES CARRION;1;YANAHUANCA
+Peru;PER;19;PASCO;;2;DANIEL ALCIDES CARRION;2;CHACAYAN
+Peru;PER;19;PASCO;;2;DANIEL ALCIDES CARRION;3;GOYLLARISQUIZGA
+Peru;PER;19;PASCO;;2;DANIEL ALCIDES CARRION;4;PAUCAR
+Peru;PER;19;PASCO;;2;DANIEL ALCIDES CARRION;5;SAN PEDRO DE PILLAO
+Peru;PER;19;PASCO;;2;DANIEL ALCIDES CARRION;6;SANTA ANA DE TUSI
+Peru;PER;19;PASCO;;2;DANIEL ALCIDES CARRION;7;TAPUC
+Peru;PER;19;PASCO;;2;DANIEL ALCIDES CARRION;8;VILCABAMBA
+Peru;PER;19;PASCO;;3;OXAPAMPA;1;OXAPAMPA
+Peru;PER;19;PASCO;;3;OXAPAMPA;2;CHONTABAMBA
+Peru;PER;19;PASCO;;3;OXAPAMPA;3;HUANCABAMBA
+Peru;PER;19;PASCO;;3;OXAPAMPA;4;PALCAZU
+Peru;PER;19;PASCO;;3;OXAPAMPA;5;POZUZO
+Peru;PER;19;PASCO;;3;OXAPAMPA;6;PUERTO BERMUDEZ
+Peru;PER;19;PASCO;;3;OXAPAMPA;7;VILLA RICA
+Peru;PER;20;PIURA;;1;PIURA;1;PIURA
+Peru;PER;20;PIURA;;1;PIURA;2;BELLAVISTA DE LA UNION
+Peru;PER;20;PIURA;;1;PIURA;3;BERNAL
+Peru;PER;20;PIURA;;1;PIURA;4;CASTILLA
+Peru;PER;20;PIURA;;1;PIURA;5;CATACAOS
+Peru;PER;20;PIURA;;1;PIURA;6;CRISTO NOS VALGA
+Peru;PER;20;PIURA;;1;PIURA;7;CURA MORI
+Peru;PER;20;PIURA;;1;PIURA;8;EL TALLAN
+Peru;PER;20;PIURA;;1;PIURA;9;LA ARENA
+Peru;PER;20;PIURA;;1;PIURA;10;LA UNION
+Peru;PER;20;PIURA;;1;PIURA;11;LAS LOMAS
+Peru;PER;20;PIURA;;1;PIURA;12;RINCONADA LLICUAR
+Peru;PER;20;PIURA;;1;PIURA;13;SECHURA
+Peru;PER;20;PIURA;;1;PIURA;14;TAMBO GRANDE
+Peru;PER;20;PIURA;;1;PIURA;15;VICE
+Peru;PER;20;PIURA;;2;AYABACA;1;AYABACA
+Peru;PER;20;PIURA;;2;AYABACA;2;FRIAS
+Peru;PER;20;PIURA;;2;AYABACA;3;JILILI
+Peru;PER;20;PIURA;;2;AYABACA;4;LAGUNAS
+Peru;PER;20;PIURA;;2;AYABACA;5;MONTERO
+Peru;PER;20;PIURA;;2;AYABACA;6;PACAIPAMPA
+Peru;PER;20;PIURA;;2;AYABACA;7;PAIMAS
+Peru;PER;20;PIURA;;2;AYABACA;8;SAPILLICA
+Peru;PER;20;PIURA;;2;AYABACA;9;SICCHEZ
+Peru;PER;20;PIURA;;2;AYABACA;10;SUYO
+Peru;PER;20;PIURA;;3;HUANCABAMBA;1;HUANCABAMBA
+Peru;PER;20;PIURA;;3;HUANCABAMBA;2;CANCHAQUE
+Peru;PER;20;PIURA;;3;HUANCABAMBA;3;EL CARMEN DE LA FRONTERA
+Peru;PER;20;PIURA;;3;HUANCABAMBA;4;HUARMACA
+Peru;PER;20;PIURA;;3;HUANCABAMBA;5;LALAQUIZ
+Peru;PER;20;PIURA;;3;HUANCABAMBA;6;SAN MIGUEL DE EL FAIQUE
+Peru;PER;20;PIURA;;3;HUANCABAMBA;7;SONDOR
+Peru;PER;20;PIURA;;3;HUANCABAMBA;8;SONDORILLO
+Peru;PER;20;PIURA;;4;MORROPON;1;CHULUCANAS
+Peru;PER;20;PIURA;;4;MORROPON;2;BUENOS AIRES
+Peru;PER;20;PIURA;;4;MORROPON;3;CHALACO
+Peru;PER;20;PIURA;;4;MORROPON;4;LA MATANZA
+Peru;PER;20;PIURA;;4;MORROPON;5;MORROPON
+Peru;PER;20;PIURA;;4;MORROPON;6;SALITRAL
+Peru;PER;20;PIURA;;4;MORROPON;7;SAN JUAN DE BIGOTE
+Peru;PER;20;PIURA;;4;MORROPON;8;SANTA CATALINA DE MOSSA
+Peru;PER;20;PIURA;;4;MORROPON;9;SANTO DOMINGO
+Peru;PER;20;PIURA;;4;MORROPON;10;YAMANGO
+Peru;PER;20;PIURA;;5;PAITA;1;PAITA
+Peru;PER;20;PIURA;;5;PAITA;2;AMOTAPE
+Peru;PER;20;PIURA;;5;PAITA;3;ARENAL
+Peru;PER;20;PIURA;;5;PAITA;4;COLAN
+Peru;PER;20;PIURA;;5;PAITA;5;LA HUACA
+Peru;PER;20;PIURA;;5;PAITA;6;TAMARINDO
+Peru;PER;20;PIURA;;5;PAITA;7;VICHAYAL
+Peru;PER;20;PIURA;;6;SULLANA;1;SULLANA
+Peru;PER;20;PIURA;;6;SULLANA;2;BELLAVISTA
+Peru;PER;20;PIURA;;6;SULLANA;3;IGNACIO ESCUDERO
+Peru;PER;20;PIURA;;6;SULLANA;4;LANCONES
+Peru;PER;20;PIURA;;6;SULLANA;5;MARCAVELICA
+Peru;PER;20;PIURA;;6;SULLANA;6;MIGUEL CHECA
+Peru;PER;20;PIURA;;6;SULLANA;7;QUERECOTILLO
+Peru;PER;20;PIURA;;6;SULLANA;8;SALITRAL
+Peru;PER;20;PIURA;;7;TALARA;1;PARIÑAS
+Peru;PER;20;PIURA;;7;TALARA;2;EL ALTO
+Peru;PER;20;PIURA;;7;TALARA;3;LA BREA
+Peru;PER;20;PIURA;;7;TALARA;4;LOBITOS
+Peru;PER;20;PIURA;;7;TALARA;5;LOS ORGANOS
+Peru;PER;20;PIURA;;7;TALARA;6;MANCORA
+Peru;PER;20;PIURA;;8;SECHURA;1;SECHURA
+Peru;PER;20;PIURA;;8;SECHURA;2;BELLAVISTA DE LA UNION
+Peru;PER;20;PIURA;;8;SECHURA;3;BERNAL
+Peru;PER;20;PIURA;;8;SECHURA;4;CRISTO NOS VALGA
+Peru;PER;20;PIURA;;8;SECHURA;5;VICE
+Peru;PER;20;PIURA;;8;SECHURA;6;RINCONADA LLICUAR
+Peru;PER;21;PUNO;;1;PUNO;1;PUNO
+Peru;PER;21;PUNO;;1;PUNO;2;ACORA
+Peru;PER;21;PUNO;;1;PUNO;3;AMANTANI
+Peru;PER;21;PUNO;;1;PUNO;4;ATUNCOLLA
+Peru;PER;21;PUNO;;1;PUNO;5;CAPACHICA
+Peru;PER;21;PUNO;;1;PUNO;6;CHUCUITO
+Peru;PER;21;PUNO;;1;PUNO;7;COATA
+Peru;PER;21;PUNO;;1;PUNO;8;HUATA
+Peru;PER;21;PUNO;;1;PUNO;9;MAÑAZO
+Peru;PER;21;PUNO;;1;PUNO;10;PAUCARCOLLA
+Peru;PER;21;PUNO;;1;PUNO;11;PICHACANI
+Peru;PER;21;PUNO;;1;PUNO;12;PLATERIA
+Peru;PER;21;PUNO;;1;PUNO;13;SAN ANTONIO
+Peru;PER;21;PUNO;;1;PUNO;14;TIQUILLACA
+Peru;PER;21;PUNO;;1;PUNO;15;VILQUE
+Peru;PER;21;PUNO;;2;AZANGARO;1;AZANGARO
+Peru;PER;21;PUNO;;2;AZANGARO;2;ACHAYA
+Peru;PER;21;PUNO;;2;AZANGARO;3;ARAPA
+Peru;PER;21;PUNO;;2;AZANGARO;4;ASILLO
+Peru;PER;21;PUNO;;2;AZANGARO;5;CAMINACA
+Peru;PER;21;PUNO;;2;AZANGARO;6;CHUPA
+Peru;PER;21;PUNO;;2;AZANGARO;7;JOSE DOMINGO CHOQUEHUANCA
+Peru;PER;21;PUNO;;2;AZANGARO;8;MUÑANI
+Peru;PER;21;PUNO;;2;AZANGARO;9;POTONI
+Peru;PER;21;PUNO;;2;AZANGARO;10;SAMAN
+Peru;PER;21;PUNO;;2;AZANGARO;11;SAN ANTON
+Peru;PER;21;PUNO;;2;AZANGARO;12;SAN JOSE
+Peru;PER;21;PUNO;;2;AZANGARO;13;SAN JUAN DE SALINAS
+Peru;PER;21;PUNO;;2;AZANGARO;14;SANTIAGO DE PUPUJA
+Peru;PER;21;PUNO;;2;AZANGARO;15;TIRAPATA
+Peru;PER;21;PUNO;;3;CARABAYA;1;MACUSANI
+Peru;PER;21;PUNO;;3;CARABAYA;2;AJOYANI
+Peru;PER;21;PUNO;;3;CARABAYA;3;AYAPATA
+Peru;PER;21;PUNO;;3;CARABAYA;4;COASA
+Peru;PER;21;PUNO;;3;CARABAYA;5;CORANI
+Peru;PER;21;PUNO;;3;CARABAYA;6;CRUCERO
+Peru;PER;21;PUNO;;3;CARABAYA;7;ITUATA
+Peru;PER;21;PUNO;;3;CARABAYA;8;OLLACHEA
+Peru;PER;21;PUNO;;3;CARABAYA;9;SAN GABAN
+Peru;PER;21;PUNO;;3;CARABAYA;10;USICAYOS
+Peru;PER;21;PUNO;;4;CHUCUITO;1;JULI
+Peru;PER;21;PUNO;;4;CHUCUITO;2;DESAGUADERO
+Peru;PER;21;PUNO;;4;CHUCUITO;3;HUACULLANI
+Peru;PER;21;PUNO;;4;CHUCUITO;4;KELLUYO
+Peru;PER;21;PUNO;;4;CHUCUITO;5;PISACOMA
+Peru;PER;21;PUNO;;4;CHUCUITO;6;POMATA
+Peru;PER;21;PUNO;;4;CHUCUITO;7;ZEPITA
+Peru;PER;21;PUNO;;5;EL COLLAO;1;ILAVE
+Peru;PER;21;PUNO;;5;EL COLLAO;2;CAPAZO
+Peru;PER;21;PUNO;;5;EL COLLAO;3;PILCUYO
+Peru;PER;21;PUNO;;5;EL COLLAO;4;SANTA ROSA
+Peru;PER;21;PUNO;;5;EL COLLAO;5;CONDURIRI
+Peru;PER;21;PUNO;;6;HUANCANE;1;HUANCANE
+Peru;PER;21;PUNO;;6;HUANCANE;2;COJATA
+Peru;PER;21;PUNO;;6;HUANCANE;3;HUATASANI
+Peru;PER;21;PUNO;;6;HUANCANE;4;INCHUPALLA
+Peru;PER;21;PUNO;;6;HUANCANE;5;PUSI
+Peru;PER;21;PUNO;;6;HUANCANE;6;ROSASPATA
+Peru;PER;21;PUNO;;6;HUANCANE;7;TARACO
+Peru;PER;21;PUNO;;6;HUANCANE;8;VILQUE CHICO
+Peru;PER;21;PUNO;;7;LAMPA;1;LAMPA
+Peru;PER;21;PUNO;;7;LAMPA;2;CABANILLA
+Peru;PER;21;PUNO;;7;LAMPA;3;CALAPUJA
+Peru;PER;21;PUNO;;7;LAMPA;4;NICASIO
+Peru;PER;21;PUNO;;7;LAMPA;5;OCUVIRI
+Peru;PER;21;PUNO;;7;LAMPA;6;PALCA
+Peru;PER;21;PUNO;;7;LAMPA;7;PARATIA
+Peru;PER;21;PUNO;;7;LAMPA;8;PUCARA
+Peru;PER;21;PUNO;;7;LAMPA;9;SANTA LUCIA
+Peru;PER;21;PUNO;;7;LAMPA;10;VILAVILA
+Peru;PER;21;PUNO;;8;MELGAR;1;AYAVIRI
+Peru;PER;21;PUNO;;8;MELGAR;2;ANTAUTA
+Peru;PER;21;PUNO;;8;MELGAR;3;CUPI
+Peru;PER;21;PUNO;;8;MELGAR;4;LLALLI
+Peru;PER;21;PUNO;;8;MELGAR;5;MACARI
+Peru;PER;21;PUNO;;8;MELGAR;6;NUÑOA
+Peru;PER;21;PUNO;;8;MELGAR;7;ORURILLO
+Peru;PER;21;PUNO;;8;MELGAR;8;SANTA ROSA
+Peru;PER;21;PUNO;;8;MELGAR;9;UMACHIRI
+Peru;PER;21;PUNO;;9;MOHO;1;MOHO
+Peru;PER;21;PUNO;;9;MOHO;2;CONIMA
+Peru;PER;21;PUNO;;9;MOHO;3;HUAYRAPATA
+Peru;PER;21;PUNO;;9;MOHO;4;TILALI
+Peru;PER;21;PUNO;;10;SAN ANTONIO DE PUTINA;1;PUTINA
+Peru;PER;21;PUNO;;10;SAN ANTONIO DE PUTINA;2;ANANEA
+Peru;PER;21;PUNO;;10;SAN ANTONIO DE PUTINA;3;PEDRO VILCA APAZA
+Peru;PER;21;PUNO;;10;SAN ANTONIO DE PUTINA;4;QUILCAPUNCU
+Peru;PER;21;PUNO;;10;SAN ANTONIO DE PUTINA;5;SINA
+Peru;PER;21;PUNO;;11;SAN ROMAN;1;JULIACA
+Peru;PER;21;PUNO;;11;SAN ROMAN;2;CABANA
+Peru;PER;21;PUNO;;11;SAN ROMAN;3;CABANILLAS
+Peru;PER;21;PUNO;;11;SAN ROMAN;4;CARACOTO
+Peru;PER;21;PUNO;;12;SANDIA;1;SANDIA
+Peru;PER;21;PUNO;;12;SANDIA;2;CUYOCUYO
+Peru;PER;21;PUNO;;12;SANDIA;3;LIMBANI
+Peru;PER;21;PUNO;;12;SANDIA;4;PATAMBUCO
+Peru;PER;21;PUNO;;12;SANDIA;5;PHARA
+Peru;PER;21;PUNO;;12;SANDIA;6;QUIACA
+Peru;PER;21;PUNO;;12;SANDIA;7;SAN JUAN DEL ORO
+Peru;PER;21;PUNO;;12;SANDIA;8;YANAHUAYA
+Peru;PER;21;PUNO;;12;SANDIA;9;ALTO INAMBARI
+Peru;PER;21;PUNO;;12;SANDIA;10;SAN PEDRO DE PUTINA PUNCO
+Peru;PER;21;PUNO;;13;YUNGUYO;1;YUNGUYO
+Peru;PER;21;PUNO;;13;YUNGUYO;2;ANAPIA
+Peru;PER;21;PUNO;;13;YUNGUYO;3;COPANI
+Peru;PER;21;PUNO;;13;YUNGUYO;4;CUTURAPI
+Peru;PER;21;PUNO;;13;YUNGUYO;5;OLLARAYA
+Peru;PER;21;PUNO;;13;YUNGUYO;6;TINICACHI
+Peru;PER;21;PUNO;;13;YUNGUYO;7;UNICACHI
+Peru;PER;22;SAN MARTIN;;1;MOYOBAMBA;1;MOYOBAMBA
+Peru;PER;22;SAN MARTIN;;1;MOYOBAMBA;2;CALZADA
+Peru;PER;22;SAN MARTIN;;1;MOYOBAMBA;3;HABANA
+Peru;PER;22;SAN MARTIN;;1;MOYOBAMBA;4;JEPELACIO
+Peru;PER;22;SAN MARTIN;;1;MOYOBAMBA;5;SORITOR
+Peru;PER;22;SAN MARTIN;;1;MOYOBAMBA;6;YANTALO
+Peru;PER;22;SAN MARTIN;;2;BELLAVISTA;1;BELLAVISTA
+Peru;PER;22;SAN MARTIN;;2;BELLAVISTA;2;ALTO BIAVO
+Peru;PER;22;SAN MARTIN;;2;BELLAVISTA;3;BAJO BIAVO
+Peru;PER;22;SAN MARTIN;;2;BELLAVISTA;4;HUALLAGA
+Peru;PER;22;SAN MARTIN;;2;BELLAVISTA;5;SAN PABLO
+Peru;PER;22;SAN MARTIN;;2;BELLAVISTA;6;SAN RAFAEL
+Peru;PER;22;SAN MARTIN;;3;EL DORADO;1;SAN JOSE DE SISA
+Peru;PER;22;SAN MARTIN;;3;EL DORADO;2;AGUA BLANCA
+Peru;PER;22;SAN MARTIN;;3;EL DORADO;3;SAN MARTIN
+Peru;PER;22;SAN MARTIN;;3;EL DORADO;4;SANTA ROSA
+Peru;PER;22;SAN MARTIN;;3;EL DORADO;5;SHATOJA
+Peru;PER;22;SAN MARTIN;;4;HUALLAGA;1;SAPOSOA
+Peru;PER;22;SAN MARTIN;;4;HUALLAGA;2;ALTO SAPOSOA
+Peru;PER;22;SAN MARTIN;;4;HUALLAGA;3;EL ESLABON
+Peru;PER;22;SAN MARTIN;;4;HUALLAGA;4;PISCOYACU
+Peru;PER;22;SAN MARTIN;;4;HUALLAGA;5;SACANCHE
+Peru;PER;22;SAN MARTIN;;4;HUALLAGA;6;TINGO DE SAPOSOA
+Peru;PER;22;SAN MARTIN;;5;LAMAS;1;LAMAS
+Peru;PER;22;SAN MARTIN;;5;LAMAS;2;ALONSO DE ALVARADO
+Peru;PER;22;SAN MARTIN;;5;LAMAS;3;BARRANQUITA
+Peru;PER;22;SAN MARTIN;;5;LAMAS;4;CAYNARACHI
+Peru;PER;22;SAN MARTIN;;5;LAMAS;5;CUÑUMBUQUI
+Peru;PER;22;SAN MARTIN;;5;LAMAS;6;PINTO RECODO
+Peru;PER;22;SAN MARTIN;;5;LAMAS;7;RUMISAPA
+Peru;PER;22;SAN MARTIN;;5;LAMAS;8;SAN ROQUE DE CUMBAZA
+Peru;PER;22;SAN MARTIN;;5;LAMAS;9;SHANAO
+Peru;PER;22;SAN MARTIN;;5;LAMAS;10;TABALOSOS
+Peru;PER;22;SAN MARTIN;;5;LAMAS;11;ZAPATERO
+Peru;PER;22;SAN MARTIN;;6;MARISCAL CACERES;1;JUANJUI
+Peru;PER;22;SAN MARTIN;;6;MARISCAL CACERES;2;CAMPANILLA
+Peru;PER;22;SAN MARTIN;;6;MARISCAL CACERES;3;HUICUNGO
+Peru;PER;22;SAN MARTIN;;6;MARISCAL CACERES;4;PACHIZA
+Peru;PER;22;SAN MARTIN;;6;MARISCAL CACERES;5;PAJARILLO
+Peru;PER;22;SAN MARTIN;;7;PICOTA;1;PICOTA
+Peru;PER;22;SAN MARTIN;;7;PICOTA;2;BUENOS AIRES
+Peru;PER;22;SAN MARTIN;;7;PICOTA;3;CASPISAPA
+Peru;PER;22;SAN MARTIN;;7;PICOTA;4;PILLUANA
+Peru;PER;22;SAN MARTIN;;7;PICOTA;5;PUCACACA
+Peru;PER;22;SAN MARTIN;;7;PICOTA;6;SAN CRISTOBAL
+Peru;PER;22;SAN MARTIN;;7;PICOTA;7;SAN HILARION
+Peru;PER;22;SAN MARTIN;;7;PICOTA;8;SHAMBOYACU
+Peru;PER;22;SAN MARTIN;;7;PICOTA;9;TINGO DE PONASA
+Peru;PER;22;SAN MARTIN;;7;PICOTA;10;TRES UNIDOS
+Peru;PER;22;SAN MARTIN;;8;RIOJA;1;RIOJA
+Peru;PER;22;SAN MARTIN;;8;RIOJA;2;AWAJUN
+Peru;PER;22;SAN MARTIN;;8;RIOJA;3;ELIAS SOPLIN VARGAS
+Peru;PER;22;SAN MARTIN;;8;RIOJA;4;NUEVA CAJAMARCA
+Peru;PER;22;SAN MARTIN;;8;RIOJA;5;PARDO MIGUEL
+Peru;PER;22;SAN MARTIN;;8;RIOJA;6;POSIC
+Peru;PER;22;SAN MARTIN;;8;RIOJA;7;SAN FERNANDO
+Peru;PER;22;SAN MARTIN;;8;RIOJA;8;YORONGOS
+Peru;PER;22;SAN MARTIN;;8;RIOJA;9;YURACYACU
+Peru;PER;22;SAN MARTIN;;9;SAN MARTIN;1;TARAPOTO
+Peru;PER;22;SAN MARTIN;;9;SAN MARTIN;2;ALBERTO LEVEAU
+Peru;PER;22;SAN MARTIN;;9;SAN MARTIN;3;CACATACHI
+Peru;PER;22;SAN MARTIN;;9;SAN MARTIN;4;CHAZUTA
+Peru;PER;22;SAN MARTIN;;9;SAN MARTIN;5;CHIPURANA
+Peru;PER;22;SAN MARTIN;;9;SAN MARTIN;6;EL PORVENIR
+Peru;PER;22;SAN MARTIN;;9;SAN MARTIN;7;HUIMBAYOC
+Peru;PER;22;SAN MARTIN;;9;SAN MARTIN;8;JUAN GUERRA
+Peru;PER;22;SAN MARTIN;;9;SAN MARTIN;9;LA BANDA DE SHILCAYO
+Peru;PER;22;SAN MARTIN;;9;SAN MARTIN;10;MORALES
+Peru;PER;22;SAN MARTIN;;9;SAN MARTIN;11;PAPAPLAYA
+Peru;PER;22;SAN MARTIN;;9;SAN MARTIN;12;SAN ANTONIO
+Peru;PER;22;SAN MARTIN;;9;SAN MARTIN;13;SAUCE
+Peru;PER;22;SAN MARTIN;;9;SAN MARTIN;14;SHAPAJA
+Peru;PER;22;SAN MARTIN;;10;TOCACHE;1;TOCACHE
+Peru;PER;22;SAN MARTIN;;10;TOCACHE;2;NUEVO PROGRESO
+Peru;PER;22;SAN MARTIN;;10;TOCACHE;3;POLVORA
+Peru;PER;22;SAN MARTIN;;10;TOCACHE;4;SHUNTE
+Peru;PER;22;SAN MARTIN;;10;TOCACHE;5;UCHIZA
+Peru;PER;23;TACNA;;1;TACNA;1;TACNA
+Peru;PER;23;TACNA;;1;TACNA;2;ALTO DE LA ALIANZA
+Peru;PER;23;TACNA;;1;TACNA;3;CALANA
+Peru;PER;23;TACNA;;1;TACNA;4;CIUDAD NUEVA
+Peru;PER;23;TACNA;;1;TACNA;5;INCLAN
+Peru;PER;23;TACNA;;1;TACNA;6;PACHIA
+Peru;PER;23;TACNA;;1;TACNA;7;PALCA
+Peru;PER;23;TACNA;;1;TACNA;8;POCOLLAY
+Peru;PER;23;TACNA;;1;TACNA;9;SAMA
+Peru;PER;23;TACNA;;1;TACNA;10;CORONEL GREGORIO ALBARRACIN LANCHIPA
+Peru;PER;23;TACNA;;2;CANDARAVE;1;CANDARAVE
+Peru;PER;23;TACNA;;2;CANDARAVE;2;CAIRANI
+Peru;PER;23;TACNA;;2;CANDARAVE;3;CAMILACA
+Peru;PER;23;TACNA;;2;CANDARAVE;4;CURIBAYA
+Peru;PER;23;TACNA;;2;CANDARAVE;5;HUANUARA
+Peru;PER;23;TACNA;;2;CANDARAVE;6;QUILAHUANI
+Peru;PER;23;TACNA;;3;JORGE BASADRE;1;LOCUMBA
+Peru;PER;23;TACNA;;3;JORGE BASADRE;2;ILABAYA
+Peru;PER;23;TACNA;;3;JORGE BASADRE;3;ITE
+Peru;PER;23;TACNA;;4;TARATA;1;TARATA
+Peru;PER;23;TACNA;;4;TARATA;2;HEROES ALBARRACIN
+Peru;PER;23;TACNA;;4;TARATA;3;ESTIQUE
+Peru;PER;23;TACNA;;4;TARATA;4;ESTIQUE-PAMPA
+Peru;PER;23;TACNA;;4;TARATA;5;SITAJARA
+Peru;PER;23;TACNA;;4;TARATA;6;SUSAPAYA
+Peru;PER;23;TACNA;;4;TARATA;7;TARUCACHI
+Peru;PER;23;TACNA;;4;TARATA;8;TICACO
+Peru;PER;24;TUMBES;;1;TUMBES;1;TUMBES
+Peru;PER;24;TUMBES;;1;TUMBES;2;CORRALES
+Peru;PER;24;TUMBES;;1;TUMBES;3;LA CRUZ
+Peru;PER;24;TUMBES;;1;TUMBES;4;PAMPAS DE HOSPITAL
+Peru;PER;24;TUMBES;;1;TUMBES;5;SAN JACINTO
+Peru;PER;24;TUMBES;;1;TUMBES;6;SAN JUAN DE LA VIRGEN
+Peru;PER;24;TUMBES;;2;CONTRALMIRANTE VILLAR;1;ZORRITOS
+Peru;PER;24;TUMBES;;2;CONTRALMIRANTE VILLAR;2;CASITAS
+Peru;PER;24;TUMBES;;2;CONTRALMIRANTE VILLAR;3;CANOAS DE PUNTA SAL
+Peru;PER;24;TUMBES;;3;ZARUMILLA;1;ZARUMILLA
+Peru;PER;24;TUMBES;;3;ZARUMILLA;2;AGUAS VERDES
+Peru;PER;24;TUMBES;;3;ZARUMILLA;3;MATAPALO
+Peru;PER;24;TUMBES;;3;ZARUMILLA;4;PAPAYAL
+Peru;PER;25;UCAYALI;;1;CORONEL PORTILLO;1;CALLERIA
+Peru;PER;25;UCAYALI;;1;CORONEL PORTILLO;2;CAMPOVERDE
+Peru;PER;25;UCAYALI;;1;CORONEL PORTILLO;3;IPARIA
+Peru;PER;25;UCAYALI;;1;CORONEL PORTILLO;4;MASISEA
+Peru;PER;25;UCAYALI;;1;CORONEL PORTILLO;5;YARINACOCHA
+Peru;PER;25;UCAYALI;;1;CORONEL PORTILLO;6;NUEVA REQUENA
+Peru;PER;25;UCAYALI;;1;CORONEL PORTILLO;7;MANANTAY
+Peru;PER;25;UCAYALI;;2;ATALAYA;1;RAYMONDI
+Peru;PER;25;UCAYALI;;2;ATALAYA;2;SEPAHUA
+Peru;PER;25;UCAYALI;;2;ATALAYA;3;TAHUANIA
+Peru;PER;25;UCAYALI;;2;ATALAYA;4;YURUA
+Peru;PER;25;UCAYALI;;3;PADRE ABAD;1;PADRE ABAD
+Peru;PER;25;UCAYALI;;3;PADRE ABAD;2;IRAZOLA
+Peru;PER;25;UCAYALI;;3;PADRE ABAD;3;CURIMANA
+Peru;PER;25;UCAYALI;;4;PURUS;1;PURUS

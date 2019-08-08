@@ -1,0 +1,5 @@
+pais_iso3;classification;category;id_mall;name;lat;lng;rating;address;id_comuna;id_region;desc1;desc2;desc3;symbol;color;size
+PER;Mall;Centro Comercial;18;Mall Plaza Bellavista;-12.056009;-77.1024636;;;150122;15;operativo;11278;;20;red;15
+PER;Mall;Centro Comercial;19;Mall Plaza Arequipa;-16.390304;-71.546363;;;40101;4;operativo;10332;;20;red;15
+PER;Mall;Centro Comercial;20;Mall Plaza Trujillo;-8.1033911;-79.047961;;;130101;13;operativo;11152;;20;red;15
+PER;Mall;Centro Comercial;23;Mall Plaza Comas;-11.93449899;-77.06422177;;;120206;12;en construcción;11062;;20;black;15

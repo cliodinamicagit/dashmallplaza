@@ -1,0 +1,26 @@
+pais_iso3;classification;category;id_mall;name;lat;lng;rating;address;id_comuna;id_region;desc1;desc2;desc3;symbol;color
+CHL;Mall;;1;Mall Plaza Los Dominicos;-33.415266;-70.540603;4.5;Padre Hurtado Sur 875, Las Condes;13114;13;operativo;;;20;red
+CHL;Mall;;2;Mall Plaza Egaña;-33.452967;-70.569607;4.4;Av. Larrain 5862, La Reina;13113;13;operativo;;;20;red
+CHL;Mall;;3;Mall Plaza Tobalaba;-33.569446;-70.557099;4.3;Camilo Henríquez 3692, Puente Alto;13201;13;operativo;;;20;red
+CHL;Mall;;4;Mall Plaza Oeste;-33.516724;-70.717337;4.3;Av. Américo Vespucio 1501, Los Cerrillos, Cerrillos;13102;13;operativo;;;20;red
+CHL;Mall;;5;Mall Plaza Sur;-33.631664;-70.710361;4.2;Pdte Jorge Alessandri Rodríguez 20040, San Bernardo;13401;13;operativo;;;20;red
+CHL;Mall;;6;Mall Plaza Vespucio;-33.517948;-70.598245;4.1;Av. Vicuña Mackenna 7110, La Florida;13110;13;operativo;;;20;red
+CHL;Mall;;7;Mall Plaza Alameda;-33.452669;-70.682288;4;Av Libertador Bernardo O'Higgins 3470, Santiago, Estación Central;13106;13;operativo;;;20;red
+CHL;Mall;;8;Mall Plaza Arica;-18.4697263;-70.3095017;4.3;Av. Diego Portales 640, Arica;15101;15;operativo;;;20;red
+CHL;Mall;;9;Mall Plaza Antofagasta;-23.645355;-70.402651;4.3;Av. Balmaceda 2355, Antofagasta;2101;2;operativo;;;20;red
+CHL;Mall;;10;Mall Plaza Calama;-22.450246;-68.921695;4.2;Av. Balmaceda 3242, Calama;2201;2;operativo;;;20;red
+CHL;Mall;;11;Mall Plaza Copiapo;-27.369205;-70.339116;4.2;Maipú 109, Copiapó;3101;3;operativo;;;20;red
+CHL;Mall;;12;Mall Plaza Iquique;-20.2326989;-70.1427881;4.1;Av. Heroes de la Concepción 2555, Iquique;1101;1;operativo;;;20;red
+CHL;Mall;;13;Mall Plaza El Trebol;-36.792291;-73.066294;4.5;Av. Pdte. Jorge Alessandri Rodriguez 3177, Talcahuano;8110;8;operativo;;;20;red
+CHL;Mall;;14;Mall Plaza Mirador Biobío;-36.829854;-73.063361;4.3;Av. Los Carrera 301, Concepción;8101;8;operativo;;;20;red
+CHL;Mall;;15;Mall Plaza La Serena;-29.912191;-71.258655;4.3;Alberto Solari 1400, La Serena;4101;4;operativo;;;20;red
+CHL;Mall;;16;Mall Plaza Los Ángeles;-37.4664489;-72.3535132;4.3;Mallplaza Los Ángeles;8301;8;operativo;;;20;red
+CHL;Mall;;17;Mall Plaza Norte;-33.36523472;-70.67922891;4.3;Mallplaza Norte santiago;13107;13;operativo;;;20;red
+PER;Mall;;18;Mall Plaza Bellavista;-12.056009;-77.1024636;;;11278;15;operativo;;;20;red
+PER;Mall;;19;Mall Plaza Arequipa;-16.390304;-71.546363;;;10332;4;operativo;;;20;red
+PER;Mall;;20;Mall Plaza Trujillo;-8.1033911;-79.048457;;;11152;13;operativo;;;20;red
+COL;Mall;;21;Mall Plaza Cartagena;10.424527;-75.540858;;;13001;13;operativo;;;20;red
+COL;Mall;;22;Mall Plaza Manizales;5.065832;-75.490118;;;17001;17;operativo;;;20;red
+PER;Mall;;23;Mall Plaza Comas;-11.93449899;-77.06422177;;;11062;12;en construcción;;;20;black
+COL;Mall;;24;Mall Plaza Buenavista;11.01542884;-74.82699874;;;8001;8;en construcción;;;20;black
+COL;Mall;;25;Mall Plaza Cali;3.413185691;-76.54890903;;;76001;76;en construcción;;;20;black
